@@ -2,26 +2,19 @@
 
 osu曲包谱面列表
 
-## beatmap.txt
+## build
 
-Beatmap Pack
+使用7-zip生成的压缩包目录，指令：`7z l *.7z|rar`
 
-已更新至Beatmap Pack #1007
+## updata
 
-## Catch.txt
+官方更新时间：2021-04-25 by Stefan
 
-Catch the Beat Beatmap Pack
+- 已更新至Beatmap Pack **#1014**
+- 已更新至Catch the Beat Beatmap Pack **#49**
+- 已更新至Mania Beatmap Pack **#85**
+- 已更新至Taiko Beatmap Pack **#130**
 
-已更新至Catch the Beat Beatmap Pack #49
+# 使用许可
 
-## osu!mania.txt
-
-Mania Beatmap Pack
-
-已更新至Mania Beatmap Pack #85
-
-## Taiko.txt
-
-Taiko Beatmap Pack
-
-已更新至Taiko Beatmap Pack #130
+DMCA
