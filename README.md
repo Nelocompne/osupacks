@@ -8,9 +8,9 @@ osu曲包谱面列表
 
 ## updata
 
-官方更新时间：2021-05-02 by Stefan
+官方更新时间：**2021-05-09** by Stefan
 
-- 已更新至Beatmap Pack **#1017**
+- 已更新至Beatmap Pack **#1020**
 - 已更新至Catch the Beat Beatmap Pack **#49**
 - 已更新至Mania Beatmap Pack **#85**
 - 已更新至Taiko Beatmap Pack **#130**
