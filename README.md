@@ -4,16 +4,16 @@ osu曲包谱面列表
 
 ## BUILD
 
-使用7-zip生成的压缩包目录，指令：`7z l *.7z|rar`
+请查看Wiki
 
 ## UPDATA
 
-官方更新时间：**2021-06-20** by Stefan
+官方更新时间：**2021-06-27** by Stefan
 
-- 已更新至Beatmap Pack **#1037**
-- 已更新至Catch the Beat Beatmap Pack **#49**
-- 已更新至Mania Beatmap Pack **#85**
-- 已更新至Taiko Beatmap Pack **#130**
+- 已更新至Beatmap Pack **#1040**
+- 已更新至Catch the Beat Beatmap Pack **#51**
+- 已更新至Mania Beatmap Pack **#89**
+- 已更新至Taiko Beatmap Pack **#135**
 
 # 使用许可
 
