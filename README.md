@@ -6,7 +6,7 @@ osu\![官方曲包](https://osu.ppy.sh/beatmaps/packs)收录列表，这意味�
 
 官方更新时间：**2022-04-24** by Stefan
 
-- 已更新至Beatmap Pack **#1155** `24035 files`
-- 已更新至Catch the Beat Beatmap Pack **#64** `1215 files`
-- 已更新至Mania Beatmap Pack **#104** `2021 files`
-- 已更新至Taiko Beatmap Pack **#163** `3397 files`
+- 已更新至Beatmap Pack **#1167**
+- 已更新至Catch the Beat Beatmap Pack **#65**
+- 已更新至Mania Beatmap Pack **#107**
+- 已更新至Taiko Beatmap Pack **#170**
