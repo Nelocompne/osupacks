@@ -1,1 +1,3 @@
-pack
+pack/*.json
+pack/*.xlsx
+pack/*.ps1
