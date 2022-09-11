@@ -1,0 +1,35 @@
+Listing archive: .\Beatmap Pack #1201.7z
+
+--
+Path = .\Beatmap Pack #1201.7z
+Type = 7z
+Physical Size = 124799173
+Headers Size = 1059
+Method = LZMA2:26
+Solid = +
+Blocks = 1
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2022-07-26 07:57:37 ....A      5202045    124798114  1187781 Virtual Riot - Paper Planes (Cut Ver.).osz
+2022-07-26 07:57:25 ....A      3321062               1580589 Pedro Silva - By Your Side..osz
+2022-07-26 07:57:19 ....A      2998329               1661105 Kagura Mea, Tenjin Kotone - MIRACLE RUSH (Cut Ver.).osz
+2022-07-26 07:57:48 ....A      5824432               1680213 Yasunori Nishiki - Decisive Battle II.osz
+2022-07-26 07:57:15 ....A      3102071               1697306 Mizutani Runa (NanosizeMir) - Philosophyz _TV animation ver._ (TV Size).osz
+2022-07-26 07:57:40 ....A      4065173               1732413 Ceui - Have a live day.osz
+2022-07-26 07:57:35 ....A      7553903               1756149 Helmet - Crashing Foreign Cars.osz
+2022-07-26 07:57:28 ....A      6284588               1760961 the peggies - DIVE TO LOVE.osz
+2022-07-26 07:57:43 ....A      6703571               1769914 Down - Trio Cup.osz
+2022-07-26 07:57:23 ....A      7758477               1773829 aran & lapix - KALACAKLA.osz
+2022-07-26 07:57:50 ....A      8450477               1774653 supercell feat. Hatsune Miku - Black_Rock Shooter 2M MIX.osz
+2022-07-26 07:57:17 ....A      7677034               1776577 Shiena Nishizawa - Light and Shadow.osz
+2022-07-26 07:57:20 ....A      6161278               1790032 Owl City - Cloud Nine.osz
+2022-07-26 07:57:47 ....A      9054599               1791832 SYU (from GALNERYUS) - REASON.osz
+2022-07-26 07:57:52 ....A      6751661               1796025 Mitsukiyo - Luminous Memory.osz
+2022-07-26 07:57:22 ....A      7188852               1800495 Ami - Sekai, Hoshi to Sora to Michi to.osz
+2022-07-26 07:57:26 ....A      7868902               1801638 chano & 40mP - Natsukoi Hanabi.osz
+2022-07-26 07:57:38 ....A      5849013               1801967 xi - Beatrice.osz
+2022-07-26 07:57:45 ....A      7805845               1802039 Hanabasami Kyo - Tentai Kansoku.osz
+2022-07-26 07:57:54 ....A      7180816               1803474 Bi-2 - Serebro.osz
+------------------- ----- ------------ ------------  ------------------------
+2022-07-26 07:57:54          126802128    124798114  20 files
