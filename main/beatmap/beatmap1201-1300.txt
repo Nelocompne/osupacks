@@ -897,3 +897,580 @@ Blocks = 1
 2022-10-03 02:51:59 ....A      9897380               1847159 Mitchie M - Amazing Magician.osz
 ------------------- ----- ------------ ------------  ------------------------
 2022-10-03 02:52:06          196406501    188384070  20 files
+
+Listing archive: Beatmap Pack #1226.7z
+
+--
+Path = Beatmap Pack #1226.7z
+Type = 7z
+Physical Size = 210341308
+Headers Size = 1035
+Method = LZMA2:24
+Solid = +
+Blocks = 1
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2022-10-09 02:37:58 ....A      4878878    210340273  1565050 Ed Sheeran - Lego House.osz
+2022-10-09 02:38:23 ....A      5641947               1574603 VeetaCrush - Mole.osz
+2022-10-09 02:38:26 ....A      4512915               1615952 MIYAVI - Other Side (TV Size).osz
+2022-10-09 02:37:54 ....A     26067258               1683871 Minami - Kono Machi ni Hare wa Konai.osz
+2022-10-09 02:38:27 ....A      5717163               1695998 Vansire - Just the Right Song.osz
+2022-10-09 02:38:06 ....A      7463169               1713947 Machi DiDi - Pi Li Pa La.osz
+2022-10-09 02:38:09 ....A      8491640               1729109 Rengoku Teien - Suikyou HEAVEN!.osz
+2022-10-09 02:38:01 ....A     15984539               1756246 Tsukuyomi - Reason For Existence.osz
+2022-10-09 02:38:14 ....A      4565440               1788476 la la larks - ego-izm (TV Size).osz
+2022-10-09 02:38:24 ....A      3168637               1790029 respon feat. Hatsune Miku & Megpoid - 45-byou.osz
+2022-10-09 02:38:17 ....A      4354895               1799400 Hamu - Lemrina.osz
+2022-10-09 02:38:18 ....A      5149487               1802635 Kai - Lose The Princess.osz
+2022-10-09 02:38:20 ....A     14471920               1811211 Mitsuoka Masami - last cross (TV Size).osz
+2022-10-09 02:38:02 ....A     18388430               1813053 sajou no hana - Tentou (TV Size).osz
+2022-10-09 02:38:12 ....A      3770643               1815708 Kenji Ohtsuki to Zetsubou Shoujotachi - Hito toshite Jiku ga Bureteiru (TV Size).osz
+2022-10-09 02:38:16 ....A     37654344               1819793 RuPaul - Lucky feat. Gottmik, Kandy Muse, Rose, & Symone.osz
+2022-10-09 02:38:05 ....A      9227819               1823014 seleP - Snow Marriage.osz
+2022-10-09 02:38:08 ....A      3296778               1847277 Steve Burns - Mighty Little Man (TV Size).osz
+2022-10-09 02:38:30 ....A     23768432               1848011 Ado - New Genesis.osz
+2022-10-09 02:38:21 ....A      8796763               1853651 kakichoco - Reirou no Hibiki.osz
+------------------- ----- ------------ ------------  ------------------------
+2022-10-09 02:38:30          215371097    210340273  20 files
+
+Listing archive: Beatmap Pack #1227.7z
+
+--
+Path = Beatmap Pack #1227.7z
+Type = 7z
+Physical Size = 234577449
+Headers Size = 1055
+Method = LZMA2:24
+Solid = +
+Blocks = 1
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2022-10-09 02:40:04 ....A     20551259    234576394  1140209 kamome sano - __emotional_.osz
+2022-10-09 02:40:26 ....A      6803513               1522743 Hoshimi Production - Sayonara kara Hajimaru Monogatari.osz
+2022-10-09 02:40:15 ....A      2875350               1691083 TAG underground - POSSESSION.osz
+2022-10-09 02:40:13 ....A     33147282               1726003 Hoshimachi Suisei - GHOST.osz
+2022-10-09 02:40:29 ....A     33922802               1757602 Hareru Hanamaru - STONE OCEAN.osz
+2022-10-09 02:40:30 ....A      5465353               1759488 tv room - Say It Back.osz
+2022-10-09 02:40:05 ....A      6618712               1789331 Last Note. - Mukiryoku Coup D'Etat.osz
+2022-10-09 02:40:33 ....A      6631044               1806127 Mitsukiyo - Mutual panorama (feat. Aitsuki Nakuru).osz
+2022-10-09 02:40:36 ....A     13379949               1814804 Harry Styles - As It Was.osz
+2022-10-09 02:40:37 ....A     14768898               1817150 Yonekura Chihiro - Fairy Tail _Yakusoku no Hi_ (TV Size).osz
+2022-10-09 02:40:32 ....A      6677070               1821630 Yuma Mizonokuchi feat. Ai Ohsera - Princess Lily.osz
+2022-10-09 02:40:20 ....A      4597772               1823749 Laur - Metamorphose.osz
+2022-10-09 02:40:25 ....A     14408007               1834956 Ayane, Ruka, Rie _ Karen from BEST FRIENDS! - In bloom.osz
+2022-10-09 02:40:16 ....A      2398718               1842903 Ohara Yuiko - Tabibito no Uta (TV Size).osz
+2022-10-09 02:40:22 ....A      9267374               1846448 Dragon Guardian - Tsuioku no Kuroki Makenshi.osz
+2022-10-09 02:40:13 ....A      6354439               1846855 LiSA - ADAMAS.osz
+2022-10-09 02:40:03 ....A     31494086               1849271 fromis_9 - LOVE BOMB.osz
+2022-10-09 02:40:23 ....A      7167966               1850237 Tommy heavenly6 - Pray.osz
+2022-10-09 02:40:00 ....A      4116507               662208 lapix - Carry Me Away.osz
+2022-10-09 02:40:06 ....A      8062397               70988 Utsu-P - Psychokinesis.osz
+------------------- ----- ------------ ------------  ------------------------
+2022-10-09 02:40:37          238708498    234576394  20 files
+
+Listing archive: Beatmap Pack #1228.7z
+
+--
+Path = Beatmap Pack #1228.7z
+Type = 7z
+Physical Size = 187586801
+Headers Size = 1054
+Method = LZMA2:24
+Solid = +
+Blocks = 1
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2022-10-16 18:03:24 ....A      8570032    187585747  1031887 nano.RIPE - Ao no Rakugaki.osz
+2022-10-16 18:03:31 ....A      4150126               1234620 Suara - Amakakeru Hoshi (TV Size).osz
+2022-10-16 18:03:28 ....A      5425492               1516392 Pierce The Veil - She Sings In The Morning.osz
+2022-10-16 18:03:35 ....A      3043012               1587739 Atsuko Asahi - GCN Yoshi Circuit (Cut Ver.).osz
+2022-10-16 18:03:47 ....A      8783304               1628671 Neutral Milk Hotel - King of Carrot Flowers.osz
+2022-10-16 18:03:29 ....A      5468375               1736708 Risa Yuzuki - S'il Vous President.osz
+2022-10-16 18:03:26 ....A      7126218               1738049 vivid undress - FANFARE KOUSHINKYOKU.osz
+2022-10-16 18:04:05 ....A      8479909               1743144 Suzuki Konomi - BE THE ONE.osz
+2022-10-16 18:04:08 ....A      4892785               1747608 aesthetics across the color line - 4.osz
+2022-10-16 18:04:03 ....A      6397171               1754642 Rin'ca - Kiseki Melody.osz
+2022-10-16 18:03:45 ....A      5958964               1763358 DROELOE x Sem - Facing the Sea.osz
+2022-10-16 18:03:58 ....A     24502981               1773214 Suzuyu - Euphorium.osz
+2022-10-16 18:03:21 ....A      6815911               1789615 the peggies - Highlight Highlight.osz
+2022-10-16 18:03:59 ....A     19150272               1790451 keshi - ANGOSTURA.osz
+2022-10-16 18:03:50 ....A     38010966               1793500 Grabbitz - Die For You.osz
+2022-10-16 18:03:33 ....A     10233843               1808381 Sota Hanamura & Lil' Fang - Break it down.osz
+2022-10-16 18:03:52 ....A      5691045               1834917 Antistar - OVERDRIVE feat. Rita.osz
+2022-10-16 18:04:07 ....A      6056616               1842041 cYsmix - triangles.osz
+2022-10-16 18:03:54 ....A      6680245               1843748 Coldplay - Higher Power.osz
+2022-10-16 18:04:01 ....A     11582054               1856258 Ayane - Arrival of Tears -void remix-.osz
+------------------- ----- ------------ ------------  ------------------------
+2022-10-16 18:04:08          197019321    187585747  20 files
+
+Listing archive: Beatmap Pack #1229.7z
+
+--
+Path = Beatmap Pack #1229.7z
+Type = 7z
+Physical Size = 202169735
+Headers Size = 1065
+Method = LZMA2:24
+Solid = +
+Blocks = 1
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2022-10-16 18:05:11 ....A      4150561    202168670  1248923 Nekomata Master+ - chaos eater -IIDX edition-.osz
+2022-10-16 18:05:38 ....A      8295964               1675797 Lia - Birthday Song,Requiem.osz
+2022-10-16 18:05:28 ....A     15948082               1740419 Masayuki Suzuki feat. Suu - GIRI GIRI (TV Size).osz
+2022-10-16 18:05:29 ....A      7841604               1747113 shiho - Shiori.osz
+2022-10-16 18:05:41 ....A     22894606               1767411 Shikiura. - Karada wa Shoujiki datte Ittenno.osz
+2022-10-16 18:05:35 ....A     18333023               1781293 Doubutsu Biscuits x PPP - Youkoso Japari Park e (TV Size).osz
+2022-10-16 18:05:31 ....A      5207137               1798516 Chiyoko - Baby Fantastic! (Short Ver.).osz
+2022-10-16 18:04:56 ....A      3686087               1802363 Kaneko Ayano - Romance Sengen.osz
+2022-10-16 18:05:33 ....A      8318386               1809117 MYTH & ROID - STYX HELIX.osz
+2022-10-16 18:05:15 ....A      8001716               1812260 Sayuri - Hana no Tou.osz
+2022-10-16 18:05:01 ....A     31192165               1813016 Macaroni Empitsu - Hoshi ga Oyogu.osz
+2022-10-16 18:05:09 ....A      7120632               1824273 DJ Noriken - Turn It Up (feat. Kanae Asaba).osz
+2022-10-16 18:04:50 ....A      1736036               1825240 Wire - Brazil.osz
+2022-10-16 18:05:06 ....A     10710151               1825443 wowaka - Unknown Mother-Goose feat. Hatsune Miku.osz
+2022-10-16 18:05:44 ....A     12154349               1841988 zts - miragecoordinator.osz
+2022-10-16 18:05:37 ....A      8069781               1848363 garnet feat. F9 - hauynite.osz
+2022-10-16 18:05:13 ....A      5023292               1851948 culenasm - Byouka.osz
+2022-10-16 18:04:58 ....A      5684234               1855918 YO-KING - Tooi Nioi.osz
+2022-10-16 18:05:24 ....A      3365844               1856519 the brilliant green - Ash Like Snow (TV Size).osz
+2022-10-16 18:05:26 ....A     17622166               1859679 BUMP OF CHICKEN - SOUVENIR (TV Size).osz
+------------------- ----- ------------ ------------  ------------------------
+2022-10-16 18:05:44          205355816    202168670  20 files
+
+Listing archive: Beatmap Pack #1230.7z
+
+--
+Path = Beatmap Pack #1230.7z
+Type = 7z
+Physical Size = 157036655
+Headers Size = 1056
+Method = LZMA2:24
+Solid = +
+Blocks = 1
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2022-10-16 18:08:25 ....A     10083129    157035599  1304759 Helblinde - Rewrite Nightmare.osz
+2022-10-16 18:08:37 ....A      5715310               1352410 MARETU feat. Hatsune Miku - Manemane Psychotropic.osz
+2022-10-16 18:08:32 ....A      3842034               1536540 xi - Garyou Tensei.osz
+2022-10-16 18:08:21 ....A      5224214               1594562 Takami Chika (CV_ Inami Anju) - One More Sunshine Story.osz
+2022-10-16 18:08:13 ....A      6104069               1629782 Groove Coverage - Holy Virgin (Nightcore Mix).osz
+2022-10-16 18:09:07 ....A      9507021               1654863 Krik_Krak - Archetype no Ido no Kaibutsu.osz
+2022-10-16 18:08:30 ....A      4752651               1674871 Hakushi Hasegawa - Doku.osz
+2022-10-16 18:08:57 ....A      6486788               1769121 UKRampage - Replica feat. mami.osz
+2022-10-16 18:08:28 ....A      4497857               1771017 69 de 74 - Aratanaru Ketsui.osz
+2022-10-16 18:08:33 ....A      7377458               1774982 Miley Cyrus - 7 Things.osz
+2022-10-16 18:08:38 ....A      8656772               1788270 Hanatan - Brand New Voice.osz
+2022-10-16 18:08:27 ....A      3658706               1797787 philo - Sensei ni Itchao.osz
+2022-10-16 18:08:23 ....A      8467384               1802164 Faylan - Badge & Dagger.osz
+2022-10-16 18:08:59 ....A      8526115               1810228 Blind Guardian - Mirror Mirror.osz
+2022-10-16 18:08:16 ....A      8571314               1812908 my sound life - yamisame.osz
+2022-10-16 18:08:19 ....A      4923198               1820383 Fujisawa Yoshiaki - Overture.osz
+2022-10-16 18:08:09 ....A     12190479               1841989 zts - miragecoordinator.osz
+2022-10-16 18:09:04 ....A     30962076               1849738 Shirakami Fubuki - Say! Fanfare!.osz
+2022-10-16 18:09:01 ....A      3873011               1863294 UNISON SQUARE GARDEN - Chaos ga Kiwamaru (TV Size).osz
+2022-10-16 18:08:35 ....A      6242674               331058 Aimer - Brave Shine.osz
+------------------- ----- ------------ ------------  ------------------------
+2022-10-16 18:09:07          159662260    157035599  20 files
+
+Listing archive: Beatmap Pack #1231.7z
+
+--
+Path = Beatmap Pack #1231.7z
+Type = 7z
+Physical Size = 239392521
+Headers Size = 1088
+Method = LZMA2:24
+Solid = +
+Blocks = 1
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2022-10-24 00:08:00 ....A      6239803    239391433  1408257 Warak - REANIMATE.osz
+2022-10-24 00:08:18 ....A     33880039               1698171 isekaijoucho - Kasumi ga Tsuite Kuru.osz
+2022-10-24 00:08:26 ....A      6717048               1704968 Lovejoy - It's All Futile! It's All Pointless!.osz
+2022-10-24 00:07:56 ....A     13402411               1741221 Hyadain - Hyadain no Kakakata _ Kataomoi-C (TV Size).osz
+2022-10-24 00:07:54 ....A      5414213               1752805 Link0 - Finixtahv.osz
+2022-10-24 00:08:23 ....A     13711186               1763125 Diabolic Phantasma - Liberation.osz
+2022-10-24 00:08:15 ....A      5939130               1772945 Shakira - Hips Don't Lie feat. Wyclef Jean.osz
+2022-10-24 00:08:10 ....A     15028668               1789690 nao - Anthem.osz
+2022-10-24 00:07:53 ....A      9773909               1802588 Ayane - Kakusei -Fractional Vision-.osz
+2022-10-24 00:08:19 ....A      8310923               1803507 brakence - venus fly trap.osz
+2022-10-24 00:07:47 ....A     17206751               1823012 MIMI feat. SEKAI - Escape.osz
+2022-10-24 00:08:24 ....A      9851175               1826036 Demetori - Shinkou wa Hakanaki Ningen no Tame ni _ Jehovah's YaHVeH.osz
+2022-10-24 00:07:51 ....A      5982009               1833038 Eve - Ambivalent.osz
+2022-10-24 00:07:58 ....A      5827824               1837481 Hutch Dano, Adam Hicks, Daniel Curtis Lee - Zeke and Luther Theme Song (TV Size).osz
+2022-10-24 00:08:06 ....A      9554456               1841846 cYsmix - triangles.osz
+2022-10-24 00:08:21 ....A     24831094               1842338 Wolpis Carter - Amako.osz
+2022-10-24 00:08:13 ....A      4509114               1849267 Drake - One Dance feat. Wizkid & Kyla.osz
+2022-10-24 00:07:45 ....A     27146013               1853258 Sakamoto Maaya - Okaerinasai (tomatomerde Remix).osz
+2022-10-24 00:08:16 ....A     14704599               1864346 Kenshi Yonezu - KICK BACK (TV Size).osz
+2022-10-24 00:08:12 ....A      7339392               1864555 Vaundy - CHAINSAW BLOOD.osz
+------------------- ----- ------------ ------------  ------------------------
+2022-10-24 00:08:26          245369757    239391433  20 files
+
+Listing archive: Beatmap Pack #1232.7z
+
+--
+Path = Beatmap Pack #1232.7z
+Type = 7z
+Physical Size = 186975544
+Headers Size = 1051
+Method = LZMA2:24
+Solid = +
+Blocks = 1
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2022-10-24 00:10:21 ....A      6900617    186974493  1098547 Jimmy Weckl - Get Happy.osz
+2022-10-24 00:10:36 ....A     13036090               1440919 Aoratos - Thresher.osz
+2022-10-24 00:10:18 ....A      4360643               1521290 Amatsuki - Astro Lost (Cut Ver.).osz
+2022-10-24 00:09:41 ....A      7300170               1665058 paraoka feat. haru_nya - Suna no Hanataba.osz
+2022-10-24 00:09:31 ....A      3453540               1670295 Maeda Jun - Onaji Takami e.osz
+2022-10-24 00:10:38 ....A     18050890               1721770 Miyashita Yuu - Koufukuron (TV Size).osz
+2022-10-24 00:10:19 ....A      5220382               1789653 ginkiha - Ixia Polystachya (Sentou).osz
+2022-10-24 00:09:27 ....A     11185123               1820755 DJ Earworm - United State of Pop 2009 (Blame It on the Pop).osz
+2022-10-24 00:09:37 ....A     11842308               1827653 Shimotsuki Haruka - EXEC_METAFALICA_..osz
+2022-10-24 00:09:34 ....A      8070982               1833393 Yamamoto Mineko - Watashi no Mitai Keshiki made.osz
+2022-10-24 00:10:41 ....A      8187258               1835773 CIEL - Kimi no Nozomi, Kimi no Negai.osz
+2022-10-24 00:10:25 ....A      7609932               1841885 cYsmix - triangles.osz
+2022-10-24 00:09:39 ....A     17954471               1856813 TUYU - Amamoyo.osz
+2022-10-24 00:10:31 ....A      5295380               1859605 Katakiri Rekka - TSUBASA.osz
+2022-10-24 00:10:16 ....A      4366983               1859662 Len - GHOST (feat. Such).osz
+2022-10-24 00:10:26 ....A     16034571               1862160 Liella! - WE WILL!! (TV Size).osz
+2022-10-24 00:09:35 ....A     16156809               1863429 UNISON SQUARE GARDEN - Chaos ga Kiwamaru (TV Size).osz
+2022-10-24 00:10:33 ....A     16304538               1864461 Kenshi Yonezu - KICK BACK (TV Size).osz
+2022-10-24 00:09:29 ....A      5692009               242574 Fox Stevenson - Throwdown.osz
+2022-10-24 00:10:29 ....A      7591305               61676 Ray - sign.osz
+------------------- ----- ------------ ------------  ------------------------
+2022-10-24 00:10:41          194614001    186974493  20 files
+
+Listing archive: Beatmap Pack #1233.7z
+
+--
+Path = Beatmap Pack #1233.7z
+Type = 7z
+Physical Size = 165855925
+Headers Size = 1059
+Method = LZMA2:24
+Solid = +
+Blocks = 1
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2022-10-31 04:03:08 ....A      5930947    165854866  1080994 ONE OK ROCK - NO SCARED.osz
+2022-10-31 04:03:29 ....A      9336310               1600584 Disclosure, Amine, slowthai - My High.osz
+2022-10-31 04:03:32 ....A      6167030               1632730 KARUT - Mechanical JUNGLE.osz
+2022-10-31 04:03:19 ....A      4982486               1711193 Frostie - Bright Purity.osz
+2022-10-31 04:03:11 ....A     10483497               1743736 iroha(sasaki) - Meltdown feat. Kagamine Rin.osz
+2022-10-31 04:03:05 ....A      3214817               1746423 Frederic Chopin - Revolutionary Etude (Shoji Meguro Arrangement).osz
+2022-10-31 04:02:55 ....A     11289009               1751325 Toyama Nao - Gunjou Infinity.osz
+2022-10-31 04:02:59 ....A      4962939               1767449 Sagara Kokoro - Hoshizora no Ima.osz
+2022-10-31 04:03:06 ....A      9540901               1774219 EPICA - Wings of Freedom.osz
+2022-10-31 04:03:15 ....A      7130038               1807751 BUMP OF CHICKEN - Karma.osz
+2022-10-31 04:03:17 ....A      6722420               1808565 Hestia (CV_ Inori Minase) - Kimiiro Everyday.osz
+2022-10-31 04:02:58 ....A      7937625               1832484 Faylan - Dead END.osz
+2022-10-31 04:03:03 ....A     11936521               1833048 Roselia x Afterglow - Kyouen Red x Violet.osz
+2022-10-31 04:03:13 ....A      5986133               1854887 Fujii Kaze - Shinunoga E-Wa.osz
+2022-10-31 04:03:10 ....A     15868498               1855499 Harumaki Gohan feat. Hatsune Miku - Melty Land Nightmare.osz
+2022-10-31 04:03:01 ....A      5268028               1857193 Juxie! - why you gotta.osz
+2022-10-31 04:03:23 ....A     16595896               1860627 YOASOBI - Shukufuku (TV Size).osz
+2022-10-31 04:03:21 ....A      7350563               1867537 Tatsuya Kitani - Seija no Koushin (TV Size).osz
+2022-10-31 04:03:25 ....A     15111725               1868830 Tatsuya Kitani - Scar (TV Size).osz
+2022-10-31 04:03:27 ....A      3714698               62705 TAG underground - POSSESSION.osz
+------------------- ----- ------------ ------------  ------------------------
+2022-10-31 04:03:32          169530081    165854866  20 files
+
+Listing archive: Beatmap Pack #1234.7z
+
+--
+Path = Beatmap Pack #1234.7z
+Type = 7z
+Physical Size = 250105237
+Headers Size = 1072
+Method = LZMA2:24
+Solid = +
+Blocks = 1
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2022-10-31 04:04:17 ....A      8662084    250104165  1072818 Tamura Yukari - Endless Story.osz
+2022-10-31 04:04:15 ....A      6809666               1096826 DIIV - Skin Game.osz
+2022-10-31 04:04:52 ....A     19237554               1247179 DFG - Briller (feat. ZeratoR).osz
+2022-10-31 04:04:44 ....A      9263926               1363675 Nekomata Master+ - Kung-fu Empire.osz
+2022-10-31 04:04:41 ....A      4052576               1532007 Rish feat. Choko - Punai Punai Taisou.osz
+2022-10-31 04:04:41 ....A     25417281               1768412 Duca - Answer.osz
+2022-10-31 04:04:35 ....A      6781103               1770758 Caramell - Caramelldansen (Ryu_ Remix).osz
+2022-10-31 04:04:25 ....A      8206320               1813410 Saaya Mizuno - My Secret.osz
+2022-10-31 04:04:58 ....A     34960523               1821864 Meychan x Gero - MATORYOSHKA.osz
+2022-10-31 04:04:47 ....A     10378899               1823153 Poppin'Party x Pastel_Palettes x Morfonica - Kizunairo no Ensemble.osz
+2022-10-31 04:04:23 ....A      5031669               1826190 Ohashi Ayaka - Oshiete Blue Sky (TV Size).osz
+2022-10-31 04:04:53 ....A      3704532               1830933 yanaginagi - over and over (TV Size).osz
+2022-10-31 04:04:38 ....A      5664306               1843870 glaive, ericdoa - fuck this town.osz
+2022-10-31 04:04:13 ....A      7947349               1844736 Strawberry Girls - First Kiss.osz
+2022-10-31 04:04:45 ....A      9586680               1847266 Korpiklaani - Sanaton maa.osz
+2022-10-31 04:04:19 ....A     16261488               1848202 GLORYHAMMER - The Epic Rage of Furious Thunder.osz
+2022-10-31 04:04:43 ....A      8458543               1857169 Metamoe - Quantum Travel.osz
+2022-10-31 04:04:38 ....A     43539034               1865113 EMA - Kaichuu Michishirube.osz
+2022-10-31 04:04:26 ....A     11353292               1867009 Ohara Rinne (CV_ Tamura Yukari) - Lasting Memories.osz
+2022-10-31 04:04:28 ....A      9316743               751222 RichaadEB feat. Cristina Vee - BAD APPLE!!.osz
+------------------- ----- ------------ ------------  ------------------------
+2022-10-31 04:04:58          254633568    250104165  20 files
+
+Listing archive: Beatmap Pack #1235.7z
+
+--
+Path = Beatmap Pack #1235.7z
+Type = 7z
+Physical Size = 206528656
+Headers Size = 1059
+Method = LZMA2:24
+Solid = +
+Blocks = 1
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2022-11-05 09:01:25 ....A     11327310    206527597  1423969 Veil Of Maya - Mikasa.osz
+2022-11-05 09:01:08 ....A      6966173               1692868 Dio feat. Sef - Diu & Zaf.osz
+2022-11-05 09:01:31 ....A     17496141               1700148 Mindless Self Indulgence - 3 S'.osz
+2022-11-05 09:01:29 ....A     13428774               1750539 Touno Sakura - PRIZM_CIRCUiT.osz
+2022-11-05 09:01:28 ....A      6396016               1768029 THE ORAL CIGARETTES - Sesshoku.osz
+2022-11-05 09:01:14 ....A     10038593               1774512 Doug Petty, TJ Hill - Amphibia Main Title Theme (TV Size).osz
+2022-11-05 09:01:22 ....A     10407230               1778235 a crowd of rebellion - Crocus.osz
+2022-11-05 09:01:17 ....A     10193530               1783013 Muzzy - Feeling Stronger (feat. Charlotte Colley) (High Maintenance Remix).osz
+2022-11-05 09:01:18 ....A      7523367               1801358 u's - Bokura wa Ima no Naka de.osz
+2022-11-05 09:01:21 ....A      5321957               1815491 Lucian X Tiffany Day - Crush.osz
+2022-11-05 09:01:06 ....A      9678040               1821202 LiSA - traumerei.osz
+2022-11-05 09:01:24 ....A     21690647               1845362 HALCALI - Tandem.osz
+2022-11-05 09:00:59 ....A      2654579               1857926 Franz Ferdinand - This Fffire (TV Size).osz
+2022-11-05 09:01:10 ....A     19312761               1860413 NateWantsToBattle - Haruka Mirai.osz
+2022-11-05 09:01:11 ....A      8642731               1860583 PSYQUI feat. mikanzil - Endroll.osz
+2022-11-05 09:01:26 ....A      8388147               1862317 Kisumi Reika - Asu Note.osz
+2022-11-05 09:01:32 ....A      7103267               1863179 Rameses B - Mountains (feat. Veela).osz
+2022-11-05 09:01:16 ....A     13762620               1865199 Central Cee - Obsessed With You.osz
+2022-11-05 09:01:13 ....A      2304767               1869512 Mefjus - Blitz (Cut Ver.).osz
+2022-11-05 09:01:33 ....A     16679072               1871865 ZUTOMAYO - Time Left (TV Size).osz
+------------------- ----- ------------ ------------  ------------------------
+2022-11-05 09:01:33          209315722    206527597  20 files
+
+Listing archive: Beatmap Pack #1236.7z
+
+--
+Path = Beatmap Pack #1236.7z
+Type = 7z
+Physical Size = 173028244
+Headers Size = 1052
+Method = LZMA2:24
+Solid = +
+Blocks = 1
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2022-11-19 22:42:31 ....A      6173716    173027192  1589921 Rihanna - Disturbia.osz
+2022-11-19 22:42:01 ....A      4452122               1651943 Daisy x Daisy - Towa no Kizuna feat. Another Infinity (TV Size).osz
+2022-11-19 22:42:44 ....A      1901544               1655138 lieu - cry.osz
+2022-11-19 22:42:36 ....A     15114522               1721048 TRUE - Sincerely.osz
+2022-11-19 22:42:16 ....A     11929012               1804158 Maeshima Mayu - story (TV Size).osz
+2022-11-19 22:42:21 ....A      8494464               1805426 Demetori - Shoujo Satori _ Innumerable Eyes.osz
+2022-11-19 22:42:17 ....A      4708410               1806315 Basslovers United - A+ Superstar (NeoTune! Remix Edit) (Nightcore Mix).osz
+2022-11-19 22:42:41 ....A     12976688               1820912 Tarako - Bing Chilling-ish.osz
+2022-11-19 22:42:13 ....A     12591597               1821917 Airi Suzuki - Heart wa Oteage (TV Size).osz
+2022-11-19 22:42:19 ....A      4236808               1830101 ItaloBrothers - Summer (Nightcore Mix).osz
+2022-11-19 22:42:27 ....A      3155301               1835768 Mayflower - Wii Shop Groove.osz
+2022-11-19 22:42:26 ....A      8915042               1836797 Metallica - For Whom The Bell Tolls.osz
+2022-11-19 22:42:43 ....A     12319067               1836982 Kano - Batsu to Batsu.osz
+2022-11-19 22:42:13 ....A     10720197               1860745 Xenoglossy - RECALL A TRAUMATIC EXPERIENCE (2012ver.).osz
+2022-11-19 22:42:38 ....A     17691999               1863372 KyoKa - Yumemi Hanabira.osz
+2022-11-19 22:42:46 ....A     18079605               1864323 Kenshi Yonezu - KICK BACK (TV Size).osz
+2022-11-19 22:42:08 ....A      8629839               1865269 Mizutani Runa - Hane no Yurikago.osz
+2022-11-19 22:42:23 ....A      8872243               1868562 Riryka - principle.osz
+2022-11-19 22:42:18 ....A      6237900               1869572 Kisaragi Airi - Hana no Ato.osz
+2022-11-19 22:42:39 ....A      6989055               1870331 Camila Cabello - Bam Bam (feat. Ed Sheeran).osz
+------------------- ----- ------------ ------------  ------------------------
+2022-11-19 22:42:46          184189131    173027192  20 files
+
+Listing archive: Beatmap Pack #1237.7z
+
+--
+Path = Beatmap Pack #1237.7z
+Type = 7z
+Physical Size = 232860169
+Headers Size = 1096
+Method = LZMA2:24
+Solid = +
+Blocks = 1
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2022-11-19 22:44:18 ....A     44741635    232859073  1521219 Theocracy - I AM.osz
+2022-11-19 22:43:41 ....A      7800710               1714935 Annabel - Call Me.osz
+2022-11-19 22:43:47 ....A      4875816               1753342 Snail's House - Pixel Galaxy.osz
+2022-11-19 22:43:54 ....A     17407332               1770210 Kardashev - Snow-Sleep.osz
+2022-11-19 22:44:04 ....A      7841372               1775381 Silk Sonic - Leave the Door Open.osz
+2022-11-19 22:43:53 ....A     22476039               1776682 Imperial Circus Dead Decadence - Hyakki Yakou -Pandemonic Night Parade-.osz
+2022-11-19 22:43:57 ....A      5624419               1784853 twikipedia - again.osz
+2022-11-19 22:43:50 ....A      3789868               1790301 NAKISO - Dokuzu.osz
+2022-11-19 22:43:56 ....A      7538908               1790780 Draw the Emotional - Secret treasure.osz
+2022-11-19 22:44:12 ....A     17717612               1791342 Poppin'Party - Returns.osz
+2022-11-19 22:44:09 ....A      5992496               1792797 luupy - punch nazis.osz
+2022-11-19 22:43:59 ....A     10677246               1797306 Official HIGE DANdism - Laughter.osz
+2022-11-19 22:43:44 ....A      5670438               1819682 Marie, Shimotsuki Haruka - Hane no Naki Chou (Cut Ver.).osz
+2022-11-19 22:44:08 ....A     29443493               1831598 BLACKPINK - Pink Venom.osz
+2022-11-19 22:43:49 ....A     15482185               1838808 IOSYS - Hatate no Bakkoi Satsujin Jiken.osz
+2022-11-19 22:44:06 ....A      4304269               1845159 Zektbach - Apocalypse _dirge of swans_.osz
+2022-11-19 22:43:46 ....A      8929062               1849967 IOSYS feat. 3L - Gyouretsu no Dekiru Eirin Shinryoujo (Cut Ver.).osz
+2022-11-19 22:44:12 ....A      6343207               1850104 Myuu - Heavenly Kiss.osz
+2022-11-19 22:44:03 ....A     20145931               1857663 VINXIS - Joushou no Tabi _ The Ascending Journey.osz
+2022-11-19 22:44:01 ....A     13456370               1865576 stellatram - METHOD_HYMME_STAUROLITE_.sync_with.YEqejyu.osz
+------------------- ----- ------------ ------------  ------------------------
+2022-11-19 22:44:18          260258408    232859073  20 files
+
+Listing archive: Beatmap Pack #1238.7z
+
+--
+Path = Beatmap Pack #1238.7z
+Type = 7z
+Physical Size = 248326480
+Headers Size = 1096
+Method = LZMA2:24
+Solid = +
+Blocks = 1
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2022-11-19 22:45:16 ....A      3680889    248325384  1462559 Teary Planet feat. flower - Sunflower (Cut Ver.).osz
+2022-11-19 22:45:18 ....A      8187479               1696407 HIMEHINA - Nagareyuku Inochi.osz
+2022-11-19 22:45:01 ....A      4949149               1752046 MisomyL - Ring ! Run ! Nyan!!.osz
+2022-11-19 22:45:26 ....A     35255856               1755115 Dreamcatcher - MAISON.osz
+2022-11-19 22:45:04 ....A      9422314               1756259 Release Hallucination - Alone in the chaos.osz
+2022-11-19 22:45:26 ....A      8815755               1770843 Lady Antebellum - Need You Now.osz
+2022-11-19 22:45:12 ....A      5773021               1775363 Fall Out Boy - Headfirst Slide Into Cooperstown On A Bad Bet.osz
+2022-11-19 22:45:35 ....A     16380168               1784434 Azaleh x Stasys x Alydian - Slide.osz
+2022-11-19 22:45:15 ....A      6417235               1789110 Crash Comet & Dustkey - Berlin.osz
+2022-11-19 22:45:21 ....A     16089460               1790796 40mP feat. chano - Yuugure One Room.osz
+2022-11-19 22:45:21 ....A      7744162               1799574 Sayuri - Hana no Tou.osz
+2022-11-19 22:45:03 ....A      7491315               1801386 Annabel - pedalnote.osz
+2022-11-19 22:45:10 ....A     14431970               1807404 Kawada Mami - as x sist _Amae Beta na Watashi Nari ni_ (Short Ver.).osz
+2022-11-19 22:45:24 ....A     47220533               1821116 Official HIGE DANdism - Yesterday.osz
+2022-11-19 22:45:36 ....A      3943713               1834595 Justin Bieber - Ghost.osz
+2022-11-19 22:45:33 ....A     20304396               1849016 Syrufit feat. 3L - Myosotis alpestris.osz
+2022-11-19 22:45:08 ....A      7310193               1867707 Hoshimi Production - Shine Purity _Kagayaki no Jundo_.osz
+2022-11-19 22:45:00 ....A     17589830               1869119 Cascada - A Never Ending Dream (Nightcore Mix).osz
+2022-11-19 22:45:06 ....A      4719426               1875503 Bruno Mars - Runaway Baby.osz
+2022-11-19 22:45:30 ....A      8324268               1877894 Lana Del Rey - Born To Die.osz
+------------------- ----- ------------ ------------  ------------------------
+2022-11-19 22:45:36          254051132    248325384  20 files
+
+Listing archive: Beatmap Pack #1239.7z
+
+--
+Path = Beatmap Pack #1239.7z
+Type = 7z
+Physical Size = 197450222
+Headers Size = 1140
+Method = LZMA2:24
+Solid = +
+Blocks = 1
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2022-11-19 22:46:28 ....A     15229437    197449082  1109953 jun feat. Schanita - TRUE LOVE.osz
+2022-11-19 22:46:30 ....A      7034672               1414025 Iris Freyja (CV_ Hidaka Rina), Mononobe Mitsuki (CV_ Numakura Manami) - Ray of bullet (tiny ver.).osz
+2022-11-19 22:46:49 ....A     11084645               1449452 Hatsuki Yura - Secret Rose Garden.osz
+2022-11-19 22:46:37 ....A     18725031               1616382 wacci - Friends (TV Size).osz
+2022-11-19 22:46:54 ....A      8604784               1730072 Chroma - Destroy, Destroy, Destroy The Happy End.osz
+2022-11-19 22:46:52 ....A     10167837               1746568 vally.exe - oyasumination.osz
+2022-11-19 22:46:44 ....A     11700882               1767295 Aviations - Dizziness Explained.osz
+2022-11-19 22:46:41 ....A     33379593               1774018 Tsuki no Tempest - The One and Only.osz
+2022-11-19 22:46:47 ....A      6155800               1783510 fail better, heal faster - DNA Scam.osz
+2022-11-19 22:46:35 ....A      7286956               1783889 Sakura Yuno - Sweet Sorrow Lilac.osz
+2022-11-19 22:46:39 ....A      4688535               1816410 Cavetown - For You.osz
+2022-11-19 22:46:46 ....A      5893327               1843240 solfa feat. Hashimoto Miyuki - Nijiiro Spring.osz
+2022-11-19 22:46:32 ....A      8396238               1847928 YUKA NAGASE - Binetsuen.osz
+2022-11-19 22:46:51 ....A      6703758               1849171 Falcom Sound Team jdk feat. Kotera Kanako - way of life -Full Version-.osz
+2022-11-19 22:46:42 ....A      4691946               1861454 Rat Boy & IBDY - WHO'S READY FOR TOMORROW.osz
+2022-11-19 22:46:26 ....A     17493301               1864481 Kenshi Yonezu - KICK BACK.osz
+2022-11-19 22:46:21 ....A      4363148               1868358 Sawano Hiroyuki - Blumenkranz.osz
+2022-11-19 22:46:34 ....A     10607508               1872755 Kanaria - Queen (Levare Ciruam's Nouveau Hardcore Remix) feat. Feng Yi.osz
+2022-11-19 22:46:29 ....A      8953083               1873820 Seismix & Cahb - Gravity.osz
+2022-11-19 22:46:24 ....A      4806416               930707 Adust Rain - Seven Style.osz
+------------------- ----- ------------ ------------  ------------------------
+2022-11-19 22:46:54          205966897    197449082  20 files
+
+Listing archive: Beatmap Pack #1240.7z
+
+--
+Path = Beatmap Pack #1240.7z
+Type = 7z
+Physical Size = 267580768
+Headers Size = 1116
+Method = LZMA2:24
+Solid = +
+Blocks = 1
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2022-11-19 22:49:35 ....A      7965540    267579652  1107784 YUKIYANAGI - Thousand Lights.osz
+2022-11-19 22:49:23 ....A      2637852               1250511 Various Artists - Meditation.osz
+2022-11-19 22:47:34 ....A      8534465               1469689 Foreground Eclipse - You Can't Explain Anything Without The Word 'Destruction' _ Destruction.osz
+2022-11-19 22:49:38 ....A     40503214               1638844 U2 - Saigetsu (Koko & Satsuki ga Tenkomori's Sagyou Bougai Remix).osz
+2022-11-19 22:47:30 ....A      6897050               1722410 philo - God-ish.osz
+2022-11-19 22:48:24 ....A      4273195               1734006 Mili - Paper Bouquet (TV Size).osz
+2022-11-19 22:47:27 ....A      9502898               1759165 Avenged Sevenfold - Shepherd of Fire.osz
+2022-11-19 22:49:33 ....A      7725484               1785762 Lush - Sweetness and Light.osz
+2022-11-19 22:49:30 ....A      8481913               1785945 Foreground Eclipse - Wandering, Never Wondering (There Exists A Shade).osz
+2022-11-19 22:49:28 ....A     23873574               1803264 cosMo@BousouP feat. Hatsune Miku - YAMINABE!!!!.osz
+2022-11-19 22:47:26 ....A      7513929               1803357 Le Malin (CV_ Shiraishi Haruka) - Inori no Uta.osz
+2022-11-19 22:48:22 ....A     26149558               1815870 hitorie - Little Cry Baby.osz
+2022-11-19 22:48:41 ....A      6787097               1845353 Matsuda Ayaka - Clockwise.osz
+2022-11-19 22:48:45 ....A     15310400               1851159 Kuroneko Dungeon - Lilieze to Enryuu Laevateinn.osz
+2022-11-19 22:49:26 ....A      9780994               1858201 Euchaeta - A Songwriter's Cosmos.osz
+2022-11-19 22:48:43 ....A      4153124               1858779 Sakai Mikio - Identity (TV Size).osz
+2022-11-19 22:49:31 ....A      7229356               1861782 Chata - Gusha.osz
+2022-11-19 22:48:28 ....A     37956412               1868221 Toyama Nao - OVER!!.osz
+2022-11-19 22:47:32 ....A      8365862               1868926 Chitose Sara - Arcadia.osz
+2022-11-19 22:47:36 ....A     30726767               1875378 TUYU - Donna Ketsumatsu ga Onozomi dai.osz
+------------------- ----- ------------ ------------  ------------------------
+2022-11-19 22:49:38          274368684    267579652  20 files
+
+Listing archive: Beatmap Pack #1241.7z
+
+--
+Path = Beatmap Pack #1241.7z
+Type = 7z
+Physical Size = 185209223
+Headers Size = 1013
+Method = LZMA2:24
+Solid = +
+Blocks = 1
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2022-11-19 22:51:05 ....A      6984920    185208210  1412912 nonoc - Believe in you (TV Size).osz
+2022-11-19 22:51:10 ....A      9305659               1508169 Shimotsuki Haruka - Cynthia.osz
+2022-11-19 22:51:21 ....A      8412697               1522841 Daft Punk - One More Time.osz
+2022-11-19 22:50:59 ....A     22611997               1625762 Chata - Glitter.osz
+2022-11-19 22:51:23 ....A      5709169               1679635 Snail's House - Sunday.osz
+2022-11-19 22:50:57 ....A      7958955               1697072 Hakushi Hasegawa - Watashi o Mite.osz
+2022-11-19 22:51:15 ....A      8795198               1723321 sasalasa - nevermore.osz
+2022-11-19 22:50:55 ....A     11252826               1731481 Daughters - Satan In The Wait.osz
+2022-11-19 22:51:13 ....A      5400503               1750465 UPLIFT SPICE - Kanojo.osz
+2022-11-19 22:50:52 ....A      9415255               1828499 Centimillimental - Hikari no Naka kara Tsutaetai Koto.osz
+2022-11-19 22:51:02 ....A      8478134               1832599 Mayflower - Are you up yet.osz
+2022-11-19 22:51:04 ....A      3646729               1834399 LandRoot - Need To De-stress.osz
+2022-11-19 22:51:13 ....A     20432204               1844826 AAAA - Hoshi o Kakeru Adventure _ we are forever friends! _ [Long ver.].osz
+2022-11-19 22:51:19 ....A      7305190               1850759 yoshiki_lisa - Destin Histoire.osz
+2022-11-19 22:51:00 ....A      2747172               1863466 Ziyoou-vachi - Kaen (TV Size).osz
+2022-11-19 22:51:17 ....A      9743017               1877186 Denkishiki Karen Ongaku Shuudan - Elder Things.osz
+2022-11-19 22:50:50 ....A     17744967               1882387 syudou - In The Back Room (TV Size).osz
+2022-11-19 22:51:08 ....A      5869805               1882400 -45 - Ena.osz
+2022-11-19 22:51:26 ....A      9027449               1882592 Toyama Nao - FLOWER.osz
+2022-11-19 22:50:54 ....A     12267511               628446 Ribonnu - -ERROR.osz
+------------------- ----- ------------ ------------  ------------------------
+2022-11-19 22:51:26          193109357    185208210  20 files
+
