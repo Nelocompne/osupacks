@@ -1,5 +1,8 @@
 pack/*.json
 pack/*.xlsx
 pack/*.ps1
+pack/*.bat
+pack/*.cmd
 pack/*.7z
+pack/*.txt
 pack/.getxfer.*
