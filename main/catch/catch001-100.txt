@@ -2551,3 +2551,291 @@ Blocks = 1
 2022-08-21 20:19:37 ....A     11698429               936182 MaouDamashii - Orchestra 11.osz
 ------------------- ----- ------------ ------------  ------------------------
 2022-08-21 20:19:42          185345734    180633525  20 files
+
+Listing archive: Catch the Beat Beatmap Pack #73.7z
+
+--
+Path = Catch the Beat Beatmap Pack #73.7z
+Type = 7z
+Physical Size = 157490903
+Headers Size = 1060
+Method = LZMA2:24
+Solid = +
+Blocks = 1
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2022-08-21 21:20:51 ....A      8804160    157489843  1021449 zakuro - Inochi ni Kirawarete Iru..osz
+2022-08-21 21:20:19 ....A     10024145               1052779 765 MILLION ALLSTARS - Flyers!!!.osz
+2022-08-21 21:20:22 ....A      3801827               1592433 Numakura Manami - Sakebe (TV Size).osz
+2022-08-21 21:20:48 ....A      4872088               1650003 Thaehan - Doki-Doki.osz
+2022-08-21 21:20:38 ....A      4196273               1653206 ZAQ - BRAVER (TV Size).osz
+2022-08-21 21:20:42 ....A      3072336               1732224 Yonekura Chihiro - Smiling-Swinging!! (Game Ver.).osz
+2022-08-21 21:20:44 ....A     17987538               1760358 MAN WITH A MISSION - Raise your flag (TV Size).osz
+2022-08-21 21:20:27 ....A     17894641               1761877 nasuo_ - Honey Jet Coaster (TV Size).osz
+2022-08-21 21:20:32 ....A      6447048               1764078 Mia REGINA - I got it! (Slax Remix).osz
+2022-08-21 21:20:46 ....A      9135796               1779436 BlackY - ARTEMiS.osz
+2022-08-21 21:20:53 ....A      2769590               1790590 Mniam - Countenance.osz
+2022-08-21 21:20:35 ....A     21504622               1794214 D-D-Dice vs. siromaru - Catch the Glory.osz
+2022-08-21 21:20:29 ....A     10519093               1799889 Waterflame - Ricochet Love.osz
+2022-08-21 21:20:17 ....A      3745568               1806253 DIALOGUE+ - Deneb to Spica (TV Size).osz
+2022-08-21 21:20:31 ....A      7716171               1808246 Eminem - Love The Way You Lie feat. Rihanna.osz
+2022-08-21 21:20:40 ....A     13573611               1813639 Ray - Rakuen PROJECT (TV Size).osz
+2022-08-21 21:20:36 ....A      7324498               1815509 Eva Jagun - Enchantix (TV Size).osz
+2022-08-21 21:20:49 ....A      1241672               1820901 Yu-Peng Chen @HOYO-MiX - A New Summer Adventure!.osz
+2022-08-21 21:20:54 ....A      3390932               1821381 Shota Kageyama - N no Dragon.osz
+2022-08-21 21:20:56 ....A      4312155               1826327 -45 - Total Eclipse of The Sun.osz
+------------------- ----- ------------ ------------  ------------------------
+2022-08-21 21:20:56          162333764    157489843  20 files
+
+Listing archive: Catch the Beat Beatmap Pack #74.7z
+
+--
+Path = Catch the Beat Beatmap Pack #74.7z
+Type = 7z
+Physical Size = 150916320
+Headers Size = 1029
+Method = LZMA2:24
+Solid = +
+Blocks = 1
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2022-12-02 04:36:25 ....A      1966961    150915291  1418500 Takayan - Eternal Masturbation (Cut Ver.).osz
+2022-12-02 04:36:02 ....A      7907435               1604962 Camellia feat. Nanahira - Tsukitourou.osz
+2022-12-02 04:36:04 ....A     14974879               1612932 Frums - theyaremanycolors.osz
+2022-12-02 04:35:45 ....A      4603214               1622277 Wonderlands x Showtime - TONDEMO-WONDERZ.osz
+2022-12-02 04:35:48 ....A     19712873               1633773 nekomirin feat. marumoko - Papipo.osz
+2022-12-02 04:36:21 ....A      2173860               1655949 toby fox - Shop.osz
+2022-12-02 04:36:11 ....A      8255359               1673971 Ravensblood - Storms of Ages.osz
+2022-12-02 04:35:50 ....A     11390442               1779478 Culprate & Zenji - Ghostmachine.osz
+2022-12-02 04:35:55 ....A     13746798               1784479 LeaF - Evanescent (extended ver.).osz
+2022-12-02 04:35:51 ....A      4722253               1790692 Wakeshima Kanon - Foul Play ni Kurari (TV Size).osz
+2022-12-02 04:36:12 ....A       720740               1790957 Toby Fox - alarm_titlescreen.osz
+2022-12-02 04:36:19 ....A      6366474               1791101 xi - Longinus.osz
+2022-12-02 04:36:17 ....A      2555122               1796767 Tephe - Neppa feat. Butter.osz
+2022-12-02 04:35:56 ....A       962512               1799575 SkylarZYX - LG Washer End Tune.osz
+2022-12-02 04:36:08 ....A     18008805               1800982 Aqua Timez - ALONES (TV Size).osz
+2022-12-02 04:35:53 ....A     11315036               1813171 KOTOKO - Loop-the-Loop (TV Size).osz
+2022-12-02 04:36:06 ....A      8567778               1816401 Gram vs. Yooh - Apocalypse.osz
+2022-12-02 04:36:14 ....A      4671239               1818249 xi - Garyou Tensei.osz
+2022-12-02 04:36:23 ....A      8985627               1818913 Camellia - #1f1e33 (#00102g version).osz
+2022-12-02 04:35:59 ....A      2564347               1824362 MC Bola de Fogo e as Foguentas - Atoladinha (Cut Ver.).osz
+------------------- ----- ------------ ------------  ------------------------
+2022-12-02 04:36:25          154171754    150915291  20 files
+
+Listing archive: Catch the Beat Beatmap Pack #75.7z
+
+--
+Path = Catch the Beat Beatmap Pack #75.7z
+Type = 7z
+Physical Size = 132678210
+Headers Size = 1001
+Method = LZMA2:24
+Solid = +
+Blocks = 1
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2022-12-02 04:37:17 ....A      5704885    132677209  1667811 xi - Ascension to Heaven.osz
+2022-12-02 04:37:36 ....A      2074701               1705910 dedp - ded_ED.osz
+2022-12-02 04:37:30 ....A      4811296               1708446 SiM - The Rumbling (TV Size).osz
+2022-12-02 04:37:59 ....A      5111598               1729039 Eldzhey - Suzuki.osz
+2022-12-02 04:37:32 ....A      2019445               1750318 WINO - Taiyou wa Yoru mo Kagayaku (TV Size).osz
+2022-12-02 04:37:35 ....A      4158860               1754791 KOTOKO - Light My Fire (TV Size).osz
+2022-12-02 04:37:23 ....A     17837277               1761117 SCREEN mode - Reason Living (TV Size).osz
+2022-12-02 04:37:47 ....A     25337150               1781554 Suzuyu - Euphorium (Game Ver.).osz
+2022-12-02 04:37:38 ....A      5280799               1789435 xi - Parousia.osz
+2022-12-02 04:37:27 ....A     10445976               1789527 ToYou & DJ Raisei - ADHD.osz
+2022-12-02 04:37:20 ....A      1903618               1804625 Brad Breeck - Emotional Uplifting Orchestral.osz
+2022-12-02 04:37:21 ....A      1871956               1804626 Brad Breeck - Acoustic Indie Folk Vox 2.osz
+2022-12-02 04:37:49 ....A      6786027               1804743 Linkin Park - Breaking The Habit.osz
+2022-12-02 04:37:47 ....A      4429297               1805232 Momo Belia Deviluke (CV_ Toyosaki Aki) - MORE & MORE (Cut Ver.).osz
+2022-12-02 04:37:33 ....A      9140000               1810556 Camellia - Ryuuseigun.osz
+2022-12-02 04:37:40 ....A      3594257               1816676 Ayano Mashiro - ideal white (TV Size).osz
+2022-12-02 04:37:28 ....A      9141199               1820019 Aimer - LAST STARDUST.osz
+2022-12-02 04:37:14 ....A      5823505               1830796 xi - Halcyon.osz
+2022-12-02 04:37:25 ....A      9280038               1836844 Official HIGE DANdism - Yesterday.osz
+2022-12-02 04:37:18 ....A      4253989               758986 Qrispy Joybox feat. Chata - Yuuki no Pendant.osz
+------------------- ----- ------------ ------------  ------------------------
+2022-12-02 04:37:59          139005873    132677209  20 files
+
+Listing archive: Catch the Beat Beatmap Pack #76.7z
+
+--
+Path = Catch the Beat Beatmap Pack #76.7z
+Type = 7z
+Physical Size = 146777542
+Headers Size = 1096
+Method = LZMA2:24
+Solid = +
+Blocks = 1
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2022-12-02 04:39:56 ....A      5751175    146776446  1301493 Mili - Summoning 101.osz
+2022-12-02 04:39:45 ....A      1626434               1454009 Kotokawa Akira (CV_ Tomita Miyu) - Taiyou to Rainbow (TV Size).osz
+2022-12-02 04:39:54 ....A      2201102               1593971 toby fox - Uwa!! So Holiday.osz
+2022-12-02 04:40:00 ....A      1927661               1610997 Yu-Peng Chen @HOYO-MiX - Exclusive Specialty.osz
+2022-12-02 04:39:58 ....A      2853668               1676472 Tia - Heart Realize (TV Size).osz
+2022-12-02 04:39:23 ....A     20319258               1687084 Hoshimachi Suisei - phony.osz
+2022-12-02 04:39:47 ....A      5439442               1741059 Haywyre - Never Count On Me (Cut Ver.).osz
+2022-12-02 04:39:40 ....A     18112765               1750544 Hoshino Gen - Comedy (TV Size).osz
+2022-12-02 04:39:29 ....A     19608944               1782916 Jugo Kumagai - phony.osz
+2022-12-02 04:39:36 ....A      6320729               1785699 Given - Fuyu no Hanashi.osz
+2022-12-02 04:39:34 ....A     14875784               1789105 Yuduki - you (Vocal-thanks_you - 2014 Sai Mix Ver.).osz
+2022-12-02 04:39:32 ....A      1394389               1792964 Montablan64 - Harumachi Clover.osz
+2022-12-02 04:39:31 ....A      7877534               1799847 Yorushika - Gogatsu wa Hana Rokushou no Madobe kara.osz
+2022-12-02 04:39:48 ....A     17280272               1801641 ASIAN KUNG-FU GENERATION - After Dark (TV Size).osz
+2022-12-02 04:39:43 ....A      8045841               1825672 Ling Yuan yousa - Jin Li Chao.osz
+2022-12-02 04:39:26 ....A      6395762               1835043 Ramin Djawadi - Main Titles (TV Size).osz
+2022-12-02 04:39:50 ....A      2062436               1836848 Amatsuki Mashiro (CV_ Inori Minase) - Searchlight to Tsukiakari (TV Size).osz
+2022-12-02 04:39:38 ....A      2368109               1841266 Shin Agnes - Shining Star.osz
+2022-12-02 04:38:58 ....A      2050996               1857120 Bring Me The Horizon - Can You Feel My Heart (Cut Ver.).osz
+2022-12-02 04:39:53 ....A      3952083               1864673 Kenshi Yonezu - KICK BACK (TV Size).osz
+------------------- ----- ------------ ------------  ------------------------
+2022-12-02 04:40:00          150464384    146776446  20 files
+
+Listing archive: Catch the Beat Beatmap Pack #77.7z
+
+--
+Path = Catch the Beat Beatmap Pack #77.7z
+Type = 7z
+Physical Size = 192796240
+Headers Size = 1072
+Method = LZMA2:24
+Solid = +
+Blocks = 1
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2022-12-02 04:43:23 ....A      4831227    192795168  1419539 maki ligon - Among Us _ Eurobeat Remix.osz
+2022-12-02 04:44:11 ....A     18391119               1610127 MIOYAMAZAKI - Noise (TV Size).osz
+2022-12-02 04:43:51 ....A     19592223               1623877 Soma Saito - Hikari Tatsu Ame (TV Size).osz
+2022-12-02 04:43:56 ....A      6093584               1631702 Morimori Atsushi - Mangetsu no Chikurin (MRM REMIX).osz
+2022-12-02 04:43:14 ....A      2449142               1647383 REDALiCE - Watame Koujou Kusozako Kaisen Remix.osz
+2022-12-02 04:43:30 ....A      3275728               1669080 Ohara Yuiko - Tabibito no Uta (TV Size).osz
+2022-12-02 04:43:49 ....A      3313325               1742382 Mifune Shioriko (CV_ Koizumi Moeka) - Ketsui no Hikari.osz
+2022-12-02 04:43:27 ....A      5884936               1769575 cYsmix - Peer Gynt.osz
+2022-12-02 04:43:29 ....A      5813412               1791427 Minazuki Airi with Atsushi - Daisuki, Evolution.osz
+2022-12-02 04:43:18 ....A      9873289               1794186 Shadow Of Intent - The Return.osz
+2022-12-02 04:43:11 ....A      3377324               1799451 Centimillimental - session _ the seasons.osz
+2022-12-02 04:43:13 ....A      9230728               1811874 Kanpyohgo - Reichi no Taiyou Shinkou -Nuclear Fusion- Hardcore.edt.osz
+2022-12-02 04:43:17 ....A      9684167               1814393 ZUN - Voyage 1969.osz
+2022-12-02 04:43:21 ....A     17942521               1817757 Syou Takeyaki - A Hero Someday (TV Size).osz
+2022-12-02 04:43:25 ....A     22181477               1818488 yuki - Into Gray (Short Ver.).osz
+2022-12-02 04:43:09 ....A      6840890               1828113 nao - Toaru Shoukoku no Ohimesama ga....osz
+2022-12-02 04:43:53 ....A     15683766               1864138 ReoNa - Nai Nai (TV Size).osz
+2022-12-02 04:43:44 ....A     17555087               1864739 Kenshi Yonezu - KICK BACK (TV Size).osz
+2022-12-02 04:43:47 ....A      4863771               1867700 OxT - HOLLOW HUNGER (TV Size).osz
+2022-12-02 04:43:42 ....A     10479657               914862 Ceui - Kimi ni Hana.osz
+------------------- ----- ------------ ------------  ------------------------
+2022-12-02 04:44:11          197357373    192795168  20 files
+
+Listing archive: Catch the Beat Beatmap Pack #78.7z
+
+--
+Path = Catch the Beat Beatmap Pack #78.7z
+Type = 7z
+Physical Size = 165777870
+Headers Size = 1148
+Method = LZMA2:24
+Solid = +
+Blocks = 1
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2023-01-15 21:02:26 ....A      2876305    165776722  1426534 HO-KAGO TEA TIME - Kira Kira Days (Cut Ver.).osz
+2023-01-15 21:02:43 ....A      9570914               1674661 Masayoshi Minoshima feat. nomico - Lost Emotion (Amane UK Hardcore Remix).osz
+2023-01-15 21:02:52 ....A     18738308               1684050 TOMINAGA TOMMY HIROAKI - JoJo _Sono Chi no Sadame_ (TV Size).osz
+2023-01-15 21:02:29 ....A     14951909               1715139 Silentroom - XHRONOXAPSULE.osz
+2023-01-15 21:02:57 ....A      5006809               1722821 HOYO-MiX - Devouring Snake.osz
+2023-01-15 21:02:41 ....A      1289701               1733285 Mostima.mp4 - sus.osz
+2023-01-15 21:02:53 ....A      7607595               1794217 Inori Minase - TRUST IN ETERNITY.osz
+2023-01-15 21:02:56 ....A      3376451               1813822 Kikiyama - Yume Nikki.osz
+2023-01-15 21:02:40 ....A      9245077               1820163 Camellia feat. Nanahira - Energy _ Drin-ko _ Fein-chan!  (Camellia's MONSTERISTIC D. M. P. Remix).osz
+2023-01-15 21:02:45 ....A      8163192               1822780 Shimotsuki Haruka - SilentFlame.osz
+2023-01-15 21:02:46 ....A      3980426               1828643 mustie=DC - Merry Snowy Fantasy feat. Hanon (Cut Ver.).osz
+2023-01-15 21:02:36 ....A     12822109               1836859 KELUN - CHU-BURA (TV Size).osz
+2023-01-15 21:02:55 ....A     13538660               1842792 Camellia - Another Xronixle.osz
+2023-01-15 21:02:50 ....A     11361126               1864714 Dragon Guardian - Tsuioku no Kuroki Makenshi.osz
+2023-01-15 21:02:31 ....A      3319174               1869045 Vaundy - CHAINSAW BLOOD (TV Size).osz
+2023-01-15 21:02:33 ....A      3145137               1871679 ZUTOMAYO - Time Left (TV Size).osz
+2023-01-15 21:02:30 ....A     13887432               542127 Tomatsu Haruka, Hikasa Yoko, Amamiya Sora - Eyecatch! Too much! (TV Size).osz
+2023-01-15 21:02:38 ....A      9231536               603435 gmtn. (witch's slave) - furioso melodia.osz
+2023-01-15 21:02:34 ....A      7862103               955131 Rigel Theatre - La Sylphide.osz
+2023-01-15 21:02:48 ....A     11018468               977397 Mewhan - Etude (TV Size).osz
+------------------- ----- ------------ ------------  ------------------------
+2023-01-15 21:02:57          170992432    165776722  20 files
+
+Listing archive: Catch the Beat Beatmap Pack #79.7z
+
+--
+Path = Catch the Beat Beatmap Pack #79.7z
+Type = 7z
+Physical Size = 169086324
+Headers Size = 1092
+Method = LZMA2:24
+Solid = +
+Blocks = 1
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2023-01-15 21:04:15 ....A      2148915    169085232  1029591 Hikasa Youko, Uchida Maaya, Taketatsu Ayana, Akesaka Satomi - Gokujo. no Jouken (TV Size).osz
+2023-01-15 21:04:43 ....A     15422105               1091356 Camellia feat. Nanahira - Konran Shoujo Soflan-chan!! (Long Version).osz
+2023-01-15 21:04:26 ....A      4063837               1113617 NU-KO - Pochiko no Shiawase na Nichijou.osz
+2023-01-15 21:04:28 ....A      9335630               1348272 Maeda Jun x yanaginagi - Muteki no Soldier.osz
+2023-01-15 21:04:06 ....A      3467845               1461060 Studio EIM - Nautilus.osz
+2023-01-15 21:04:10 ....A      8259420               1609920 Yorushika - Matasaburo.osz
+2023-01-15 21:04:22 ....A      3001239               1635494 ALEX TERRIBLE - Last Christmas.osz
+2023-01-15 21:04:32 ....A     12176471               1736560 Camellia - TremENDouS.osz
+2023-01-15 21:04:40 ....A      5551156               1779476 URBANGARDE - KIMI WA OKUMAGASO.osz
+2023-01-15 21:04:11 ....A      4873936               1797320 M2U - Promise (feat. Sherie).osz
+2023-01-15 21:04:18 ....A      4803551               1820929 OxT - Clattanoia (TV Size).osz
+2023-01-15 21:04:17 ....A      7800969               1833566 Lady Gaga - Bad Romance.osz
+2023-01-15 21:04:38 ....A     36406379               1842262 Kazui (CV_ Ryota Takeuchi) - half.osz
+2023-01-15 21:04:34 ....A      7204158               1849341 Audioslave - Like a Stone.osz
+2023-01-15 21:04:13 ....A      2621862               1869451 Lia - Toki o Kizamu Uta (TV Size).osz
+2023-01-15 21:04:08 ....A     10947007               1872426 Halozy - Harahara Ranran.osz
+2023-01-15 21:04:36 ....A     15910438               1888620 trung-nova - Howl in the Night Sky.osz
+2023-01-15 21:04:24 ....A      6002804               1894482 Apocalyptica - I Don't Care (feat. Adam Gontier).osz
+2023-01-15 21:04:04 ....A      1512676               1896111 Toby Fox - Dialtone.osz
+2023-01-15 21:04:30 ....A     11545184               963383 Loctek - Summer CarnivaL.osz
+------------------- ----- ------------ ------------  ------------------------
+2023-01-15 21:04:43          173055582    169085232  20 files
+
+Listing archive: Catch the Beat Beatmap Pack #80.7z
+
+--
+Path = Catch the Beat Beatmap Pack #80.7z
+Type = 7z
+Physical Size = 179718282
+Headers Size = 1068
+Method = LZMA2:24
+Solid = +
+Blocks = 1
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2023-03-06 07:24:36 ....A      8097420    179717214  1464008 zts - miragecoordinator.osz
+2023-03-06 07:24:33 ....A     22322114               1550926 Camellia - Kisaragi.osz
+2023-02-13 07:05:17 ....A      2791923               1569667 KuensanP - Don't Blow It!.osz
+2023-02-13 07:05:23 ....A      3649290               1639425 Ouse Akira - Sacrifice (Short Ver.).osz
+2023-02-13 07:05:06 ....A      5971954               1717009 Kucchi vs. Akki - Yakumo __JOINT STRUGGLE.osz
+2023-02-13 07:05:10 ....A      2610816               1727379 toby fox - Amalgam.osz
+2023-02-13 07:05:12 ....A     14377971               1729729 Kou! - TERABYTE (XETTABYTE Long Version).osz
+2023-03-06 07:24:26 ....A     14446779               1753863 Sou - Mr. Fixer (TV Size).osz
+2023-02-18 11:38:51 ....A     19803704               1754419 Yooh - RPG.osz
+2023-03-06 07:24:34 ....A      5385450               1779446 Reol - Saisaki.osz
+2023-02-13 07:05:03 ....A      7674259               1791834 Utsu-P feat. Kagamine Rin - Tokyo Teddy Bear.osz
+2023-02-13 07:05:16 ....A     24235042               1806502 TUYU - Doro no Bunzai de Watashi dake no Taisetsu o Ubaou da nante.osz
+2023-02-13 07:05:19 ....A     10750815               1821680 Falcom Sound Team jdk - Unfathomed Force.osz
+2023-02-18 11:38:58 ....A     21405450               1864538 Release Hallucination - I.F..osz
+2023-02-13 07:05:21 ....A      9818631               1882781 Ito Kashitaro - Sayonara dake ga jinsei da.osz
+2023-02-13 07:05:07 ....A      2877093               1889003 toby fox - Uwa!! So HEATS!!.osz
+2023-02-13 07:05:00 ....A      2722034               1901325 Doubutsu Biscuits - Youkoso Japari Park e (Xmas ver.).osz
+2023-02-13 07:05:04 ....A      1888938               1901415 Yuuki Aira - Violet Snow (Short Ver.).osz
+2023-02-13 07:05:22 ....A     10643580               1915695 HMMMM - Kuroiuta.osz
+2023-03-06 07:24:30 ....A      3512428               730460 A-RISE - Shocking Party (TV Size).osz
+------------------- ----- ------------ ------------  ------------------------
+2023-03-06 07:24:36          194985691    179717214  20 files
