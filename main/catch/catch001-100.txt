@@ -2839,3 +2839,163 @@ Blocks = 1
 2023-03-06 07:24:30 ....A      3512428               730460 A-RISE - Shocking Party (TV Size).osz
 ------------------- ----- ------------ ------------  ------------------------
 2023-03-06 07:24:36          194985691    179717214  20 files
+
+Listing archive: SC81 - Catch the Beat Beatmap Pack #81.zip
+
+--
+Path = SC81 - Catch the Beat Beatmap Pack #81.zip
+Type = zip
+Physical Size = 160137364
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2023-06-22 00:01:40 .....     15493215     15493215  810477 SakiZ - osu_favourites.osz
+2023-06-22 00:01:42 .....      2761090      2761090  828941 Utsu-P - TRAUMATIC.osz
+2023-06-22 00:01:42 .....      3572724      3572724  1669802 Meguro Shoji - Period.osz
+2023-06-22 00:01:42 .....      3924140      3924140  1674171 HOYO-MiX - Fantasy Note.osz
+2023-06-22 00:01:44 .....      7055403      7055403  1711510 THE ORAL CIGARETTES - Kyouran Hey Kids__.osz
+2023-06-22 00:01:44 .....     14159031     14159031  1711863 Annabel - Signal Graph (TV Size).osz
+2023-06-22 00:01:46 .....     11331627     11331627  1737213 HISATOMI - lullaby (feat. KIRA) (uet Remix).osz
+2023-06-22 00:01:50 .....      9157056      9157056  1827134 -45 - Midorigo Queen Bee.osz
+2023-06-22 00:01:50 .....     12137206     12137206  1848847 Hanae - Kamisama Hajimemashita (TV Size).osz
+2023-06-22 00:01:52 .....      3291341      3291341  1862049 Iris December Uncry (CV_ Hanazono Mei)_ Noel the Nextseason (CV_ Ameba Tsukasa) - Crying Heart.osz
+2023-06-22 00:01:52 .....      3767861      3767861  1864493 Tamiyasu Tomoe - Yamato Nadeshiko Hanakotoba (Short Ver.).osz
+2023-06-22 00:01:52 .....      7993449      7993449  1886551 monet - ZYPRESSEN no Hanataba.osz
+2023-06-22 00:01:54 .....     14244420     14244420  1897425 Frums - Pictured as Perfect and Plus.osz
+2023-06-22 00:01:54 .....     13501190     13501190  1897431 Frums - Pictured as Perfect and Plus.osz
+2023-06-22 00:01:56 .....      4917840      4917840  1903921 Mili - Dandelion Girls_ Dandelion Boys.osz
+2023-06-22 00:02:00 .....      8705447      8705447  1907069 Masayoshi Minoshima - Bad Apple__ feat. nomico.osz
+2023-06-22 00:02:00 .....      1697324      1697324  1919493 Bo Burnham - Unpaid Intern.osz
+2023-06-22 00:02:02 .....      2572419      2572419  1921382 tomspicy - fieryrage accordion (hardcore remix).osz
+2023-06-22 00:02:02 .....      8050148      8050148  1927438 lapix - Discloze (Extended).osz
+2023-06-22 00:02:02 .....     11800911     11800911  1931730 Thank You Scientist - The Amateur Arsonist_s Handbook.osz
+------------------- ----- ------------ ------------  ------------------------
+2023-06-22 00:02:02          160133842    160133842  20 files
+
+Listing archive: SC82 - Catch the Beat Beatmap Pack #82.zip
+
+--
+Path = SC82 - Catch the Beat Beatmap Pack #82.zip
+Type = zip
+Physical Size = 192955139
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2023-06-23 00:24:16 .....      8953284      8953284  951273 Morimori Atsushi vs. uma - Noel (long ver.).osz
+2023-06-23 00:24:16 .....      2820959      2820959  1101376 Co shu Nie - asura.osz
+2023-06-23 00:24:18 .....     33605745     33605745  1464988 LazuLight - Diamond City Lights.osz
+2023-06-23 00:24:18 .....      4721181      4721181  1668029 KimurawaiP - Chouon Chuu Haikatsuryou Test.osz
+2023-06-23 00:24:20 .....     14243547     14243547  1755429 Silentroom - Nhelv.osz
+2023-06-23 00:24:20 .....      2117398      2117398  1763195 SimpleInfo Design - Presidential Palace Adventure Theme Song.osz
+2023-06-23 00:24:22 .....     12394751     12394751  1796476 Kopophobia _ Ajataa - Starfall.osz
+2023-06-23 00:24:24 .....     10422209     10422209  1822454 Hirano Aya_ Katou Emiri_ Fukuhara Kaori_ Endou Aya - Motteke_ Sailor Fuku (TV Size).osz
+2023-06-23 00:24:24 .....      2347778      2347778  1829962 Yuki Kajiura - M40.osz
+2023-06-23 00:24:26 .....     17997107     17997107  1866983 V.W.P - Saikai (TV Size).osz
+2023-06-23 00:24:28 .....     18943877     18943877  1876266 i_Ris - Re_Call (TV Size).osz
+2023-06-23 00:24:28 .....      2918645      2918645  1905186 Pet na Kanojotachi - Kimi ga Yume o Tsuretekita (TV Size).osz
+2023-06-23 00:24:30 .....      6233246      6233246  1910958 Satoru Kosaki - Sutekimeppou.osz
+2023-06-23 00:24:30 .....      6268086      6268086  1914385 Kenneyon and Kara - Wildflower.osz
+2023-06-23 00:24:30 .....     15659866     15659866  1933048 Sakuzyo - I am _End_.osz
+2023-06-23 00:24:34 .....     14249526     14249526  1939038 Culprate - Yin.osz
+2023-06-23 00:24:34 .....      1979011      1979011  1952193 Kane Parsons - Sealed Away.osz
+2023-06-23 00:24:36 .....      7929623      7929623  1953850 RIOT - Overkill.osz
+2023-06-23 00:24:36 .....      7575273      7575273  1955050 Ito Kanako - Tsuisou no Despair.osz
+2023-06-23 00:24:38 .....      1570743      1570743  1958525 Toby Fox - dogcheck.osz
+------------------- ----- ------------ ------------  ------------------------
+2023-06-23 00:24:38          192951855    192951855  20 files
+
+Listing archive: SC83 - Catch the Beat Beatmap Pack #83.zip
+
+--
+Path = SC83 - Catch the Beat Beatmap Pack #83.zip
+Type = zip
+Physical Size = 177228308
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2023-06-23 01:23:28 .....      6721993      6721993  1345256 Uruha Rushia - Hana ni Bourei.osz
+2023-06-23 01:23:30 .....      7954499      7954499  1351725 Tanchiky - ENERGY SYNERGY MATRIX.osz
+2023-06-23 01:23:30 .....      5970119      5970119  1577228 aran - Xperanza.osz
+2023-06-23 01:23:32 .....      7481342      7481342  1716502 Mili - Vitamins feat. world_s end girlfriend.osz
+2023-06-23 01:23:34 .....     11359420     11359420  1755137 Ito Kanako - Sky of Twilight.osz
+2023-06-23 01:23:36 .....      3889584      3889584  1778741 Zekk - Fallen.osz
+2023-06-23 01:23:36 .....      4608439      4608439  1794190 Se-U-Ra - The Endless for Traveler.osz
+2023-06-23 01:23:38 .....     35961212     35961212  1818360 Tsukumo Sana - Astrogirl.osz
+2023-06-23 01:23:38 .....      6239870      6239870  1858686 Porcelain Black - Pretty Little Psycho.osz
+2023-06-23 01:23:40 .....     11685298     11685298  1881103 Suda Keina - veil (TV Size).osz
+2023-06-23 01:23:40 .....     21545442     21545442  1896680 DM DOKURO - The Devourer of Gods (Nonstop Mix).osz
+2023-06-23 01:23:42 .....     10858566     10858566  1901630 Aqua Timez - Velonica (TV Size).osz
+2023-06-23 01:23:42 .....      9343327      9343327  1942425 BABYMETAL - Akatsuki.osz
+2023-06-23 01:23:46 .....      1789194      1789194  1952148 TJ Hill - The Owl House Theme Song (TV Size).osz
+2023-06-23 01:23:46 .....      4151183      4151183  1953907 Maon Kurosaki - Gravitation (TV Size).osz
+2023-06-23 01:23:48 .....      3853230      3853230  1959733 NewJeans - Ditto (Cut Ver.).osz
+2023-06-23 01:23:48 .....      1174688      1174688  1964641 Parry Gripp - There_s A Cat Licking Your Birthday Cake.osz
+2023-06-23 01:23:48 .....      9312565      9312565  1964936 Daniel Ingram - My Little Pony Theme Song (TV Size).osz
+2023-06-23 01:23:50 .....      5316350      5316350  1965466 -45 - Ena.osz
+2023-06-23 01:23:52 .....      8008721      8008721  1975164 Ardolf - Wild Water.osz
+------------------- ----- ------------ ------------  ------------------------
+2023-06-23 01:23:52          177225042    177225042  20 files
+
+Listing archive: SC84 - Catch the Beat Beatmap Pack #84.zip
+
+--
+Path = SC84 - Catch the Beat Beatmap Pack #84.zip
+Type = zip
+Physical Size = 172248962
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2023-06-23 01:30:02 .....      7258152      7258152  862544 Halozy - Masshiro na Yuki.osz
+2023-06-23 01:30:04 .....      1237850      1237850  1062960 Shintani Ryo - Neko Atsume no Thema.osz
+2023-06-23 01:30:04 .....      2643286      2643286  1072567 TrySail - Utsuroi (Short Ver.).osz
+2023-06-23 01:30:06 .....      8559763      8559763  1678056 Imy - Beyond the despair.osz
+2023-06-23 01:30:08 .....      7285212      7285212  1736636 Yuya Matsushita - Trust Me (TV Size).osz
+2023-06-23 01:30:10 .....     11849754     11849754  1755763 Chinensis - Emerald Waters.osz
+2023-06-23 01:30:10 .....      2482252      2482252  1794536 Ika Musume (CV_ Kanemoto Hisako) - Kimi wo Shiru Koto (TV Size).osz
+2023-06-23 01:30:12 .....     50163491     50163491  1825951 Camellia - Exit This Earth_s Atomosphere (Camellia_s _PLANETARY__200STEP_ Remix).osz
+2023-06-23 01:30:14 .....      2643217      2643217  1854244 Lonely God - Marlboro Nights.osz
+2023-06-23 01:30:14 .....      7186255      7186255  1925346 Mikhail Krug - Vladimirskiy tsentral.osz
+2023-06-23 01:30:16 .....      2095855      2095855  1926110 Kudou Chitose - FOREST.osz
+2023-06-23 01:30:16 .....     10299281     10299281  1926369 zts - resurrectedreplayer.osz
+2023-06-23 01:30:16 .....      4350930      4350930  1954355 Shimotsuki Haruka - Snowdrop (Short Ver.).osz
+2023-06-23 01:30:20 .....      8381481      8381481  1957643 Mariya Takeuchi - Plastic Love.osz
+2023-06-23 01:30:20 .....      8305192      8305192  1958376 Ashrount - Bleary Vagary.osz
+2023-06-23 01:30:22 .....      8657921      8657921  1960673 Jea - snows _Soshite Kiseki_.osz
+2023-06-23 01:30:22 .....      4582156      4582156  1964393 HoneyWorks - Watashi no Tenshi feat. Narumi Sena (CV_ Amamiya Sora) (Cut Ver.).osz
+2023-06-23 01:30:22 .....      9489474      9489474  1965977 Wake Up_ Girls_ - 7 Senses.osz
+2023-06-23 01:30:26 .....      6756972      6756972  1984005 Ohara Yuiko - Massugu.osz
+2023-06-23 01:30:26 .....      8016994      8016994  1984197 -45 - yoshikawa45 vs. siesta45 Battle of HongKong.osz
+------------------- ----- ------------ ------------  ------------------------
+2023-06-23 01:30:26          172245488    172245488  20 files
+
+Listing archive: SC85 - Catch the Beat Beatmap Pack #85.zip
+
+--
+Path = SC85 - Catch the Beat Beatmap Pack #85.zip
+Type = zip
+Physical Size = 171991424
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2023-06-23 01:37:24 .....     11694572     11694572  1115790 Camellia - Stealth-Dash.osz
+2023-06-23 01:37:26 .....      7727549      7727549  1363407 Camellia feat. Nanahira - NANI THE FUCK__.osz
+2023-06-23 01:37:26 .....      7408378      7408378  1399262 Tanchiky - Sanshi Suimei.osz
+2023-06-23 01:37:28 .....      4434896      4434896  1772648 in love with a ghost - interdimensional portal leading to a cute place feat. snail_s house.osz
+2023-06-23 01:37:30 .....      2471159      2471159  1772651 in love with a ghost - complex feelings about my own existence feat. jungkook.osz
+2023-06-23 01:37:30 .....      4121330      4121330  1776379 in love with a ghost - i thought we were lovers w_ basil.osz
+2023-06-23 01:37:32 .....      7206052      7206052  1872404 Skillet - Falling Inside the Black.osz
+2023-06-23 01:37:32 .....      7029539      7029539  1880396 Yumeno Yuki - Futatsu no Hikari.osz
+2023-06-23 01:37:32 .....      3400101      3400101  1887547 Lie and a Chameleon - mononoke in the fiction (TV Size).osz
+2023-06-23 01:37:36 .....     13582707     13582707  1907655 Camellia feat. Camellia - Ashed Wings.osz
+2023-06-23 01:37:36 .....     38345571     38345571  1915793 Mu (CV_ Arisa Kori) - After Pain.osz
+2023-06-23 01:37:38 .....      6746052      6746052  1931568 my sound life - LINE.osz
+2023-06-23 01:37:38 .....     18300075     18300075  1939742 seatrus - EXXTRA JUDGEMENT.osz
+2023-06-23 01:37:40 .....      2231010      2231010  1966337 Down - Yamangomcpro6th.osz
+2023-06-23 01:37:42 .....      4739495      4739495  1970946 Good Kid - Slingshot.osz
+2023-06-23 01:37:42 .....      3739847      3739847  1971609 Oishi Masayoshi - Gift (TV Size).osz
+2023-06-23 01:37:44 .....      7296490      7296490  1982063 linear ring - enchanted love.osz
+2023-06-23 01:37:44 .....      8200296      8200296  1992666 Noisestorm - Barracuda.osz
+2023-06-23 01:37:44 .....      8216928      8216928  1995911 Imy - Sylphia.osz
+2023-06-23 01:37:48 .....      5095903      5095903  1998704 Unknown Artist - Whopper Whopper (Extended).osz
+------------------- ----- ------------ ------------  ------------------------
+2023-06-23 01:37:48          171987950    171987950  20 files
