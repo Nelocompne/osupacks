@@ -3598,5 +3598,34 @@ Blocks = 1
 ------------------- ----- ------------ ------------  ------------------------
 2023-05-08 04:43:30          215992790    208448014  20 files
 
+Listing archive: S1300 - Beatmap Pack #1300.zip
+
+--
+Path = S1300 - Beatmap Pack #1300.zip
+Type = zip
+Physical Size = 213683377
+
+   Date      Time    Attr         Size   Compressed  Name
 ------------------- ----- ------------ ------------  ------------------------
-2023-05-08 04:43:30         1569297977   1514555347  140 files
+2023-06-21 08:32:50 .....      9224046      9224046  1031888 Koiwai Kotori_ Murakawa Rie_ Sakura Ayane_ Asumi Kana - Omoide.osz
+2023-06-21 08:32:52 .....      5724899      5724899  1546475 Inoue Bona - Usouso Doki.osz
+2023-06-21 08:32:52 .....      5100790      5100790  1832981 Slava KPSS feat. Lida - Gav-Gav.osz
+2023-06-21 08:32:52 .....      8880205      8880205  1847112 Pendulum - Granite (Original Mix).osz
+2023-06-21 08:32:56 .....      9036361      9036361  1849137 Ryokuoushoku Shakai - Korekara no Koto_ Sorekara no Koto.osz
+2023-06-21 08:32:56 .....      3954855      3954855  1888925 Rita - Adenium.osz
+2023-06-21 08:32:56 .....      7973433      7973433  1894823 ClariS - ALIVE.osz
+2023-06-21 08:32:58 .....     15528330     15528330  1905940 Lia - TORCH (TV Size).osz
+2023-06-21 08:32:58 .....      6770162      6770162  1917288 Duca - Koisuru letter.osz
+2023-06-21 08:33:02 .....     18373656     18373656  1925310 Sakuma Takao - FROZEN MIDNIGHT (TV Size).osz
+2023-06-21 08:33:04 .....     15008131     15008131  1929468 Akita Chisato - The story so far (TV Size).osz
+2023-06-21 08:33:04 .....      6753972      6753972  1930058 ryo (supercell) feat. mafumafu_ gaku - takt.osz
+2023-06-21 08:33:04 .....     17933452     17933452  1938336 Iguchi Yuka - RE-ILLUSION (TV Size).osz
+2023-06-21 08:33:06 .....     17479501     17479501  1939776 The BABYSTARS - Hikari e (TV Size).osz
+2023-06-21 08:33:06 .....      6970893      6970893  1952617 40mP feat. GUMI - Yume Chizu.osz
+2023-06-21 08:33:10 .....      7473035      7473035  1964190 Avtor - Reklama lar_ka TTT.osz
+2023-06-21 08:33:10 .....     18212948     18212948  1970466 Neko Hacker - Setsuna no Chikai (feat. Yuzaki Tsukasa (CV_ Kito Akari)) (TV Size).osz
+2023-06-21 08:33:12 .....      3166346      3166346  1970966 ClariS - border (TV Size).osz
+2023-06-21 08:33:12 .....     12583694     12583694  1975936 Asaki - Shizuku.osz
+2023-06-21 08:33:14 .....     17531296     17531296  1978432 QUEEN BEE - Mephisto (TV Size).osz
+------------------- ----- ------------ ------------  ------------------------
+2023-06-21 08:33:14          213680005    213680005  20 files
