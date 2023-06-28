@@ -1937,3 +1937,355 @@ Blocks = 1
 2023-03-06 07:08:44 ....A     15973807               620764 96neko - Uso no Hibana (TV Size).osz
 ------------------- ----- ------------ ------------  ------------------------
 2023-03-06 07:10:43          179761397    179257369  16 files
+
+Listing archive: SM155 - Mania Beatmap Pack #155.zip
+
+--
+Path = SM155 - Mania Beatmap Pack #155.zip
+Type = zip
+Physical Size = 144948318
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2023-06-22 01:27:28 .....      8119300      8119300  1307974 Pierce The Veil - Bulls in the Bronx.osz
+2023-06-22 01:27:28 .....      5450098      5450098  1381405 USAO - Cthugha.osz
+2023-06-22 01:27:30 .....      3317558      3317558  1751887 Juggernaut. - refluxio.osz
+2023-06-22 01:27:30 .....      5030813      5030813  1775334 Sakuzyo - Amenohoakari.osz
+2023-06-22 01:27:34 .....      8802843      8802843  1794101 Sakamiya - Rebellious exorcist.osz
+2023-06-22 01:27:34 .....      4042257      4042257  1830658 t_pazolite - Garakuta Doll Play.osz
+2023-06-22 01:27:34 .....     11227632     11227632  1835271 Wake Up_ May_n_ - One In A Billion (TV Size).osz
+2023-06-22 01:27:36 .....      2468068      2468068  1855686 Mr.T - athletic meet of sound toy.osz
+2023-06-22 01:27:36 .....     22658697     22658697  1859895 sak feat. Myui - Unleashed World.osz
+2023-06-22 01:27:40 .....     15279151     15279151  1861699 Aqours - Future flight (Cut Ver.).osz
+2023-06-22 01:27:40 .....      3839297      3839297  1869366 CS4W - Guilty Hostage.osz
+2023-06-22 01:27:42 .....      4077083      4077083  1872740 Ashrount vs. polysha - ZENITH.osz
+2023-06-22 01:27:42 .....      2342978      2342978  1890539 Kanaria - Rendezvous (TV Size).osz
+2023-06-22 01:27:42 .....      6874665      6874665  1904397 Sad Keyboard Guy _ Gardens - NekovhParavh (Trance Edit).osz
+2023-06-22 01:27:44 .....      2254385      2254385  1921755 MIMI vs. Leah Kate - 10 Things I Hate About Ai no Sukima.osz
+2023-06-22 01:27:44 .....     14491276     14491276  1925812 SID - Ranbu no Melody (TV Size).osz
+2023-06-22 01:27:44 .....      5963852      5963852  1931038 Camellia - Zhuzhzhalka76.osz
+2023-06-22 01:27:48 .....      2443673      2443673  1933843 MYTH _ ROID - STYX HELIX (TV Size).osz
+2023-06-22 01:27:48 .....      8590701      8590701  1936398 Sound Souler - Eternalism 3.osz
+2023-06-22 01:27:50 .....      7670653      7670653  1945122 AVTechNO_xTreow feat. Megurine Luka - DYE_Re_flection_.osz
+------------------- ----- ------------ ------------  ------------------------
+2023-06-22 01:27:50          144944980    144944980  20 files
+
+Listing archive: SM156 - Mania Beatmap Pack #156.zip
+
+--
+Path = SM156 - Mania Beatmap Pack #156.zip
+Type = zip
+Physical Size = 243698338
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2023-06-23 02:21:14 .....     11032686     11032686  623502 senya - Tsuki ni Murakumo Hana ni Kaze (PV ver.).osz
+2023-06-23 02:21:18 .....     27208546     27208546  1000007 yuikonnu - Uchouten Vivace.osz
+2023-06-23 02:21:18 .....      2316844      2316844  1302727 BEMANI Sound Team _S-C-U vs. L.E.D._ - THE DAY OF JUBILATIONS.osz
+2023-06-23 02:21:18 .....     10974450     10974450  1577922 Bai Sha JAWS - Dive Back In Time (TV Size).osz
+2023-06-23 02:21:20 .....     17161509     17161509  1619670 Yonekura Chihiro - Harutoki _Spring Moment_.osz
+2023-06-23 02:21:22 .....     10191576     10191576  1735796 Camellia - Exit This Earth_s Atomosphere (Camellia_s _PLANETARY__200STEP_ Remix).osz
+2023-06-23 02:21:22 .....      7845974      7845974  1736577 Inori Minase - Ready Steady Go_.osz
+2023-06-23 02:21:24 .....     13173540     13173540  1784295 Rokudenashi - Tada Koe Hitotsu.osz
+2023-06-23 02:21:24 .....      6479355      6479355  1805943 Sound piercer feat. DAZBEE - Hanatachi ni Kibou o.osz
+2023-06-23 02:21:26 .....     24927585     24927585  1806101 Minato Aqua - Dadadada Tenshi.osz
+2023-06-23 02:21:26 .....     15193814     15193814  1870931 Creepy Nuts - Daten (TV Size).osz
+2023-06-23 02:21:28 .....     17284035     17284035  1883727 Ito Miku_ Taketatsu Ayana_ Takahashi Rie_ Kanemoto Hisako - Flop Around (TV Size).osz
+2023-06-23 02:21:30 .....      5829989      5829989  1888753 miraie _ Milkoi - The Place You Promised To Show Me.osz
+2023-06-23 02:21:32 .....     12423444     12423444  1896592 kors k vs. Nekomata Master_ - Chain of Pain.osz
+2023-06-23 02:21:32 .....      5976546      5976546  1916152 Chroma - Don_t Fight The Music.osz
+2023-06-23 02:21:32 .....      9654976      9654976  1918297 Kensuke Ushio - lit(var).osz
+2023-06-23 02:21:34 .....     27194571     27194571  1921680 LOONA_HyunJin - Around You.osz
+2023-06-23 02:21:36 .....      5454567      5454567  1930310 Tiny Moving Parts - Warm Hand Splash.osz
+2023-06-23 02:21:38 .....      7083114      7083114  1935688 LV.4 feat. Yuu Ikeba - Sentimental Surge.osz
+2023-06-23 02:21:38 .....      6287541      6287541  1936017 DJ SHARPNEL - Touch the angel.osz
+------------------- ----- ------------ ------------  ------------------------
+2023-06-23 02:21:38          243694662    243694662  20 files
+
+Listing archive: SM157 - Mania Beatmap Pack #157.zip
+
+--
+Path = SM157 - Mania Beatmap Pack #157.zip
+Type = zip
+Physical Size = 287545622
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2023-06-24 03:09:38 .....     10128860     10128860  1060444 RADWIMPS - Sparkle [original ver.].osz
+2023-06-24 03:09:38 .....     17357748     17357748  1360248 LeaF - Wizdomiot (extended ver.).osz
+2023-06-24 03:09:40 .....      2808888      2808888  1563407 AAAA - carnation.osz
+2023-06-24 03:09:40 .....      8203252      8203252  1691734 DJ SHARPNEL - Pacific Girls.osz
+2023-06-24 03:09:44 .....     10932748     10932748  1698284 HyuN feat. Sennzai - Duplicity Shade.osz
+2023-06-24 03:09:44 .....     18612372     18612372  1820843 Dixie Flatline feat. Megurine Luka - Just Be Friends.osz
+2023-06-24 03:09:46 .....     37858004     37858004  1864149 IZ_ONE - Panorama.osz
+2023-06-24 03:09:46 .....      4365157      4365157  1866121 void (Mournfinale) feat. Hoshikuma Minami - Testify.osz
+2023-06-24 03:09:48 .....     32227464     32227464  1879587 The Idol Formerly Known As LADYBABY - Pinky_ Pinky_.osz
+2023-06-24 03:09:48 .....      2987534      2987534  1881884 Nijigasaki High School Idol Club - TOKIMEKI Runners.osz
+2023-06-24 03:09:50 .....     11739607     11739607  1890147 Camellia - CICADA3302.osz
+2023-06-24 03:09:50 .....      5345393      5345393  1898243 HoneyWorks feat. Minato Aqua - Heroine wa Heikin Ika. (Cut Ver.).osz
+2023-06-24 03:09:52 .....      4566983      4566983  1909526 Poppin_Party - Light Delight.osz
+2023-06-24 03:09:52 .....     10675169     10675169  1911841 Taishi - INSIDE BLUE INSIDE - Part2.osz
+2023-06-24 03:09:54 .....      7076427      7076427  1913597 USAO - Wildfire.osz
+2023-06-24 03:09:56 .....     15122295     15122295  1919524 Oishi Masayoshi - Gift (TV Size).osz
+2023-06-24 03:09:56 .....      6277451      6277451  1920012 MORE MORE JUMP_ x KAITO - Worldwide Wander.osz
+2023-06-24 03:09:58 .....     42921543     42921543  1928408 Grailknights - Pumping Iron Power (feat. Joakim Broden from Sabaton).osz
+2023-06-24 03:09:58 .....      6137090      6137090  1941767 Jaroslav Beck - _100 Bills (Camellia_s _215_-Step_ Remix).osz
+2023-06-24 03:10:00 .....     32198109     32198109  1947915 La priere - Sweet Dreams.osz
+------------------- ----- ------------ ------------  ------------------------
+2023-06-24 03:10:00          287542094    287542094  20 files
+
+Listing archive: SM158 - Mania Beatmap Pack #158.zip
+
+--
+Path = SM158 - Mania Beatmap Pack #158.zip
+Type = zip
+Physical Size = 181054731
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2023-06-24 03:18:42 .....      4071331      4071331  461946 xi - Solar Storm.osz
+2023-06-24 03:18:42 .....      3955491      3955491  1409447 lapix - Amazing Mirage.osz
+2023-06-24 03:18:42 .....      3520186      3520186  1440947 Nanamori-chu _ Goraku-bu - Happy Time wa Owaranai (Cut Ver.).osz
+2023-06-24 03:18:44 .....      5795116      5795116  1566829 Purukichi - Luster.osz
+2023-06-24 03:18:48 .....      4944077      4944077  1747779 DJ Mass MAD Izm_ feat. H14 (LEONAIR) - Don_t believe the hype.osz
+2023-06-24 03:18:48 .....      3803029      3803029  1775437 NIWASHI - Sapphire On Fire.osz
+2023-06-24 03:18:48 .....     18181262     18181262  1792218 Raphiiel - RoquiRa _ Between Life and Death.osz
+2023-06-24 03:18:50 .....      7307280      7307280  1819015 SYCAMOUR - Calm Down Juliet (What A Drama Queen).osz
+2023-06-24 03:18:50 .....      3299695      3299695  1848553 seatrus - PHOTON BLAXT.osz
+2023-06-24 03:18:52 .....      5753192      5753192  1857887 MORE MORE JUMP_ x Megurine Luka - Parasol Cider.osz
+2023-06-24 03:18:54 .....     12862761     12862761  1882345 Sad Keyboard Guy _ Gardens - NekovhParavh.osz
+2023-06-24 03:18:54 .....     15221587     15221587  1884607 25-ji_ Nightcord de. x Hatsune Miku - Keitai Renwa.osz
+2023-06-24 03:18:56 .....     16309886     16309886  1885178 Asaka - Natsuyume Noisy (TV Size).osz
+2023-06-24 03:18:56 .....      7055646      7055646  1900729 Camellia - FINAL BLENDERMAN APPEARED. (feat. RichaadEB).osz
+2023-06-24 03:18:58 .....     25475827     25475827  1916285 siromaru _ cranky - conflict.osz
+2023-06-24 03:19:00 .....      5530371      5530371  1935685 Amamiya Kokoro - Kyu-kurarin.osz
+2023-06-24 03:19:00 .....      9532737      9532737  1939285 Kou_ - TERABYTE (_XETTABYTE_ Long Version).osz
+2023-06-24 03:19:02 .....     17698023     17698023  1939714 Kito Akari - Kimi no Tonari de (TV Size).osz
+2023-06-24 03:19:02 .....      6784929      6784929  1945884 AKIAKANE - FIRST.osz
+2023-06-24 03:19:04 .....      3948851      3948851  1956910 LITTLE BIG - BIG DICK.osz
+------------------- ----- ------------ ------------  ------------------------
+2023-06-24 03:19:04          181051277    181051277  20 files
+
+Listing archive: SM159 - Mania Beatmap Pack #159.zip
+
+--
+Path = SM159 - Mania Beatmap Pack #159.zip
+Type = zip
+Physical Size = 154130218
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2023-06-24 03:24:12 .....      3821850      3821850  1227902 Zekk - Opal (Cut Ver.).osz
+2023-06-24 03:24:12 .....      3465583      3465583  1334777 Nizikawa feat. nayuta - Babel.osz
+2023-06-24 03:24:12 .....      5348140      5348140  1671241 II-L - SPUTNIK-3.osz
+2023-06-24 03:24:14 .....      7073647      7073647  1694349 Diceros Bicornis (xi_BlackY) - Hyper Vivacity.osz
+2023-06-24 03:24:16 .....     11727748     11727748  1705982 Unlucky Morpheus - Angreifer.osz
+2023-06-24 03:24:16 .....      4878824      4878824  1756832 Yooh - Crazy Shuffle.osz
+2023-06-24 03:24:18 .....      3319636      3319636  1836849 Street vs. Sin_cK - Adamantite.osz
+2023-06-24 03:24:18 .....     24396548     24396548  1856309 ShinRa-Bansho - Miko-sama no Aburaage disco.osz
+2023-06-24 03:24:20 .....      9184460      9184460  1868798 Silentroom vs. Frums - Aegleseeker (_Afterworld_ Full Version).osz
+2023-06-24 03:24:22 .....      3939757      3939757  1879379 Melissa Kinrenka - Cynical Night Plan.osz
+2023-06-24 03:24:22 .....      5994920      5994920  1895514 X_G - Whiplash feat. josh pan (sakuraburst Remix).osz
+2023-06-24 03:24:24 .....      3963941      3963941  1909072 Ardolf - Until the end of time.osz
+2023-06-24 03:24:24 .....      9838457      9838457  1923211 Strawberry Girls - First Kiss.osz
+2023-06-24 03:24:24 .....     13518832     13518832  1925721 Ludicin - Fallen Symphony.osz
+2023-06-24 03:24:28 .....      9040517      9040517  1929861 jyA-Me - White Sweet Love feat. CLIFF EDGE.osz
+2023-06-24 03:24:30 .....      8981589      8981589  1943968 Houou Karin_ Seto Mitsuki_ Taiga Lucia - Bakuretsu Thaumazein (Prod. ChibaNyan).osz
+2023-06-24 03:24:30 .....      4341161      4341161  1946128 Toby Fox - Field of Hopes and Dreams.osz
+2023-06-24 03:24:30 .....     13869778     13869778  1948301 Ludicin - Fallen Symphony.osz
+2023-06-24 03:24:32 .....      2655322      2655322  1955030 Waki Azumi - Itsuka no Kioku (TV Size).osz
+2023-06-24 03:24:36 .....      4766066      4766066  1956332 KARUT - Shooting Athletes.osz
+------------------- ----- ------------ ------------  ------------------------
+2023-06-24 03:24:36          154126776    154126776  20 files
+
+Listing archive: SM160 - Mania Beatmap Pack #160.zip
+
+--
+Path = SM160 - Mania Beatmap Pack #160.zip
+Type = zip
+Physical Size = 151010066
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2023-06-24 04:09:52 .....      7833849      7833849  1263473 Strawberry Prince - Streamer.osz
+2023-06-24 04:09:52 .....      7147867      7147867  1614473 Camellia - Labyrinth in Kowloon_ Walled World.osz
+2023-06-24 04:09:52 .....      2518171      2518171  1739969 Memme - Erebus.osz
+2023-06-24 04:09:54 .....      2745237      2745237  1788341 garlagan - Uplift.osz
+2023-06-24 04:09:56 .....      8622689      8622689  1807148 Various Artists - Mind Craft.osz
+2023-06-24 04:09:58 .....      3846736      3846736  1845223 Camellia ChouKisouGengakutai - Subete ga Maboroshi ni Natta Ato de.osz
+2023-06-24 04:09:58 .....      3085257      3085257  1850429 Colorful Sounds Port - CHERRY DOLL.osz
+2023-06-24 04:10:00 .....     28921763     28921763  1860586 25-ji_ Nightcord de. x Kagamine Len - Bug.osz
+2023-06-24 04:10:00 .....      3245640      3245640  1872905 UNISON SQUARE GARDEN - Chaos ga Kiwamaru (TV Size).osz
+2023-06-24 04:10:02 .....     19847833     19847833  1883928 Tamura Yukari - W_Wonder Tale (TV Size).osz
+2023-06-24 04:10:04 .....      4972943      4972943  1890516 Paroto - Kemono ni Naritai_.osz
+2023-06-24 04:10:04 .....      3932160      3932160  1890529 Strawberry Prince - Naisho no Present for you_.osz
+2023-06-24 04:10:04 .....      5808750      5808750  1904118 Hiromi Shibano - KISSA Rain.osz
+2023-06-24 04:10:06 .....      6197794      6197794  1910399 brz1128_suimag - Retribution.osz
+2023-06-24 04:10:08 .....      2771815      2771815  1912862 yak_won - Core.osz
+2023-06-24 04:10:08 .....     16617421     16617421  1915229 Dzeko _ Torres - 2013 In 10 Minutes.osz
+2023-06-24 04:10:10 .....      7050108      7050108  1916684 WAGAMAMA RAKIA - GR4VITY G4ME.osz
+2023-06-24 04:10:10 .....      5419536      5419536  1926740 Wolpis Kater - Oxalis.osz
+2023-06-24 04:10:12 .....      6761250      6761250  1939330 SDMNE - Beyond The Aexis.osz
+2023-06-24 04:10:14 .....      3659971      3659971  1958706 rian - Currant.osz
+------------------- ----- ------------ ------------  ------------------------
+2023-06-24 04:10:14          151006790    151006790  20 files
+
+Listing archive: SM161 - Mania Beatmap Pack #161.zip
+
+--
+Path = SM161 - Mania Beatmap Pack #161.zip
+Type = zip
+Physical Size = 188549043
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2023-06-27 07:26:00 .....      6606285      6606285  1640281 S3RL feat. Tamika - Tell Me What You Want.osz
+2023-06-27 07:26:02 .....      3222436      3222436  1751372 rei sirose - Lost Umbrella (Cut Ver.).osz
+2023-06-27 07:26:02 .....      2884556      2884556  1792369 KOCHO - Hanyamaru Manten_ Zenitendou. (TV Size).osz
+2023-06-27 07:26:04 .....      9648130      9648130  1795227 Hoshimachi Suisei - Starry Jet.osz
+2023-06-27 07:26:06 .....      4181605      4181605  1812783 MisomyL - Mukishitsu Sekai ni Irodori o.osz
+2023-06-27 07:26:06 .....     10702113     10702113  1818929 Bossfight - Milky Ways.osz
+2023-06-27 07:26:08 .....      3333998      3333998  1847076 Leo_need x Hatsune Miku - Aoku Kakero_.osz
+2023-06-27 07:26:08 .....      2186279      2186279  1875975 kis-kis - ne uchi (Cut Ver.).osz
+2023-06-27 07:26:08 .....      3465905      3465905  1886203 tiku sens - fly a rocket to the center of your heart.osz
+2023-06-27 07:26:10 .....     26895064     26895064  1916008 Minato Aqua - Kawaikute Gomen.osz
+2023-06-27 07:26:12 .....      6395362      6395362  1922898 YOUNHA - Event Horizon.osz
+2023-06-27 07:26:12 .....     18767509     18767509  1927762 Shiina Mahiru (CV_ Iwami Manaka) - Chiisana Koi no Uta (TV Size).osz
+2023-06-27 07:26:14 .....     20503051     20503051  1932431 Camellia - chrono diver -fragment- (Camellia_s _crossroads of chrono_ remix).osz
+2023-06-27 07:26:16 .....      7780895      7780895  1935304 ChiliChill feat. Zhang An Qi_ Hua Ling_ Mu Fei_ ByeZooChoir - I_ve Never Forgotten.osz
+2023-06-27 07:26:16 .....      6631148      6631148  1936023 Camellia feat. Nanahira - Yaminabe _Darkness Inferno_ Kourin _ni yo_ waga tamashii_.osz
+2023-06-27 07:26:16 .....     14334669     14334669  1937220 Takagi-san (CV_ Takahashi Rie) - Chiisana Koi no Uta (TV Size).osz
+2023-06-27 07:26:18 .....      6101040      6101040  1940246 Camellia - POLYBIUS GB SPEEDRUN (Glitchless 100_ WR in 0_03_57).osz
+2023-06-27 07:26:20 .....     13828168     13828168  1945020 7__ - Lovers (TV Size).osz
+2023-06-27 07:26:20 .....     19092878     19092878  1962117 QUARTET_RE-BOOT_ - FUN FUN RE-BOOT.osz
+2023-06-27 07:26:22 .....      1984032      1984032  1965109 Natsumi Takamori_ Eri Sendai_ Yuu Asakawa_ Atsumi Tanezaki - Ne_ Ko_ (TV Size).osz
+------------------- ----- ------------ ------------  ------------------------
+2023-06-27 07:26:22          188545123    188545123  20 files
+
+Listing archive: SM162 - Mania Beatmap Pack #162.zip
+
+--
+Path = SM162 - Mania Beatmap Pack #162.zip
+Type = zip
+Physical Size = 161336879
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2023-06-27 07:30:36 .....      7802013      7802013  1433856 Diceros Bicornis (xi_BlackY) - Hyper Vivacity.osz
+2023-06-27 07:30:36 .....      1823158      1823158  1455812 ChouCho - Yasashisa no Riyuu (TV Size).osz
+2023-06-27 07:30:38 .....     17491664     17491664  1582703 hololive IDOL PROJECT - Halloween Night_ Tonight_.osz
+2023-06-27 07:30:38 .....     14694242     14694242  1591530 MY FIRST STORY feat. chelly (EGOIST) - 1_000_000 TIMES.osz
+2023-06-27 07:30:40 .....      4495909      4495909  1617567 Laur - Viyella_s Tears.osz
+2023-06-27 07:30:40 .....     12338186     12338186  1692926 seatrus - DOOMSDAY THUNDERTEMPEST.osz
+2023-06-27 07:30:42 .....      5061477      5061477  1842979 O2i3 - Dollfie Dream.osz
+2023-06-27 07:30:42 .....     18417644     18417644  1884632 Yuuka - Girls_ Carnival.osz
+2023-06-27 07:30:44 .....      6483880      6483880  1884877 DJ Raisei - Cafe _ M_lk _ Chocolate.osz
+2023-06-27 07:30:46 .....      7626991      7626991  1891721 halca - Darekare Scramble.osz
+2023-06-27 07:30:46 .....     14535731     14535731  1909971 ONIMAI SISTERS - Himegoto_Crisisters (TV Size).osz
+2023-06-27 07:30:48 .....     14201428     14201428  1912365 May_n - graphite_diamond (TV Size).osz
+2023-06-27 07:30:48 .....      1966926      1966926  1926366 Mestre3224 - Caramelo da desgraca.osz
+2023-06-27 07:30:48 .....      8336658      8336658  1927406 Camellia - We Could Get More Machinegun Psystyle_ (And More Genre Switches).osz
+2023-06-27 07:30:52 .....      3514395      3514395  1933724 Kurokotei - Nonbinarity (Cut Ver.).osz
+2023-06-27 07:30:52 .....      5514837      5514837  1948557 YOASOBI - Shukufuku (TV Size).osz
+2023-06-27 07:30:52 .....      3451602      3451602  1953393 Fujijo Seitokai Shikkou-bu - Best FriendS (GoldenWolf Edit).osz
+2023-06-27 07:30:54 .....      2538118      2538118  1961221 LamazeP - Triple Baka (Cut Ver.).osz
+2023-06-27 07:30:54 .....      7346348      7346348  1966714 Official HIGE DANdism - White Noise.osz
+2023-06-27 07:30:58 .....      3692160      3692160  1974438 YOASOBI - Idol (TV Size).osz
+------------------- ----- ------------ ------------  ------------------------
+2023-06-27 07:30:58          161333367    161333367  20 files
+
+Listing archive: SM163 - Mania Beatmap Pack #163.zip
+
+--
+Path = SM163 - Mania Beatmap Pack #163.zip
+Type = zip
+Physical Size = 209493721
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2023-06-27 07:36:26 .....      8516733      8516733  1152613 KOBASOLO _ Harutya - Yesterday.osz
+2023-06-27 07:36:28 .....      2441088      2441088  1672943 fripSide - pico scope -SACLA-.osz
+2023-06-27 07:36:28 .....     16265861     16265861  1775996 Satoshi _ Go (CV_ Rica Matsumoto _ Daiki Yamashita) - 1 - 2 - 3 (TV Size).osz
+2023-06-27 07:36:30 .....     18586363     18586363  1803685 ClariS - ALIVE (TV Size).osz
+2023-06-27 07:36:32 .....     14288181     14288181  1807327 Azuna Riko - Katachi (TV Size).osz
+2023-06-27 07:36:32 .....      4030250      4030250  1834533 ginkiha - Tithonus.osz
+2023-06-27 07:36:32 .....      9527476      9527476  1854070 Camellia - Z_iRNiTRA.osz
+2023-06-27 07:36:34 .....     34372702     34372702  1856137 Miao_Jiang_ Ben Ben Wan_Peng Bo_ Hua Ling_ Bao Lie Ju Shi Ye - If you suddenly think of me.osz
+2023-06-27 07:36:36 .....     13651189     13651189  1871849 PSYQUI feat. mikanzil - Pallet.osz
+2023-06-27 07:36:36 .....      5516524      5516524  1916424 ITZY - Snowy.osz
+2023-06-27 07:36:38 .....      6597857      6597857  1926071 technoplanet - Fly Like You [Long Version].osz
+2023-06-27 07:36:40 .....      5974952      5974952  1932206 Ouse Akira - Sacrifice.osz
+2023-06-27 07:36:40 .....     10308512     10308512  1938132 Bad Computer _ Danyka Nadeau - Chasing Clouds.osz
+2023-06-27 07:36:42 .....      2883759      2883759  1940331 Cororo feat. Yuria Miyazono - Hikari Sasu Mio no Yuzuriha.osz
+2023-06-27 07:36:42 .....      9452409      9452409  1942860 OSTER project - Violet Rose.osz
+2023-06-27 07:36:44 .....      8144980      8144980  1949048 xi - Shippuudotou (Long Version).osz
+2023-06-27 07:36:44 .....     22444144     22444144  1951296 Falcom Sound Team jdk feat. Sasaka Megumi - Ikitsuku Saki -Opening Size-.osz
+2023-06-27 07:36:46 .....      3620157      3620157  1968790 Ayumi. - Hanagoyomi (Short Ver.).osz
+2023-06-27 07:36:48 .....      6454553      6454553  1970617 USAO - Interstellar Travel (Extended mix).osz
+2023-06-27 07:36:48 .....      6412477      6412477  1977298 Twin-Tails - Twintail Dreamer_ (TV Size).osz
+------------------- ----- ------------ ------------  ------------------------
+2023-06-27 07:36:48          209490167    209490167  20 files
+
+Listing archive: SM164 - Mania Beatmap Pack #164.zip
+
+--
+Path = SM164 - Mania Beatmap Pack #164.zip
+Type = zip
+Physical Size = 147187311
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2023-06-27 07:40:46 .....     11922806     11922806  1308099 sakuraburst - data corruption symphony.osz
+2023-06-27 07:40:46 .....      4168741      4168741  1397714 tokiwa - Orthodox.osz
+2023-06-27 07:40:48 .....      2497923      2497923  1589537 Hoshino Gen - Doraemon (Cut Ver.).osz
+2023-06-27 07:40:48 .....      4857579      4857579  1632443 Umeboshi Chazuke - Skip _ Smile__.osz
+2023-06-27 07:40:50 .....     10036437     10036437  1691640 Sound Souler - Unknown Fancy.osz
+2023-06-27 07:40:52 .....      4508365      4508365  1823582 ARForest - Clock Atelier.osz
+2023-06-27 07:40:52 .....      6747858      6747858  1881554 yuikonnu - Kakushigoto.osz
+2023-06-27 07:40:52 .....      4315500      4315500  1882756 HOYO-MiX - For Riddles_ for Wonders.osz
+2023-06-27 07:40:54 .....      8428408      8428408  1912696 kessoku band - Karakara (TV Size).osz
+2023-06-27 07:40:58 .....     16212001     16212001  1922925 CHiCO with HoneyWorks meets mafumafu - Bibitto Love (TV Size).osz
+2023-06-27 07:40:58 .....      3821147      3821147  1927752 Ooguni Kanon - Kouen no Lateral Arc.osz
+2023-06-27 07:41:00 .....      5729820      5729820  1932770 Matsushita - raspberry cube.osz
+2023-06-27 07:41:00 .....      8627096      8627096  1938196 Sleepytime Gorilla Museum - 1997 (Tonight We_re Gonna Party Like It_s...).osz
+2023-06-27 07:41:02 .....      7940091      7940091  1939761 Normal1zer vs. Broken Nerdz - Cybernetic Mastermind No.7.osz
+2023-06-27 07:41:04 .....     10394403     10394403  1944267 Reizoko Cj - Svensk Super Kung-Fu (Cut Ver.).osz
+2023-06-27 07:41:04 .....      4593127      4593127  1961562 25-ji_ Nightcord de. x Hatsune Miku - Jack Pot Sad Girl.osz
+2023-06-27 07:41:06 .....      7988473      7988473  1968264 awi - Rockin_ Disco Blues.osz
+2023-06-27 07:41:06 .....      6660057      6660057  1968360 Nightmargin (Casey Gu) and Michael Shirt - Niko_s Theme.osz
+2023-06-27 07:41:06 .....     16205684     16205684  1968445 SHIKI - Lapis.osz
+2023-06-27 07:41:08 .....      1528311      1528311  1980200 Jinjin - Midnight Musing.osz
+------------------- ----- ------------ ------------  ------------------------
+2023-06-27 07:41:08          147183827    147183827  20 files
+
+Listing archive: SM165 - Mania Beatmap Pack #165.zip
+
+--
+Path = SM165 - Mania Beatmap Pack #165.zip
+Type = zip
+Physical Size = 131386419
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2023-06-27 07:53:00 .....      7202812      7202812  1105283 Persona - AREA 184 -Platinum mix-.osz
+2023-06-27 07:53:00 .....      2872930      2872930  1667401 leroy - will work for food.osz
+2023-06-27 07:53:02 .....      6692699      6692699  1739590 lapix - Inner Spirit (Extended).osz
+2023-06-27 07:53:02 .....      9212050      9212050  1826637 Mage - The Words I Never Said in D_B.osz
+2023-06-27 07:53:04 .....      5624976      5624976  1858264 Luxiem - Hope in the dark.osz
+2023-06-27 07:53:06 .....      5037518      5037518  1859335 xi - Angel_s Ladder.osz
+2023-06-27 07:53:06 .....      5693293      5693293  1862341 ADORA - Magical Symphony.osz
+2023-06-27 07:53:06 .....      6307237      6307237  1877709 YonKaGor - You_re Just Like Pop Music.osz
+2023-06-27 07:53:08 .....      3892876      3892876  1890572 ano - Chu_ Tayousei..osz
+2023-06-27 07:53:10 .....      5330562      5330562  1894877 AAAA Chazuke - omn_s.osz
+2023-06-27 07:53:12 .....      2926123      2926123  1899485 fripSide - fortissimo -from insanity affection-.osz
+2023-06-27 07:53:12 .....      3805952      3805952  1907219 fripSide - HesitationSnow (Cut Ver.).osz
+2023-06-27 07:53:12 .....      6603003      6603003  1907238 Various Artists - Kao mo Honmyou mo Shiranakuttatte Orera Tomodachi Darou_.osz
+2023-06-27 07:53:14 .....      4279927      4279927  1909163 Frums - theyaremanycolors.osz
+2023-06-27 07:53:16 .....      5461729      5461729  1917315 Chinozo x MABODOFU - Shirogane.osz
+2023-06-27 07:53:16 .....     18653851     18653851  1918638 ATEEZ - WONDERLAND (Cut Ver.).osz
+2023-06-27 07:53:18 .....      4976951      4976951  1921040 Nothing But Requiem feat. Aikapin _ Chiyoko - Horizon Blue.osz
+2023-06-27 07:53:18 .....      3134338      3134338  1931978 Lime - Chronicle.osz
+2023-06-27 07:53:20 .....     17087109     17087109  1950674 CORO MACHIKADO - YOIMACHI CANTARE (TV Size).osz
+2023-06-27 07:53:22 .....      6587101      6587101  1952995 Bring Me The Horizon - Kingslayer (feat. BABYMETAL).osz
+------------------- ----- ------------ ------------  ------------------------
+2023-06-27 07:53:22          131383037    131383037  20 files
