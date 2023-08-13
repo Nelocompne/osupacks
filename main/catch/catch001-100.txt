@@ -2999,3 +2999,99 @@ Physical Size = 171991424
 2023-06-23 01:37:48 .....      5095903      5095903  1998704 Unknown Artist - Whopper Whopper (Extended).osz
 ------------------- ----- ------------ ------------  ------------------------
 2023-06-23 01:37:48          171987950    171987950  20 files
+
+Listing archive: SC86 - osu!catch Beatmap Pack #86.zip
+
+--
+Path = SC86 - osu!catch Beatmap Pack #86.zip
+Type = zip
+Physical Size = 262851372
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2023-07-13 01:36:10 .....     17263092     17263092  1057081 aa...hisuichazuke... - Stardust Prism.osz
+2023-07-13 01:36:12 .....     32241456     32241456  1639652 Hoshimachi Suisei - GHOST.osz
+2023-07-13 01:36:12 .....      6765927      6765927  1840707 uru - Kokoronashi.osz
+2023-07-13 01:36:12 .....      8791966      8791966  1841734 IU - Ah puh.osz
+2023-07-13 01:36:14 .....     14999008     14999008  1867756 ZAQ - Dance In The Game (TV Size).osz
+2023-07-13 01:36:16 .....     10864476     10864476  1873578 Yousei Teikoku - Astral Dogma.osz
+2023-07-13 01:36:16 .....      3661123      3661123  1879893 philo - Sensei ni Icchao.osz
+2023-07-13 01:36:16 .....      1057815      1057815  1887356 in love with a ghost - help.osz
+2023-07-13 01:36:18 .....      7715357      7715357  1902611 STEREO DIVE FOUNDATION - SPARKLES.osz
+2023-07-13 01:36:22 .....     14446179     14446179  1943533 Camellia - NIGHTMARE CITY.osz
+2023-07-13 01:36:22 .....     23326113     23326113  1952041 Masayoshi Minoshima - Bad Apple__ feat. nomico.osz
+2023-07-13 01:36:24 .....     12634114     12634114  1972145 James Landino - Arsene_s Bazaar.osz
+2023-07-13 01:36:24 .....      1051729      1051729  1973407 Masuda Junichi - Pokemon Center.osz
+2023-07-13 01:36:24 .....      5768439      5768439  1994169 Given - Fuyu no Hanashi.osz
+2023-07-13 01:36:26 .....      6754938      6754938  1997979 Hamu - Secret Clover.osz
+2023-07-13 01:36:28 .....     13413605     13413605  2000386 Gram vs. Kobaryo - Yggdrasil.osz
+2023-07-13 01:36:30 .....     12947094     12947094  2000801 FELT - Lost My Way.osz
+2023-07-13 01:36:30 .....      7057752      7057752  2004073 Laur feat. Risa Yuzuki - Megaera.osz
+2023-07-13 01:36:30 .....     11407772     11407772  2011522 kanemiko - Cold Fusion.osz
+2023-07-13 01:36:32 .....     50680327     50680327  2011570 Halv vs. kuro - Evreka.osz
+------------------- ----- ------------ ------------  ------------------------
+2023-07-13 01:36:32          262848282    262848282  20 files
+
+Listing archive: SC87 - osu!catch Beatmap Pack #87.zip
+
+--
+Path = SC87 - osu!catch Beatmap Pack #87.zip
+Type = zip
+Physical Size = 155954100
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2023-07-28 07:11:52 .....      4089082      4089082  1233837 M2U - Masquerade.osz
+2023-07-28 07:11:52 .....      8255285      8255285  1580594 Kawada Mami - Wings of Courage -Sora o Koete-.osz
+2023-07-28 07:11:54 .....      6853110      6853110  1696997 Dreamcatcher - Sleep-walking.osz
+2023-07-28 07:11:54 .....      8681558      8681558  1719280 Risa Yuzuki - Tarantella (feat. BlackY).osz
+2023-07-28 07:11:58 .....      3961143      3961143  1759086 yozuca_ - Ima o Wasurenai.osz
+2023-07-28 07:11:58 .....      2574290      2574290  1780245 Pedro Silva - Sweet Paralysis.osz
+2023-07-28 07:11:58 .....     10703450     10703450  1809311 Camellia - flower of wilderness.osz
+2023-07-28 07:12:00 .....      6160927      6160927  1924231 Mili - Nine Point Eight.osz
+2023-07-28 07:12:00 .....     12336281     12336281  1969089 Lil Jon _ The East Side Boyz - Get Low (feat. Ying Yang Twins).osz
+2023-07-28 07:12:02 .....      7503935      7503935  1972993 Polyphia - ABC feat. Sophia Black.osz
+2023-07-28 07:12:04 .....      7110765      7110765  1988438 -45 - Rougoku STRIP.osz
+2023-07-28 07:12:04 .....      7208577      7208577  1992653 Yellow Zebra - Melody_.osz
+2023-07-28 07:12:06 .....     10110966     10110966  1996396 CANVAS feat. Quimaer - Carmina (Extended Mix).osz
+2023-07-28 07:12:06 .....      8549920      8549920  1996486 Cosmicosmo _ Slow Shudder - Superheart.osz
+2023-07-28 07:12:08 .....      6042833      6042833  1997699 Yuno (CV_ Yuuka Aisaka) - Stickybug.osz
+2023-07-28 07:12:10 .....      8032827      8032827  2000365 Sabaton - Twilight Of The Thunder God.osz
+2023-07-28 07:12:10 .....      8093829      8093829  2000864 kakichoco - Zan_ei.osz
+2023-07-28 07:12:10 .....     12342728     12342728  2004114 lapix - You_re Beautiful.osz
+2023-07-28 07:12:12 .....     10720006     10720006  2011549 Kitadani Hiroshi - OVER THE TOP.osz
+2023-07-28 07:12:14 .....      6619282      6619282  2011555 UNDEAD CORPORATION - Flowering Night Fever.osz
+------------------- ----- ------------ ------------  ------------------------
+2023-07-28 07:12:14          155950794    155950794  20 files
+
+Listing archive: SC88 - osu!catch Beatmap Pack #88.zip
+
+--
+Path = SC88 - osu!catch Beatmap Pack #88.zip
+Type = zip
+Physical Size = 188379026
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2023-08-12 07:39:42 .....      8872806      8872806  1276627 Camellia feat. Nanahira - IoT (_Internet of Things) no Megami _Mononon_.osz
+2023-08-12 07:39:42 .....      7800090      7800090  1296201 KAF - Hissei yo.osz
+2023-08-12 07:39:44 .....     13102065     13102065  1724432 Harumaki Gohan - Saikai.osz
+2023-08-12 07:39:44 .....     10144627     10144627  1799606 hololive IDOL PROJECT - Hyakka Ryouran Hanafubuki.osz
+2023-08-12 07:39:46 .....     18716219     18716219  1897932 E0ri4 - Absolute Gate.osz
+2023-08-12 07:39:48 .....      3766684      3766684  1914137 Alakrity - Mighty Morphin Power Rangers.osz
+2023-08-12 07:39:48 .....      9655932      9655932  1927045 dj TAKA feat. AiMEE - True Blue.osz
+2023-08-12 07:39:50 .....     20034430     20034430  1960126 Lorna Shore - Sun__Eater.osz
+2023-08-12 07:39:50 .....      8407581      8407581  1972368 James Landino - Arsene_s Bazaar.osz
+2023-08-12 07:39:54 .....      5099665      5099665  1983566 -45 - Rougoku STRIP.osz
+2023-08-12 07:39:54 .....      6555997      6555997  1988617 Feint - Laurence.osz
+2023-08-12 07:39:54 .....      7994162      7994162  1996721 Massive New Krew _ RoughSketch - Extreme Ongaku School feat. Nanahira.osz
+2023-08-12 07:39:56 .....      4466538      4466538  2001633 Mahiru (CV_ Okasaki Miho) - I Love You.osz
+2023-08-12 07:39:56 .....     13536855     13536855  2007941 Minstrel - Heian Alien.osz
+2023-08-12 07:40:00 .....      7958213      7958213  2007971 Camellia - GHOUL.osz
+2023-08-12 07:40:00 .....      8320661      8320661  2015980 PSYQUI - Your voice so... feat. Such.osz
+2023-08-12 07:40:02 .....      9004091      9004091  2018309 Ardolf - DEATHDOOR (Instrumental Version).osz
+2023-08-12 07:40:02 .....     11320300     11320300  2019842 PSYQUI feat. Sennzai - Swelling.osz
+2023-08-12 07:40:02 .....      8212378      8212378  2021506 Kanye West - Dark Fantasy.osz
+2023-08-12 07:40:06 .....      5406408      5406408  2032327 t_pazolite - You are the Miserable.osz
+------------------- ----- ------------ ------------  ------------------------
+2023-08-12 07:40:06          188375702    188375702  20 files
