@@ -1021,3 +1021,67 @@ Physical Size = 183842363
 2023-08-10 00:30:50 .....      5795920      5795920  2022917 Nakiri Ayame - Kawayo.osz
 ------------------- ----- ------------ ------------  ------------------------
 2023-08-10 00:30:50          183839033    183839033  20 files
+
+Listing archive: S1333 - osu! Beatmap Pack #1333.zip
+
+--
+Path = S1333 - osu! Beatmap Pack #1333.zip
+Type = zip
+Physical Size = 260503161
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2023-08-14 00:46:56 .....     23114895     23114895  674084 MikitoP - Akaito.osz
+2023-08-14 00:46:56 .....     12184479     12184479  1280853 Camellia - Feelin Sky (Camellia_s _200step_ Self-remix).osz
+2023-08-14 00:46:56 .....      5976570      5976570  1826975 bo en - My Time.osz
+2023-08-14 00:46:58 .....     18896495     18896495  1909723 ONIMAI SISTERS - Himegoto_Crisisters (TV Size).osz
+2023-08-14 00:47:00 .....     50883124     50883124  1945081 ZUN - Touhou 7 Nonstop Medley.osz
+2023-08-14 00:47:00 .....      9655709      9655709  1946126 Inori Minase - TRUST IN ETERNITY.osz
+2023-08-14 00:47:00 .....      9977894      9977894  1947035 Mizutani Runa - Natsu no Sunadokei.osz
+2023-08-14 00:47:02 .....      6413507      6413507  1948103 ClariS - with you.osz
+2023-08-14 00:47:02 .....     12571867     12571867  1961544 Cho Tokimeki Sendenbu - SUKI_ _CHO ver_.osz
+2023-08-14 00:47:04 .....     10660966     10660966  1985060 hitorie - Nichijou to Chikyuu no Gakubuchi (wowaka x Hatsune Miku Edit).osz
+2023-08-14 00:47:04 .....      7706141      7706141  1993272 Big Boi - Shine Blockas feat. Gucci Mane.osz
+2023-08-14 00:47:06 .....      9953029      9953029  1998896 JUNNA - Dear.osz
+2023-08-14 00:47:08 .....      3667318      3667318  2002540 Yasuda Rei - blooming (TV Size).osz
+2023-08-14 00:47:08 .....      5486858      5486858  2011620 momori - Togameru Kage (Cut Ver.).osz
+2023-08-14 00:47:08 .....     14547173     14547173  2027897 ClariS - Koi Sekai (TV Size).osz
+2023-08-14 00:47:10 .....      2436634      2436634  2028314 Fujiwara Chika (CV_ Kohara Konomi) - Chikatto Chika Chika (TV Size).osz
+2023-08-14 00:47:10 .....     33217804     33217804  2029343 Tsuki no Tempest - The One and Only.osz
+2023-08-14 00:47:14 .....      4883717      4883717  2030543 happy30 - What I feel for you.osz
+2023-08-14 00:47:14 .....     10901815     10901815  2031329 Daisuke Ishiwatari feat. Mary Dale Sanchez - Childish killer.osz
+2023-08-14 00:47:16 .....      7363672      7363672  2036289 Uehara Ayumu (CV_ Onishi Aguri) - Dream with You.osz
+------------------- ----- ------------ ------------  ------------------------
+2023-08-14 00:47:16          260499667    260499667  20 files
+
+Listing archive: S1334 - osu! Beatmap Pack #1334.zip
+
+--
+Path = S1334 - osu! Beatmap Pack #1334.zip
+Type = zip
+Physical Size = 164888306
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2023-08-21 03:19:18 .....      5140668      5140668  1214619 Roos Denayer - The Style of Evermore (Blue Marble Remix) (Cut Ver.).osz
+2023-08-21 03:19:20 .....     21883507     21883507  1772712 DECO_27 - Ai Kotoba IV feat. Hatsune Miku.osz
+2023-08-21 03:19:20 .....      5488630      5488630  1833640 BUTAOTOME - In the Black.osz
+2023-08-21 03:19:22 .....     21858386     21858386  1839414 Release Hallucination - I.F..osz
+2023-08-21 03:19:22 .....      3974325      3974325  1873489 Alpha (CV_ Seto Asami) - Darling in the Night (TV Size).osz
+2023-08-21 03:19:24 .....      8000224      8000224  1875476 Oranges _ Lemons - Soramimi Cake (TV Size).osz
+2023-08-21 03:19:24 .....      8036571      8036571  1918903 kimino-museum - Faith of Fact.osz
+2023-08-21 03:19:24 .....      7330973      7330973  1961630 Ryokuoushoku Shakai - Michi o Yuke.osz
+2023-08-21 03:19:26 .....      3019255      3019255  1962976 Lia - Bravely You (TV Size).osz
+2023-08-21 03:19:28 .....      4822017      4822017  1983199 Tomoya Ohtani - Undefeatable (feat. Kellin Quinn).osz
+2023-08-21 03:19:28 .....      3990098      3990098  1988283 FIFTY FIFTY - Cupid (Twin Ver.) (Sped Up Ver.).osz
+2023-08-21 03:19:30 .....      6720174      6720174  1990791 imase - NIGHT DANCER.osz
+2023-08-21 03:19:30 .....      2429712      2429712  1993769 MindaRyn - SURVIVE (TV Size).osz
+2023-08-21 03:19:32 .....      8636000      8636000  1998353 Genkaku Aria - Reigetsu Reception.osz
+2023-08-21 03:19:34 .....      9785101      9785101  2005745 Camellia - Kisaragi.osz
+2023-08-21 03:19:36 .....      5080559      5080559  2006554 Aoishi Miyu from i.o.sound - Shinjite in my heart.osz
+2023-08-21 03:19:36 .....      6292780      6292780  2019548 Nightwish - Alpenglow.osz
+2023-08-21 03:19:36 .....      6793212      6793212  2030005 La priere - SPLASH the TONE.osz
+2023-08-21 03:19:38 .....      8765355      8765355  2036724 Marie - Focus love.osz
+2023-08-21 03:19:40 .....     16837375     16837375  2037341 Tsuzuri - NAME (TV Size).osz
+------------------- ----- ------------ ------------  ------------------------
+2023-08-21 03:19:40          164884922    164884922  20 files
