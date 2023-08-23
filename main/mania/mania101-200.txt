@@ -2769,3 +2769,67 @@ Physical Size = 129698547
 2023-08-12 07:41:04 .....     11282374     11282374  2025310 SDMNE - Beyond The Aexis.osz
 ------------------- ----- ------------ ------------  ------------------------
 2023-08-12 07:41:04          129695075    129695075  20 files
+
+Listing archive: SM181 - osu!mania Beatmap Pack #181.zip
+
+--
+Path = SM181 - osu!mania Beatmap Pack #181.zip
+Type = zip
+Physical Size = 152429748
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2023-08-16 07:58:46 .....      4044101      4044101  1399974 FELT - crescent moon (Cut Ver.).osz
+2023-08-16 07:58:46 .....      4482383      4482383  1737565 technoplanet - Intuition.osz
+2023-08-16 07:58:46 .....      4917797      4917797  1774517 coltrane - zeke didn_t _invent dariacore__ i did.osz
+2023-08-16 07:58:48 .....      6290012      6290012  1799094 Camellia - Proluvies (_abyssum oblivionis_ Long ver.).osz
+2023-08-16 07:58:50 .....      5073937      5073937  1825244 Mischievous_Straight - To the Shining MiLie.osz
+2023-08-16 07:58:52 .....      7629021      7629021  1910436 Leo_need - Asu no Yozora Shoukaihan.osz
+2023-08-16 07:58:52 .....      4287247      4287247  1949806 James Landino _ Kabuki - Birdsong.osz
+2023-08-16 07:58:52 .....      3959343      3959343  1959771 VTORNIK - Money Rain (Phonk Remix).osz
+2023-08-16 07:58:54 .....      7815107      7815107  1967567 SPYAIR - Imagination (TV Size).osz
+2023-08-16 07:58:58 .....      6683800      6683800  1970783 Sound piercer feat. DAZBEE - Hanatachi ni Kibou o.osz
+2023-08-16 07:58:58 .....      6039571      6039571  1974310 Akiri - Anata ga Satta Shunkan.osz
+2023-08-16 07:58:58 .....     10117460     10117460  1974927 D-D-Dice vs. siromaru - Catch the Glory.osz
+2023-08-16 07:59:00 .....     27026727     27026727  1980729 LeaF - Doppelganger (extended ver.).osz
+2023-08-16 07:59:00 .....     17036546     17036546  1981762 Ogura Yui - Himitsu Melody (TV Size).osz
+2023-08-16 07:59:04 .....     16913575     16913575  1992065 Camellia vs. Akira Complex - Reality Distortion.osz
+2023-08-16 07:59:04 .....      4328294      4328294  1992710 Takahashi Rie_ Hidaka Rina_ Amaki Sally - yurukuru _ love (TV Size).osz
+2023-08-16 07:59:04 .....      3876037      3876037  2006522 DJ Noriken - Quon.osz
+2023-08-16 07:59:06 .....      6757559      6757559  2020261 toe - Sonny Boy Rhapsody.osz
+2023-08-16 07:59:06 .....      2897123      2897123  2022624 megawolf77 - Cubone_s Night Time.osz
+2023-08-16 07:59:10 .....      2250486      2250486  2028339 Victorious Cast - Take a Hint feat. Victoria Justice _ Elizabeth Gillies (Sped Up _ Cut Ver.).osz
+------------------- ----- ------------ ------------  ------------------------
+2023-08-16 07:59:10          152426126    152426126  20 files
+
+Listing archive: SM182 - osu!mania Beatmap Pack #182.zip
+
+--
+Path = SM182 - osu!mania Beatmap Pack #182.zip
+Type = zip
+Physical Size = 121824204
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2023-08-21 03:20:34 .....      6318284      6318284  1712457 Seiryu - AO-Infinity.osz
+2023-08-21 03:20:34 .....      4395893      4395893  1794518 Origami Angel - 666 Flags.osz
+2023-08-21 03:20:36 .....      2916151      2916151  1841442 Mili - Paper Bouquet (TV Size).osz
+2023-08-21 03:20:38 .....      4832869      4832869  1843271 JOYRYDE - ON FIRE.osz
+2023-08-21 03:20:38 .....      7958527      7958527  1883182 Camellia - NEURO-CLOUD-9.osz
+2023-08-21 03:20:40 .....      7712648      7712648  1905886 Haywyre - Dichotomy (Soft Mix).osz
+2023-08-21 03:20:40 .....      6705473      6705473  1934859 Minami - Kawaki wo Ameku.osz
+2023-08-21 03:20:40 .....      7219003      7219003  1937381 Frums - goTe EX.osz
+2023-08-21 03:20:42 .....     13177650     13177650  1939261 katagiri - Kyuukou.osz
+2023-08-21 03:20:44 .....      3991935      3991935  1946260 orgt - DESTINY.osz
+2023-08-21 03:20:46 .....      3369030      3369030  1964319 Sephra_s Paradox - Vector Field.osz
+2023-08-21 03:20:46 .....      5429697      5429697  1972324 James Landino - Arsene_s Bazaar.osz
+2023-08-21 03:20:46 .....      2952061      2952061  1979275 p_d - Dandelion Sparkle__.osz
+2023-08-21 03:20:48 .....      2789636      2789636  2005713 bo en - Tussle Among Trees.osz
+2023-08-21 03:20:50 .....     13376553     13376553  2008972 Ayaka Ohashi - Please_ please_ (TV Size).osz
+2023-08-21 03:20:52 .....      6600427      6600427  2019229 Utopia - Hujan.osz
+2023-08-21 03:20:52 .....      6379616      6379616  2022599 Chroma - Kenka no Bannin.osz
+2023-08-21 03:20:52 .....      2577680      2577680  2024427 leroy - ricky bobby.osz
+2023-08-21 03:20:54 .....      6487597      6487597  2029599 Patrick O_Neill - Drawing Shapes (catch me if you can).osz
+2023-08-21 03:20:56 .....      6630454      6630454  2034766 Frederic - oddloop.osz
+------------------- ----- ------------ ------------  ------------------------
+2023-08-21 03:20:56          121821184    121821184  20 files
