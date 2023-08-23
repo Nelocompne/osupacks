@@ -1405,3 +1405,35 @@ Physical Size = 107668227
 2023-08-07 06:15:10 .....      5016579      5016579  2030497 Louie Zong - Rhythm Hell.osz
 ------------------- ----- ------------ ------------  ------------------------
 2023-08-07 06:15:10          107665075    107665075  20 files
+
+Listing archive: ST242 - osu!taiko Beatmap Pack #242.zip
+
+--
+Path = ST242 - osu!taiko Beatmap Pack #242.zip
+Type = zip
+Physical Size = 125335693
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2023-08-16 07:54:32 .....      1490948      1490948  1086639 Otomania - Ievan Polkka (Cut Ver.).osz
+2023-08-16 07:54:34 .....      7184246      7184246  1632698 DJ SHARPNEL - 11Eleven.osz
+2023-08-16 07:54:34 .....      4948550      4948550  1687499 HiTECH NINJA - Memecore.osz
+2023-08-16 07:54:36 .....      6418607      6418607  1729416 SECONDWALL - Shizuka na Yoru ni.osz
+2023-08-16 07:54:38 .....      6961246      6961246  1818361 meganeko - Feral (osu_ edit).osz
+2023-08-16 07:54:38 .....      5073937      5073937  1825244 Mischievous_Straight - To the Shining MiLie.osz
+2023-08-16 07:54:40 .....      5491571      5491571  1922659 Kotone - Konkai no Soudou ni Tsukimashite..osz
+2023-08-16 07:54:42 .....      6777888      6777888  1931079 Spira Spica - Sansan Days.osz
+2023-08-16 07:54:42 .....      3654623      3654623  1939398 sanmal - rumble (grimexd).osz
+2023-08-16 07:54:42 .....      2310738      2310738  1957177 Lumi Athena - SMOKE IT OFF_ _ (feat. jnhygs).osz
+2023-08-16 07:54:44 .....     17914330     17914330  1974015 YOASOBI - Idol.osz
+2023-08-16 07:54:46 .....      9544957      9544957  1986096 HoneyWorks - Daikirai na Hazu Datta. feat. Hanae Natsuki_ Asakura Momo.osz
+2023-08-16 07:54:46 .....      8081130      8081130  1992006 Ray - a-gain.osz
+2023-08-16 07:54:48 .....      4761118      4761118  2000407 Laura Omloop - Zo Verliefd (Yodelo).osz
+2023-08-16 07:54:48 .....      4065180      4065180  2001130 Kino Hiko - The Noise of Rain.osz
+2023-08-16 07:54:48 .....      2854319      2854319  2008002 himmel feat. YooSanHyakurei - Maple Wind.osz
+2023-08-16 07:54:48 .....      3083954      3083954  2014152 Usada Pekora - PEKORANDOMBRAIN_.osz
+2023-08-16 07:54:52 .....      2642976      2642976  2024915 Dennis e Kevin O Chris - TA OK.osz
+2023-08-16 07:54:54 .....      2823255      2823255  2025229 tephe - Neppa feat. Butter [Tanger Remix] (Cut Ver.).osz
+2023-08-16 07:54:54 .....     19248736     19248736  2036571 GTS Sound Team - __wr_d._maker__ _Harmony in Reset_.osz
+------------------- ----- ------------ ------------  ------------------------
+2023-08-16 07:54:54          125332309    125332309  20 files
