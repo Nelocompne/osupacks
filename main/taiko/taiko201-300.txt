@@ -1437,3 +1437,35 @@ Physical Size = 125335693
 2023-08-16 07:54:54 .....     19248736     19248736  2036571 GTS Sound Team - __wr_d._maker__ _Harmony in Reset_.osz
 ------------------- ----- ------------ ------------  ------------------------
 2023-08-16 07:54:54          125332309    125332309  20 files
+
+Listing archive: ST243 - osu!taiko Beatmap Pack #243.zip
+
+--
+Path = ST243 - osu!taiko Beatmap Pack #243.zip
+Type = zip
+Physical Size = 149786261
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2023-08-27 12:54:18 .....      6339816      6339816  1794850 Pitbull - I Know You Want Me (Calle Ocho) (Radio Edit).osz
+2023-08-27 12:54:20 .....     10009468     10009468  1832846 Camellia - Tera I_O.osz
+2023-08-27 12:54:20 .....      4261347      4261347  1855684 Coconatsu - Kimi Ego Search.osz
+2023-08-27 12:54:20 .....      6002656      6002656  1916295 August Burns Red - White Washed (2022).osz
+2023-08-27 12:54:24 .....      2930620      2930620  1920170 Oncill - DONT CAARE (Cut Ver.).osz
+2023-08-27 12:54:24 .....      4731399      4731399  1925743 Curren - City Lights.osz
+2023-08-27 12:54:26 .....      5717938      5717938  1964631 UNDEAD CORPORATION - Adore Your Pain.osz
+2023-08-27 12:54:26 .....      7652288      7652288  1976834 BilliumMoto _ Dictate - 1KARUGA.osz
+2023-08-27 12:54:26 .....       899312       899312  1987694 doctor - ghgh.osz
+2023-08-27 12:54:30 .....     25709180     25709180  1991420 Soulja Boy Tell_em - Kiss Me Thru The Phone feat. Sammie.osz
+2023-08-27 12:54:32 .....      8539071      8539071  1998351 PSYQUI - Start Up feat. Such.osz
+2023-08-27 12:54:32 .....     10319809     10319809  2004615 Hoang Thuy Linh - See Tinh (Sped Up _ Cut Ver.).osz
+2023-08-27 12:54:32 .....     10313382     10313382  2011128 RD-Sounds feat. Meramipop - enemy of the society.osz
+2023-08-27 12:54:34 .....     12575958     12575958  2019871 Ayaka Ohashi - Please_ please_ (TV Size).osz
+2023-08-27 12:54:36 .....      5251820      5251820  2020210 goreshit - toromi hearts 2.osz
+2023-08-27 12:54:36 .....      2846764      2846764  2020874 Nightmargin - Geothermal.osz
+2023-08-27 12:54:38 .....      4278090      4278090  2023508 4nzu - Aimgalc Girl (Reslice).osz
+2023-08-27 12:54:38 .....      4834339      4834339  2033762 Frums - Yoku.osz
+2023-08-27 12:54:40 .....      8763191      8763191  2034052 ReeK - See Ya_ Losers_ (I_m off to the Cable Tie Rave).osz
+2023-08-27 12:54:42 .....      7806481      7806481  2034526 Kikuo - Gomenne Gomenne.osz
+------------------- ----- ------------ ------------  ------------------------
+2023-08-27 12:54:42          149782929    149782929  20 files
