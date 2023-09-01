@@ -3095,3 +3095,35 @@ Physical Size = 188379026
 2023-08-12 07:40:06 .....      5406408      5406408  2032327 t_pazolite - You are the Miserable.osz
 ------------------- ----- ------------ ------------  ------------------------
 2023-08-12 07:40:06          188375702    188375702  20 files
+
+Listing archive: SC89 - osu!catch Beatmap Pack #89.zip
+
+--
+Path = SC89 - osu!catch Beatmap Pack #89.zip
+Type = zip
+Physical Size = 205506375
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2023-08-26 13:08:06 .....      6537264      6537264  1088296 Hatsuki Yura - Lunicode.osz
+2023-08-26 13:08:06 .....      7839852      7839852  1503387 Sweet Trip - Chocolate Matter.osz
+2023-08-26 13:08:08 .....      8301223      8301223  1583461 Sound Souler - Absent Color.osz
+2023-08-26 13:08:08 .....      5130937      5130937  1611226 LOONA - So What.osz
+2023-08-26 13:08:10 .....      6840351      6840351  1774474 2ToneDisco x Cosmicosmo - Shoelaces (feat. Puniden).osz
+2023-08-26 13:08:12 .....      9738824      9738824  1776945 MY FIRST STORY - REVIVER.osz
+2023-08-26 13:08:12 .....      7404411      7404411  1809578 Rameses B - Mountains (feat. Veela).osz
+2023-08-26 13:08:12 .....     17533618     17533618  1866007 Hoshimachi Suisei - Stellar Stellar.osz
+2023-08-26 13:08:14 .....     36952484     36952484  1875364 Futa (CV_ Arthur Lounsbery) - Bring It On.osz
+2023-08-26 13:08:16 .....      7734979      7734979  1978260 kessoku band - Guitar to Kodoku to Aoi Hoshi.osz
+2023-08-26 13:08:16 .....      5541296      5541296  1981980 Ardolf - Warrior Of Multiverse.osz
+2023-08-26 13:08:18 .....     12856242     12856242  1987540 Isla (CV_ Amamiya Sora) - Suki nanode..osz
+2023-08-26 13:08:18 .....      9282830      9282830  1992691 BlackY feat. Risa Yuzuki - Gyakkoushite Touhikou.osz
+2023-08-26 13:08:20 .....      6968257      6968257  1996373 kessoku band - Karakara.osz
+2023-08-26 13:08:22 .....      8636583      8636583  2004123 Kitamura Eri - Revolution [re_i].osz
+2023-08-26 13:08:24 .....      7045996      7045996  2019051 HO-KAGO TEA TIME - Tenshi ni Fureta yo_ (Asterisk DnB Remix).osz
+2023-08-26 13:08:24 .....      8678365      8678365  2020125 ELFENSJoN - AGASTYA.osz
+2023-08-26 13:08:26 .....     14195919     14195919  2030181 2gou. - Shibamata.osz
+2023-08-26 13:08:26 .....      7323839      7323839  2036359 Masyunya the Maid - MAIDCORE.osz
+2023-08-26 13:08:28 .....     10959753     10959753  2036413 Tedjimo yomigY - Kageboushi _Luciola Cruciata_.osz
+------------------- ----- ------------ ------------  ------------------------
+2023-08-26 13:08:28          205503023    205503023  20 files
