@@ -1469,3 +1469,35 @@ Physical Size = 149786261
 2023-08-27 12:54:42 .....      7806481      7806481  2034526 Kikuo - Gomenne Gomenne.osz
 ------------------- ----- ------------ ------------  ------------------------
 2023-08-27 12:54:42          149782929    149782929  20 files
+
+Listing archive: ST244 - osu!taiko Beatmap Pack #244.zip
+
+--
+Path = ST244 - osu!taiko Beatmap Pack #244.zip
+Type = zip
+Physical Size = 98284594
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2023-08-31 12:03:02 .....      5474164      5474164  678312 Yunomi - Yume de Mata Aetaranaa (feat. nicamoq).osz
+2023-08-31 12:03:02 .....      3680465      3680465  1741132 Five Hammer - fffff op.2.osz
+2023-08-31 12:03:04 .....      9998001      9998001  1908844 Kikuo - Ten Sho Sho Ten Sho.osz
+2023-08-31 12:03:04 .....      6431173      6431173  1918935 a crowd of rebellion - MALIGNANT.osz
+2023-08-31 12:03:06 .....      4213986      4213986  1959074 TUYU - Kore Dakara Yamerannai_.osz
+2023-08-31 12:03:06 .....      7960078      7960078  1984610 Ludicin - Bismuth.osz
+2023-08-31 12:03:06 .....      5918098      5918098  1985507 Pluvio - Square Peg.osz
+2023-08-31 12:03:08 .....      7568192      7568192  2005381 quannnic - snarky.osz
+2023-08-31 12:03:08 .....      3292350      3292350  2013740 PSYQUI feat. mikanzil - Bye or not.osz
+2023-08-31 12:03:08 .....      7470993      7470993  2025023 tephe - Genjitsu Escape.osz
+2023-08-31 12:03:12 .....      3851591      3851591  2026188 YOASOBI - Idol (Imaginary Reality Remix).osz
+2023-08-31 12:03:14 .....      2592637      2592637  2029654 Kola Kid - 2punk2suck.osz
+2023-08-31 12:03:14 .....      4429871      4429871  2033193 Down - nanoya.osz
+2023-08-31 12:03:16 .....      4215048      4215048  2036468 ITHAQUA - aoi kokoro.osz
+2023-08-31 12:03:16 .....      9440425      9440425  2042161 Centimillimental - Bokura dake no Shudaika.osz
+2023-08-31 12:03:16 .....      1175163      1175163  2042188 Down - Yamangomcpro6th.osz
+2023-08-31 12:03:16 .....      1013558      1013558  2042417 ReeK - reharmonized Sex - the sequel.osz
+2023-08-31 12:03:18 .....      5535993      5535993  2042964 Slax - Lunaticon.osz
+2023-08-31 12:03:18 .....      1231682      1231682  2047156 Nekomata Master - Welcome to tricoro system.osz
+2023-08-31 12:03:18 .....      2787948      2787948  2047524 Mqx - Sigma Anthem (feat. Christian Bale) (Sped Up Ver.).osz
+------------------- ----- ------------ ------------  ------------------------
+2023-08-31 12:03:18           98281416     98281416  20 files
