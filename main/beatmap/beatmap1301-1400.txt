@@ -1213,3 +1213,35 @@ Physical Size = 185313212
 2023-08-31 11:59:58 .....      7816825      7816825  2045702 solfa feat. Annabel - Stargazer.osz
 ------------------- ----- ------------ ------------  ------------------------
 2023-08-31 11:59:58          185310180    185310180  20 files
+
+Listing archive: S1339 - osu! Beatmap Pack #1339.zip
+
+--
+Path = S1339 - osu! Beatmap Pack #1339.zip
+Type = zip
+Physical Size = 198289302
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2023-09-01 13:25:38 .....      3050147      3050147  1267571 Barenaked Ladies - Big Bang Theory Theme.osz
+2023-09-01 13:25:38 .....      5424456      5424456  1409123 MIYAVI - Butterfly.osz
+2023-09-01 13:25:40 .....     23406942     23406942  1749417 Harumaki Gohan - Yakusoku.osz
+2023-09-01 13:25:42 .....     12430307     12430307  1879212 Central Cee - Doja.osz
+2023-09-01 13:25:42 .....     14679461     14679461  1928339 nasuo_ - Honey Jet Coaster (TV Size).osz
+2023-09-01 13:25:42 .....      6946274      6946274  1933416 Aiko Kayo - Hitomi no Naka no Meikyuu.osz
+2023-09-01 13:25:44 .....     11130281     11130281  1941244 yuinishio - Selfhug Biglove (TV Size).osz
+2023-09-01 13:25:44 .....      5715049      5715049  1942294 MAISONdes - Tokyo Shandy Rendez-vous feat. KAF_ Tsumiki.osz
+2023-09-01 13:25:44 .....     14418684     14418684  1942367 Survive Said The Prophet - MUKANJYO (TV Size).osz
+2023-09-01 13:25:46 .....      8531175      8531175  1958935 Natasha Bedingfield - Unwritten.osz
+2023-09-01 13:25:46 .....      6401301      6401301  1962244 Kuon Nanami (VO_ Lezel) - DEPARTURES.osz
+2023-09-01 13:25:50 .....      6550862      6550862  1969634 Felt - Name In Ya Mouth.osz
+2023-09-01 13:25:52 .....      5462264      5462264  1972749 James Landino - Aresene_s Bazaar.osz
+2023-09-01 13:25:52 .....     19577696     19577696  1980597 supercell - Sayonara Memories.osz
+2023-09-01 13:25:54 .....     13165450     13165450  1980599 WANDS - RAISE INSIGHT (TV Size).osz
+2023-09-01 13:25:54 .....      4438403      4438403  2007277 Falcom Sound Team jdk - Hope Alive.osz
+2023-09-01 13:25:54 .....      5744648      5744648  2008239 xaev - they asked me how we got here_ i told them _sir_ this is an arby_s_.osz
+2023-09-01 13:25:56 .....     14364124     14364124  2011188 FIELD OF VIEW - DAN DAN Kokoro Hikareteku (TV Size).osz
+2023-09-01 13:25:56 .....      4273235      4273235  2028085 Kaichi Naito - Routine work _(.osz
+2023-09-01 13:25:56 .....     12575105     12575105  2040420 LONGMAN - spiral (TV Size).osz
+------------------- ----- ------------ ------------  ------------------------
+2023-09-01 13:25:56          198285864    198285864  20 files
