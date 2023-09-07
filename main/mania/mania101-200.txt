@@ -2897,3 +2897,35 @@ Physical Size = 153075477
 2023-08-31 12:04:16 .....      2683217      2683217  2033544 sigma - dorime..osz
 ------------------- ----- ------------ ------------  ------------------------
 2023-08-31 12:04:16          153071885    153071885  20 files
+
+Listing archive: SM185 - osu!mania Beatmap Pack #185.zip
+
+--
+Path = SM185 - osu!mania Beatmap Pack #185.zip
+Type = zip
+Physical Size = 140313645
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2023-09-06 07:24:36 .....     18005212     18005212  1477169 LiSA - crossing field (TV Size).osz
+2023-09-06 07:24:36 .....      4001142      4001142  1799504 Shinji Hosoe - Abyss of Hell.osz
+2023-09-06 07:24:36 .....      3539616      3539616  1851654 Shimotsuki Haruka _ riya - Mawaru Sekai de.osz
+2023-09-06 07:24:38 .....      9251286      9251286  1885239 weyheyhey __ - I_m Your Daddy (Extended Edition Bluray Box Set Mix).osz
+2023-09-06 07:24:38 .....      5893539      5893539  1897084 Red Velvet - Birthday.osz
+2023-09-06 07:24:38 .....      2298853      2298853  1904099 m.o.v.e - DOGFIGHT (TV Size).osz
+2023-09-06 07:24:40 .....      5438772      5438772  1924071 Ardolf - Lycanthrope.osz
+2023-09-06 07:24:40 .....      4556678      4556678  1964272 Chito (CV_ Inori Minase)_ Yuuri (CV_ Kubo Yurika) - More One Night (Assertive Hardcore Bootleg) [long ver.].osz
+2023-09-06 07:24:42 .....      5813666      5813666  1964321 IVE - Kitsch.osz
+2023-09-06 07:24:42 .....      4664259      4664259  1972938 IVE - I AM.osz
+2023-09-06 07:24:42 .....      4663991      4663991  1980480 HyuN - Grin.osz
+2023-09-06 07:24:44 .....      5165017      5165017  1987180 cygnus - The Evolution of War.osz
+2023-09-06 07:24:50 .....     11159771     11159771  1991630 Celldweller - Lost In Time.osz
+2023-09-06 07:24:50 .....      8820086      8820086  2010938 mafumafu - happy birthday to me.osz
+2023-09-06 07:24:50 .....      4333142      4333142  2012779 linear ring - lalabai call me.osz
+2023-09-06 07:24:52 .....      2545016      2545016  2021229 Chito (CV_ Inori Minase)_ Yuuri (CV_ Kubo Yurika) - More One Night (Assertive Hardcore Bootleg) (Short Ver.).osz
+2023-09-06 07:24:52 .....     10069793     10069793  2025539 Diao Ye Zong feat. Meramipop - Saifu _Kamiasobi no Uta_.osz
+2023-09-06 07:24:52 .....      5998451      5998451  2034887 Camellia - Diastrophism (_Anamorphism_ Long ver.).osz
+2023-09-06 07:24:54 .....     16445794     16445794  2037054 Ayatsuno Yuni - How to be mine.osz
+2023-09-06 07:24:54 .....      7646013      7646013  2044131 ikaruga_nex - SICK ROCK CRAZY.osz
+------------------- ----- ------------ ------------  ------------------------
+2023-09-06 07:24:54          140310097    140310097  20 files
