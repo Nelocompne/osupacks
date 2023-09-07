@@ -1245,3 +1245,35 @@ Physical Size = 198289302
 2023-09-01 13:25:56 .....     12575105     12575105  2040420 LONGMAN - spiral (TV Size).osz
 ------------------- ----- ------------ ------------  ------------------------
 2023-09-01 13:25:56          198285864    198285864  20 files
+
+Listing archive: S1340 - osu! Beatmap Pack #1340.zip
+
+--
+Path = S1340 - osu! Beatmap Pack #1340.zip
+Type = zip
+Physical Size = 196133311
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2023-09-05 13:01:54 .....     11297333     11297333  1546763 Frums - Pictured as Perfect and Plus.osz
+2023-09-05 13:01:56 .....     17657702     17657702  1639249 DIALOGUE_ - Omoide Shiritori (TV Size).osz
+2023-09-05 13:01:56 .....     15659680     15659680  1852365 PassCode - Ray (TV Size).osz
+2023-09-05 13:01:58 .....      5348574      5348574  1888926 Aoi Eir - Yurari.osz
+2023-09-05 13:01:58 .....     24279939     24279939  1923845 DVRST - I Hate You I Love You.osz
+2023-09-05 13:01:58 .....      5230545      5230545  1978549 RefraQ _ Vorso - Biomes (Cut Ver.).osz
+2023-09-05 13:02:00 .....      5493805      5493805  1980586 cygnus - Rengoku Mania.osz
+2023-09-05 13:02:00 .....      4450959      4450959  1983550 Suda Keina - Darling.osz
+2023-09-05 13:02:02 .....     35326672     35326672  1988558 sekai - Idol.osz
+2023-09-05 13:02:04 .....      5816240      5816240  2006337 cillia feat. Hatsune Miku - Melt.osz
+2023-09-05 13:02:04 .....      3650227      3650227  2007300 Vickeblanka - Lucky Ending (TV Size).osz
+2023-09-05 13:02:04 .....      5401465      5401465  2012655 Kanaria - Yoidore Shirazu.osz
+2023-09-05 13:02:06 .....     12312631     12312631  2013708 BiSH - innocent arrogance (TV Size).osz
+2023-09-05 13:02:06 .....     10126691     10126691  2020405 Kalmah - Towards the Sky.osz
+2023-09-05 13:02:08 .....      5109788      5109788  2029130 TrySail - KAREI ONE TURN (TV Size).osz
+2023-09-05 13:02:08 .....      5706757      5706757  2031858 Tenma Mitsuru (CV_ Ikeda Junya) - Start Dash Dash_ (Cut Ver.).osz
+2023-09-05 13:02:08 .....      2699995      2699995  2032400 Nishimori Yusa (CV_ Uchida Maaya) - Rakuen made (TV Size).osz
+2023-09-05 13:02:10 .....      3415941      3415941  2042418 -45 - Dogra Magra.osz
+2023-09-05 13:02:16 .....      6573338      6573338  2044626 C-Show - AImee feat. Aitsuki Nakuru.osz
+2023-09-05 13:02:16 .....     10571785     10571785  2046501 The 1975 - Somebody Else.osz
+------------------- ----- ------------ ------------  ------------------------
+2023-09-05 13:02:16          196130067    196130067  20 files
