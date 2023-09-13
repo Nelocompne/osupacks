@@ -1277,3 +1277,67 @@ Physical Size = 196133311
 2023-09-05 13:02:16 .....     10571785     10571785  2046501 The 1975 - Somebody Else.osz
 ------------------- ----- ------------ ------------  ------------------------
 2023-09-05 13:02:16          196130067    196130067  20 files
+
+Listing archive: S1341 - osu! Beatmap Pack #1341.zip
+
+--
+Path = S1341 - osu! Beatmap Pack #1341.zip
+Type = zip
+Physical Size = 215288620
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2023-09-07 23:21:28 .....      6083787      6083787  845983 Brec Bassinger - One Of The Boys (TV Size).osz
+2023-09-07 23:21:28 .....      8418971      8418971  1599522 Wendy Wander - Wo Xiang He Ni Yi Qi.osz
+2023-09-07 23:21:28 .....      5386594      5386594  1780595 bilbordy - risuyu krov_yu.osz
+2023-09-07 23:21:30 .....     10357061     10357061  1841216 Roselina - Kuroi Hanayome.osz
+2023-09-07 23:21:30 .....      3697090      3697090  1845584 Mifune Shioriko (CV_ Koizumi Moeka) - Ketsui no Hikari.osz
+2023-09-07 23:21:32 .....     15829449     15829449  1885852 Aimer with chelly (EGOIST) - ninelie (TV Size).osz
+2023-09-07 23:21:32 .....     15454573     15454573  1900097 Akiyama Kiro - SKETCH (TV Size).osz
+2023-09-07 23:21:34 .....     25077644     25077644  1901461 Charli XCX - Boys.osz
+2023-09-07 23:21:34 .....      4512514      4512514  1961109 Koji Kondo - Slider.osz
+2023-09-07 23:21:36 .....      7942394      7942394  2010229 Pendulum - Self vs Self (feat. In Flames).osz
+2023-09-07 23:21:36 .....      5659075      5659075  2010589 Junk - Yellow Smile (bms edit).osz
+2023-09-07 23:21:36 .....     17737201     17737201  2012662 Homecomings - Lapse (TV Size).osz
+2023-09-07 23:21:38 .....      8027827      8027827  2015526 YUC_e - Sugary Galaxy.osz
+2023-09-07 23:21:38 .....      9086968      9086968  2025809 Itou Masumi - Yume no Naka no Watashi no Yume (TV Size).osz
+2023-09-07 23:21:40 .....     16035423     16035423  2026147 Mia REGINA - I got it_ (TV Size).osz
+2023-09-07 23:21:40 .....      9697901      9697901  2031510 SawanoHiroyuki[nZk]_Aimer - ninelie _cry-v_.osz
+2023-09-07 23:21:44 .....      4246698      4246698  2032532 yuiko - GLORIOUS DAYS (Short Ver.).osz
+2023-09-07 23:21:46 .....      6254410      6254410  2039403 SECONDWALL - Freedom.osz
+2023-09-07 23:21:46 .....      6353065      6353065  2043452 Mizuki Nana x T.M.Revolution - Kakumei Dualism (TV Size).osz
+2023-09-07 23:21:48 .....     29426579     29426579  2051816 polysha - Where the Spirits Go On.osz
+------------------- ----- ------------ ------------  ------------------------
+2023-09-07 23:21:48          215285224    215285224  20 files
+
+Listing archive: S1342 - osu! Beatmap Pack #1342.zip
+
+--
+Path = S1342 - osu! Beatmap Pack #1342.zip
+Type = zip
+Physical Size = 352337358
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2023-09-11 23:00:06 .....      8410483      8410483  1837642 Takamori Aiko (CV_ Kaneko Yuki)_ Doumyouji Karin (CV_ Nitta Hiyori) - Hohoemi Diary.osz
+2023-09-11 23:00:08 .....     33062482     33062482  1850986 Aoi - King Atlantis.osz
+2023-09-11 23:00:08 .....     34124670     34124670  1912647 PassCode - SIREN.osz
+2023-09-11 23:00:10 .....     18775935     18775935  1929568 Tsukuyomi - Hana ni Ame o_ Kimi ni Uta o.osz
+2023-09-11 23:00:10 .....      7594560      7594560  1962243 Victorious Cast feat. Victoria Justice - Freak the Freak Out (Nightcore Mix).osz
+2023-09-11 23:00:10 .....      4285819      4285819  1990362 _UICIDEBOY_ x GETTER - MEMOIRS OF A GORILLA.osz
+2023-09-11 23:00:12 .....      5426472      5426472  1992574 girl in red - i_ll die anyway..osz
+2023-09-11 23:00:12 .....      4747743      4747743  1993522 Ke_ha - Your Love Is My Drug.osz
+2023-09-11 23:00:14 .....     36775268     36775268  1999312 Vanessa Carlton - A Thousand Miles.osz
+2023-09-11 23:00:14 .....      6975543      6975543  2003683 Crown The Empire - Superstar (feat. Remington Leith).osz
+2023-09-11 23:00:16 .....     41143408     41143408  2006870 Shoji Meguro feat. Yumi Kawamura - Kimi no Kioku.osz
+2023-09-11 23:00:18 .....     14973574     14973574  2017649 LiSA - crossing field (TV Size).osz
+2023-09-11 23:00:20 .....     57368245     57368245  2023965 --RAYvateinn-- - Touhou Medley P - vol.5.osz
+2023-09-11 23:00:20 .....     17778153     17778153  2027396 Tsuzuri - NAME (TV Size).osz
+2023-09-11 23:00:20 .....      8994407      8994407  2028756 Masayoshi Soken - Scream.osz
+2023-09-11 23:00:22 .....     13449216     13449216  2031289 Shimotsuki Haruka - Mizu o Utsusu Mono.osz
+2023-09-11 23:00:22 .....     16290176     16290176  2037816 Hoshimachi Suisei - 7days.osz
+2023-09-11 23:00:22 .....      6013008      6013008  2040338 Pierce The Veil - Props _ Mayhem.osz
+2023-09-11 23:00:24 .....      9343601      9343601  2042736 ROSIVO feat. Sakaue Nachi - Eternal Dream.osz
+2023-09-11 23:00:24 .....      6801083      6801083  2052791 Ensou - Event Horizon.osz
+------------------- ----- ------------ ------------  ------------------------
+2023-09-11 23:00:24          352333846    352333846  20 files
