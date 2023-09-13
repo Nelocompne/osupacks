@@ -3127,3 +3127,35 @@ Physical Size = 205506375
 2023-08-26 13:08:28 .....     10959753     10959753  2036413 Tedjimo yomigY - Kageboushi _Luciola Cruciata_.osz
 ------------------- ----- ------------ ------------  ------------------------
 2023-08-26 13:08:28          205503023    205503023  20 files
+
+Listing archive: SC90 - osu!catch Beatmap Pack #90.zip
+
+--
+Path = SC90 - osu!catch Beatmap Pack #90.zip
+Type = zip
+Physical Size = 226574013
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2023-09-07 23:23:08 .....     16237948     16237948  924823 Avenged Sevenfold - Save Me.osz
+2023-09-07 23:23:10 .....      7291509      7291509  1425357 inabakumori - Lagtrain.osz
+2023-09-07 23:23:12 .....     11589093     11589093  1464063 hololive IDOL PROJECT - Suspect.osz
+2023-09-07 23:23:12 .....      8533761      8533761  1471258 Yousei Teikoku - Kuraki Sekai no Doukoku.osz
+2023-09-07 23:23:12 .....      3567320      3567320  1583832 hyi - we all burn.osz
+2023-09-07 23:23:14 .....     24628539     24628539  1587120 Fleshgod Apocalypse - No.osz
+2023-09-07 23:23:14 .....      5923492      5923492  1693939 Omoinotake - One Day.osz
+2023-09-07 23:23:16 .....     14387611     14387611  1749850 Wolpis Kater - Oxalis.osz
+2023-09-07 23:23:16 .....      6549786      6549786  1828947 Neko Hacker - People People feat. Nanahira.osz
+2023-09-07 23:23:18 .....     26627471     26627471  1961364 Shidou (CV_ Shugo Nakamura) - Triage.osz
+2023-09-07 23:23:18 .....     35769616     35769616  1963350 TUYU - Under Kids.osz
+2023-09-07 23:23:18 .....      3384778      3384778  1999473 KOCHO - Hanyamaru Manten_ Zenitendou. (TV Size).osz
+2023-09-07 23:23:20 .....      5882749      5882749  2004026 Ardolf - Eternally Onward.osz
+2023-09-07 23:23:20 .....      6376182      6376182  2019557 Kaarija - Cha Cha Cha.osz
+2023-09-07 23:23:22 .....     10407209     10407209  2023603 Mizuki Nana - TESTAMENT -Aufwachen Form-.osz
+2023-09-07 23:23:22 .....      7186851      7186851  2039560 yuikonnu - caramel heaven.osz
+2023-09-07 23:23:24 .....      7101014      7101014  2040393 Cilla Kung - Fantasy Tale.osz
+2023-09-07 23:23:24 .....      9188609      9188609  2040411 EmoCosine - Black sour Ruby (Extended Smelting).osz
+2023-09-07 23:23:24 .....      8444825      8444825  2040467 SOOOO - Raven Haven.osz
+2023-09-07 23:23:30 .....      7492472      7492472  2042773 S3RL feat. Sara - Feel The Melody.osz
+------------------- ----- ------------ ------------  ------------------------
+2023-09-07 23:23:30          226570835    226570835  20 files
