@@ -1501,3 +1501,35 @@ Physical Size = 98284594
 2023-08-31 12:03:18 .....      2787948      2787948  2047524 Mqx - Sigma Anthem (feat. Christian Bale) (Sped Up Ver.).osz
 ------------------- ----- ------------ ------------  ------------------------
 2023-08-31 12:03:18           98281416     98281416  20 files
+
+Listing archive: ST245 - osu!taiko Beatmap Pack #245.zip
+
+--
+Path = ST245 - osu!taiko Beatmap Pack #245.zip
+Type = zip
+Physical Size = 135528158
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2023-09-09 05:02:34 .....      9666248      9666248  1234366 DragonForce - Fury of the Storm.osz
+2023-09-09 05:02:34 .....     16735679     16735679  1422322 Jeremy Morris - jermaJam.osz
+2023-09-09 05:02:34 .....      9556118      9556118  1808793 Suzumiya Haruhi (CV_ Hirano Aya) - God knows... -G.PELLEGRINO MIX-.osz
+2023-09-09 05:02:36 .....      3739560      3739560  1823663 A_ - WAVE PUNCH.osz
+2023-09-09 05:02:36 .....      7085951      7085951  1845695 Tsukuyomi - Dareka no Shinzou ni Nareta nara.osz
+2023-09-09 05:02:38 .....      3411236      3411236  1890568 goshkins - Help.osz
+2023-09-09 05:02:38 .....      6441659      6441659  1965080 Karen_ Koharu Meu_ Harukawa Akari - Jounetsu Utopia.osz
+2023-09-09 05:02:38 .....      7141844      7141844  1997765 LADY_S ONLY - ex-senpai feat. Hoshimiya Toto.osz
+2023-09-09 05:02:40 .....      3657456      3657456  2001564 6pcmeal - The Real Big Chungus.osz
+2023-09-09 05:02:40 .....      3285186      3285186  2014464 SOUND HOLIC vs. T.Kakuta feat. Nana Takahashi - ROZA DE ANDALUCIA.osz
+2023-09-09 05:02:40 .....     12034140     12034140  2015821 Takahashi Yoko - Nyankoku na Nyanko no These.osz
+2023-09-09 05:02:42 .....     13400388     13400388  2016209 Yorushika - Shayou (TV Size).osz
+2023-09-09 05:02:42 .....      4686471      4686471  2017321 ILLENIUM - Eyes Wide Shut (with Avril Lavigne _ Travis Barker).osz
+2023-09-09 05:02:48 .....      7550991      7550991  2031892 TJ Davis - Can You Feel The Sunshine_.osz
+2023-09-09 05:02:48 .....      1558904      1558904  2032493 Shikiura. - Patchwork.osz
+2023-09-09 05:02:48 .....      9018531      9018531  2033330 Kamiyama Shiki (CV_ Fairouz Ai) - Don_t Cry Red (Rlia Hardcore Remix).osz
+2023-09-09 05:02:50 .....      6629823      6629823  2043434 GLORYHAMMER - Infernus Ad Astra _ Rise Of The Chaos Wizards.osz
+2023-09-09 05:02:50 .....      4153628      4153628  2049745 C418 - Subwoofer Lullaby.osz
+2023-09-09 05:02:50 .....      4079393      4079393  2051106 Abydos High School Countermeasure Council - Kagayaki Summer Days (Cut Ver.).osz
+2023-09-09 05:02:52 .....      1691260      1691260  2052470 Numtack05 - Genkaku Catastrophe.osz
+------------------- ----- ------------ ------------  ------------------------
+2023-09-09 05:02:52          135524466    135524466  20 files
