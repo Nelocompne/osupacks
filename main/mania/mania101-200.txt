@@ -2929,3 +2929,35 @@ Physical Size = 140313645
 2023-09-06 07:24:54 .....      7646013      7646013  2044131 ikaruga_nex - SICK ROCK CRAZY.osz
 ------------------- ----- ------------ ------------  ------------------------
 2023-09-06 07:24:54          140310097    140310097  20 files
+
+Listing archive: SM186 - osu!mania Beatmap Pack #186.zip
+
+--
+Path = SM186 - osu!mania Beatmap Pack #186.zip
+Type = zip
+Physical Size = 124951100
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2023-09-10 07:04:24 .....     15963020     15963020  1765222 Neko Hacker - People People feat. Nanahira.osz
+2023-09-10 07:04:24 .....      3786395      3786395  1768392 CK - Nirv lucE.osz
+2023-09-10 07:04:26 .....      5439090      5439090  1934901 Grimes _ i_o - Violence.osz
+2023-09-10 07:04:26 .....      9729358      9729358  1936097 II-L - Asteroid Field of DECAPLETS.osz
+2023-09-10 07:04:28 .....      6922636      6922636  1937519 Crystal Castles - Vietnam.osz
+2023-09-10 07:04:28 .....     11659676     11659676  1942086 Riria. - Shitsuren Song Takusan Kiite Naite bakari no Watashi wa Mou. (TV Size).osz
+2023-09-10 07:04:28 .....      7338120      7338120  1977151 Bipmo Bopmo - Ultraviolet.osz
+2023-09-10 07:04:30 .....      5955620      5955620  1994184 YOASOBI - Kaibutsu.osz
+2023-09-10 07:04:30 .....      8439717      8439717  1994976 xi - Signal of Abydos (xi Remix).osz
+2023-09-10 07:04:32 .....      4513994      4513994  2003323 Tang Keke (CV_ Liyuu) - Mizuiro no Sunday (Cut Ver.).osz
+2023-09-10 07:04:32 .....      5028512      5028512  2008307 YUC_e - SPACE INVADER.osz
+2023-09-10 07:04:32 .....      6277447      6277447  2016596 Endorfin. - Luminous Rage -Feryquitous OrderBless Remix-.osz
+2023-09-10 07:04:38 .....      1729336      1729336  2018596 R3 Music Box - Aozora no Rhapsody.osz
+2023-09-10 07:04:38 .....      5016213      5016213  2021360 takehirotei - Unwelcome School x Sua Deng O Dok Zua (Extended).osz
+2023-09-10 07:04:40 .....      7259938      7259938  2037139 stellatram - METHOD_HYMME_LAIDERONETTE_..osz
+2023-09-10 07:04:40 .....      3904578      3904578  2037256 linear ring - Dream By Coma.osz
+2023-09-10 07:04:42 .....      6905537      6905537  2039280 Diceros Bicornis (xi _ BlackY) - Siva.osz
+2023-09-10 07:04:42 .....      3779587      3779587  2048064 Toromaru - Deorbit.osz
+2023-09-10 07:04:42 .....      2715883      2715883  2052515 Waterflame - The Show.osz
+2023-09-10 07:04:42 .....      2583025      2583025  2052537 wotoha - Digital Life Hacker (Cut Ver.).osz
+------------------- ----- ------------ ------------  ------------------------
+2023-09-10 07:04:42          124947682    124947682  20 files
