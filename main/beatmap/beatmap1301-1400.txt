@@ -1341,3 +1341,67 @@ Physical Size = 352337358
 2023-09-11 23:00:24 .....      6801083      6801083  2052791 Ensou - Event Horizon.osz
 ------------------- ----- ------------ ------------  ------------------------
 2023-09-11 23:00:24          352333846    352333846  20 files
+
+Listing archive: S1343 - osu! Beatmap Pack #1343.zip
+
+--
+Path = S1343 - osu! Beatmap Pack #1343.zip
+Type = zip
+Physical Size = 270216424
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2023-09-14 00:31:38 .....      6232766      6232766  1120892 Voicians - Closer (Cut Ver.).osz
+2023-09-14 00:31:38 .....     12408095     12408095  1424378 IGNEA - Jahi.osz
+2023-09-14 00:31:40 .....     32234171     32234171  1448081 Hoshimachi Suisei - GHOST.osz
+2023-09-14 00:31:42 .....     22813210     22813210  1678673 ClariS - border.osz
+2023-09-14 00:31:42 .....      6329476      6329476  1767260 yuki - Itsuka no Hakuchuumu.osz
+2023-09-14 00:31:44 .....     23197895     23197895  1827092 Aimiya Zero - breath of stella.osz
+2023-09-14 00:31:44 .....     45092519     45092519  1911208 Maon Kurosaki - more_STRONGLY.osz
+2023-09-14 00:31:46 .....      3894914      3894914  1941215 Nakiri Ayame - Cat Loving.osz
+2023-09-14 00:31:48 .....      7239411      7239411  1946710 nao feat. isui - Ukigumo.osz
+2023-09-14 00:31:48 .....     14216653     14216653  1955969 gmtn. (witch_s slave) - furioso melodia.osz
+2023-09-14 00:31:50 .....      5198952      5198952  2008030 HAARPER - DROP IT LIKE IT_S HOT_ (Prod. Luga).osz
+2023-09-14 00:31:50 .....     18727850     18727850  2017615 ChouCho - Yasashisa no Riyuu (TV Size).osz
+2023-09-14 00:31:52 .....     14204411     14204411  2029963 Ohashi Ayaka - Please_ please_.osz
+2023-09-14 00:31:54 .....     11728498     11728498  2039093 Xanthochroid - To Souls Distant and Dreaming.osz
+2023-09-14 00:31:54 .....      9913963      9913963  2040401 Ohara Yuiko - Musubime (TV Size).osz
+2023-09-14 00:31:54 .....      8988430      8988430  2041240 Minori Chihara - Michishirube.osz
+2023-09-14 00:31:56 .....      3860264      3860264  2044718 Linkin Park - Session.osz
+2023-09-14 00:31:56 .....     14152467     14152467  2047843 S3RL - T-T-Techno (feat. JessKah).osz
+2023-09-14 00:31:56 .....      5091022      5091022  2050540 beignet - S_more.osz
+2023-09-14 00:31:58 .....      4688259      4688259  2052931 Lidelle x Sobrem x Sennzai - self-dissociation.osz
+------------------- ----- ------------ ------------  ------------------------
+2023-09-14 00:31:58          270213226    270213226  20 files
+
+Listing archive: S1344 - osu! Beatmap Pack #1344.zip
+
+--
+Path = S1344 - osu! Beatmap Pack #1344.zip
+Type = zip
+Physical Size = 204442059
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2023-09-17 12:42:46 .....      2710528      2710528  1432147 Asuka Ohta_ Ryo Nagamatsu - Moo Moo Meadows.osz
+2023-09-17 12:42:46 .....      5514264      5514264  1455293 Far Caspian - Between Days.osz
+2023-09-17 12:42:46 .....     11394411     11394411  1792919 Yorushika - Deep Indigo.osz
+2023-09-17 12:42:48 .....      4083196      4083196  1901393 Celia Cruz - La Vida Es Un Carnaval (Tomas Asesio Edit) (Cut Ver.).osz
+2023-09-17 12:42:48 .....      7879358      7879358  1911093 Mili - Vitamins feat. world_s end girlfriend.osz
+2023-09-17 12:42:48 .....      6196062      6196062  1913331 Popuko (CV_ Masuda Toshiki) _ Pipimi (CV_ Hatano Wataru) - Kokoro no Taiju (Dansei Ver.).osz
+2023-09-17 12:42:50 .....      3083452      3083452  1938234 Masuda Junichi_ Kageyama Shota - Sentou_ Yasei Pokemon.osz
+2023-09-17 12:42:50 .....     30915475     30915475  1956893 Kaarija - Cha Cha Cha.osz
+2023-09-17 12:42:50 .....      3070362      3070362  1978274 Natsume Itsuki - Cat Loving.osz
+2023-09-17 12:42:52 .....      9051364      9051364  2000038 PSYQUI - Still in my heart feat. Punipuni Denki.osz
+2023-09-17 12:42:52 .....     15402231     15402231  2015509 Inukko Club - Wan Wan Wan Wan N_1__ (TV Size).osz
+2023-09-17 12:42:58 .....      5190513      5190513  2023412 Junk - Aihana.osz
+2023-09-17 12:42:58 .....      6587750      6587750  2025686 Aice room - For U.osz
+2023-09-17 12:42:58 .....     10255726     10255726  2038622 solfa feat. Rita - shield nine (new overdrive ver.).osz
+2023-09-17 12:42:58 .....      8910730      8910730  2041719 ClariS - Blue Canvas.osz
+2023-09-17 12:43:00 .....      5621314      5621314  2042457 Avril Lavigne - Love It When You Hate Me (feat. blackbear).osz
+2023-09-17 12:43:00 .....      4203632      4203632  2048186 6pcmeal - The Real Big Chungus.osz
+2023-09-17 12:43:02 .....     37457946     37457946  2053146 Maeda Jun x yanaginagi - Muteki no Soldier.osz
+2023-09-17 12:43:04 .....     11255986     11255986  2053765 Xomu _ Amidst - Pagoda.osz
+2023-09-17 12:43:04 .....     15654205     15654205  2053835 King Gnu - SPECIALZ (TV Size).osz
+------------------- ----- ------------ ------------  ------------------------
+2023-09-17 12:43:04          204438505    204438505  20 files
