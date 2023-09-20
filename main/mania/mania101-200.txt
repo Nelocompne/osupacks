@@ -2961,3 +2961,35 @@ Physical Size = 124951100
 2023-09-10 07:04:42 .....      2583025      2583025  2052537 wotoha - Digital Life Hacker (Cut Ver.).osz
 ------------------- ----- ------------ ------------  ------------------------
 2023-09-10 07:04:42          124947682    124947682  20 files
+
+Listing archive: SM187 - osu!mania Beatmap Pack #187.zip
+
+--
+Path = SM187 - osu!mania Beatmap Pack #187.zip
+Type = zip
+Physical Size = 187799132
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2023-09-16 12:24:02 .....      6510162      6510162  616909 a crowd of rebellion - Rebuild.osz
+2023-09-16 12:24:02 .....     17940714     17940714  1159165 Aso Natsuko - Perfect-area complete_ (TV Size).osz
+2023-09-16 12:24:04 .....      8452555      8452555  1245026 Atri (CV_ Akao Hikaru) - Dear Moments (Short Ver.).osz
+2023-09-16 12:24:06 .....      7109513      7109513  1309565 Camellia - Blackmagik Blazing.osz
+2023-09-16 12:24:06 .....      4207474      4207474  1568199 Qrispy Joybox feat. Megumi Tatsumi - HAPPY limelight.osz
+2023-09-16 12:24:06 .....     15200046     15200046  1808304 miraie _ Milkoi - Solemnity.osz
+2023-09-16 12:24:08 .....      9200051      9200051  1942597 Kurokotei feat. Sennzai - escape (the looking-glass_ and what alice found there).osz
+2023-09-16 12:24:08 .....      8095316      8095316  1953513 SEPHID feat. darkxixin - Fu Xiang Di Xin De Luo Ri Liu Hao _ Little Raven.osz
+2023-09-16 12:24:10 .....      4513119      4513119  1977936 A_ZU_NA - Infinity_ Our wings__ (TV Size).osz
+2023-09-16 12:24:10 .....      9177881      9177881  1999291 Chroma - lost memory.osz
+2023-09-16 12:24:10 .....      4671100      4671100  2004059 Sumire Uesaka - Seikatsu Konkyuu Dame Dinero (TV Size).osz
+2023-09-16 12:24:12 .....     15241181     15241181  2013110 PELICAN FANCLUB - Sangenshoku (TV Size).osz
+2023-09-16 12:24:12 .....      2980752      2980752  2023867 _namirin - Koi no Hime Hime Pettanko (Cut Ver.).osz
+2023-09-16 12:24:14 .....      8674294      8674294  2024918 Lorna Shore - ...And I Return To Nothingness.osz
+2023-09-16 12:24:14 .....      5967893      5967893  2027120 La priere - Instant Love.osz
+2023-09-16 12:24:14 .....     11603474     11603474  2028745 asmi feat. Chinozo - Dokimeki Diary (TV Size).osz
+2023-09-16 12:24:16 .....     17253290     17253290  2037983 A-One feat. Rute - Spider_s Blood.osz
+2023-09-16 12:24:16 .....     17994139     17994139  2047832 Happy Around_ feat. KYOKO _ SAKI - Guru Guru DJ TURN__ (TV Size).osz
+2023-09-16 12:24:18 .....      2785987      2785987  2049319 Yasunori Nishiki - Flamechurch_ Sacred Light -Night-.osz
+2023-09-16 12:24:18 .....     10216399     10216399  2052729 Natsume Itsuki - AI to CodeQ no Hate.osz
+------------------- ----- ------------ ------------  ------------------------
+2023-09-16 12:24:18          187795340    187795340  20 files
