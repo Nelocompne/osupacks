@@ -1533,3 +1533,35 @@ Physical Size = 135528158
 2023-09-09 05:02:52 .....      1691260      1691260  2052470 Numtack05 - Genkaku Catastrophe.osz
 ------------------- ----- ------------ ------------  ------------------------
 2023-09-09 05:02:52          135524466    135524466  20 files
+
+Listing archive: ST246 - osu!taiko Beatmap Pack #246.zip
+
+--
+Path = ST246 - osu!taiko Beatmap Pack #246.zip
+Type = zip
+Physical Size = 156011374
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2023-09-18 23:53:04 .....      3684934      3684934  1441157 Se-U-Ra x seatrus - Melusia.osz
+2023-09-18 23:53:06 .....     23197895     23197895  1827092 Aimiya Zero - breath of stella.osz
+2023-09-18 23:53:06 .....      3477552      3477552  1865630 Shiba Rintaro - _ _ __ _ _.osz
+2023-09-18 23:53:08 .....     16185182     16185182  1881138 TUYU - Donna Ketsumatsu ga Onozomi dai_.osz
+2023-09-18 23:53:08 .....     10048735     10048735  1918070 Minato Aqua - Songs Compilation.osz
+2023-09-18 23:53:08 .....     14679118     14679118  1924982 Nakanoke no Itsutsugo - Gotoubun no Kimochi (TV Size).osz
+2023-09-18 23:53:10 .....      3728288      3728288  1928563 exnoiz - Bomber.osz
+2023-09-18 23:53:10 .....      5365803      5365803  2004390 Kimiko Glenn_ Vanessa Hudgens and James Marsden - Fit Right In.osz
+2023-09-18 23:53:10 .....       626409       626409  2014700 Kondo Koji - MAP4 (Native Star).osz
+2023-09-18 23:53:10 .....      2190106      2190106  2021514 Een Glish - Overflow (feat. Tyfty _ Ben Glish).osz
+2023-09-18 23:53:12 .....      8858590      8858590  2028627 Hayakore Tatsumi - TatsumiyaTEK _02.osz
+2023-09-18 23:53:18 .....     17063245     17063245  2035756 Leo_need x Hatsune Miku - Stella.osz
+2023-09-18 23:53:18 .....     11457878     11457878  2044694 Lil Darkie - SOUND OF GRINDING A POLITICIAN_S SKULL INTO A FINE POWDER (FEAT. JOHNNASCUS).osz
+2023-09-18 23:53:18 .....      7360422      7360422  2052586 Bruce Hornsby and The Range - The Way It Is.osz
+2023-09-18 23:53:20 .....      8210943      8210943  2052673 Allegaeon - Dyson Sphere.osz
+2023-09-18 23:53:20 .....      5169362      5169362  2052754 P4koo - 8th_Planet _Re_search_.osz
+2023-09-18 23:53:20 .....      1426883      1426883  2052920 BLANKFIELD - Falling Falls.osz
+2023-09-18 23:53:22 .....      6126689      6126689  2053498 Blue Stahli - Rockstar.osz
+2023-09-18 23:53:22 .....      3301037      3301037  2054684 Onefin - fast odd snare.osz
+2023-09-18 23:53:22 .....      3848839      3848839  2055099 Mitsukiyo - Bunny Bunny Carrot Carrot.osz
+------------------- ----- ------------ ------------  ------------------------
+2023-09-18 23:53:22          156007910    156007910  20 files
