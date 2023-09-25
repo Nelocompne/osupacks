@@ -1405,3 +1405,67 @@ Physical Size = 204442059
 2023-09-17 12:43:04 .....     15654205     15654205  2053835 King Gnu - SPECIALZ (TV Size).osz
 ------------------- ----- ------------ ------------  ------------------------
 2023-09-17 12:43:04          204438505    204438505  20 files
+
+Listing archive: S1345 - osu! Beatmap Pack #1345.zip
+
+--
+Path = S1345 - osu! Beatmap Pack #1345.zip
+Type = zip
+Physical Size = 247783548
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2023-09-20 23:24:46 .....      8450750      8450750  552213 USAO - Get on.osz
+2023-09-20 23:24:48 .....      8470424      8470424  1134892 Mimori Suzuko - Univer Page.osz
+2023-09-20 23:24:48 .....      8484137      8484137  1603535 Hatsuki Yura - Eclipse Parade.osz
+2023-09-20 23:24:48 .....      9699629      9699629  1808152 Mili - Vitamins feat. world_s end girlfriend.osz
+2023-09-20 23:24:50 .....     19614939     19614939  1876060 IOSYS - Utage wa Eien ni.osz
+2023-09-20 23:24:50 .....     12435203     12435203  1907038 Andy Gillion - Skyless (feat. Jeff Loomis).osz
+2023-09-20 23:24:50 .....     13073354     13073354  1911119 Pastel_Palettes - Kyu_mai_flower.osz
+2023-09-20 23:24:52 .....      9788991      9788991  1924212 RADWIMPS - Hyperventilation.osz
+2023-09-20 23:24:52 .....     18398470     18398470  1951966 Kenji Ohtsuki to Zetsubou Shoujotachi - Ringo Mogire Beam_ (TV Size).osz
+2023-09-20 23:24:54 .....     48572975     48572975  1956695 WILLOW - _COPINGMECHANISM_.osz
+2023-09-20 23:24:56 .....      2655508      2655508  1969728 Rhodanthe_ - My Best Friends (TV Size).osz
+2023-09-20 23:24:58 .....     11498065     11498065  1982720 Asaba Rio - Futari Dake no Curtain Call.osz
+2023-09-20 23:24:58 .....     16144067     16144067  1991196 zts - summer_s winter.osz
+2023-09-20 23:24:58 .....      2868492      2868492  1997201 oesterreich - Rakuen no Kimi (TV Size).osz
+2023-09-20 23:25:00 .....      3986895      3986895  2008761 TJ.hangneil - Kamui.osz
+2023-09-20 23:25:00 .....     17913615     17913615  2020286 NICO Touches the Walls - Hologram (TV Size).osz
+2023-09-20 23:25:00 .....      4172645      4172645  2025208 B-Komachi Ai (CV_ Takahashi Rie) - Sign wa B -Ai Solo Ver.- (TV Size).osz
+2023-09-20 23:25:02 .....      8736941      8736941  2025601 Endorfin. - Horizon Claire.osz
+2023-09-20 23:25:02 .....     18093344     18093344  2029081 asmi feat. Chinozo - Dokimeki Diary (TV Size).osz
+2023-09-20 23:25:04 .....      4721704      4721704  2054500 Junk - Life is PIANO.osz
+------------------- ----- ------------ ------------  ------------------------
+2023-09-20 23:25:04          247780148    247780148  20 files
+
+Listing archive: S1346 - osu! Beatmap Pack #1346.zip
+
+--
+Path = S1346 - osu! Beatmap Pack #1346.zip
+Type = zip
+Physical Size = 207490966
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2023-09-24 04:42:26 .....     11105519     11105519  199838 Yonder Voice - Last Train.osz
+2023-09-24 04:42:26 .....      5137127      5137127  770713 Mahito Yokota - Buoy Base Galaxy.osz
+2023-09-24 04:42:28 .....      5654207      5654207  1128923 Sum 41 - No Reason.osz
+2023-09-24 04:42:28 .....      4242863      4242863  1621706 BlackY - Black Rose.osz
+2023-09-24 04:42:28 .....     12863411     12863411  1856293 CITROBAL - Celluloid.osz
+2023-09-24 04:42:28 .....      3616378      3616378  1891706 Sayuri - Hana no Tou (TV Size).osz
+2023-09-24 04:42:30 .....      3668755      3668755  1926212 Solar - RAW.osz
+2023-09-24 04:42:30 .....     14643760     14643760  1940294 Dory-Loup - Niwaka Ame ni mo Makezu.osz
+2023-09-24 04:42:36 .....     14098015     14098015  1952381 Elisa Rosselli - Winx Are Back (TV Size).osz
+2023-09-24 04:42:36 .....      7571492      7571492  1969705 halca - Romantic Manifest.osz
+2023-09-24 04:42:38 .....     28615177     28615177  1982170 TUYU - Under Heroine.osz
+2023-09-24 04:42:38 .....     20942030     20942030  2006091 Shiena Nishizawa - Piacere.osz
+2023-09-24 04:42:40 .....      8182833      8182833  2011387 Monster Siren Records - Chong Po Qiong Ding.osz
+2023-09-24 04:42:40 .....      3080503      3080503  2011719 Arima Kana (CV_ Han Megumi) - Piiman Taisou.osz
+2023-09-24 04:42:40 .....     12916176     12916176  2022658 Luna - Einstein yori Ai o Komete.osz
+2023-09-24 04:42:42 .....     25767888     25767888  2037278 Tsuzuri - NAME.osz
+2023-09-24 04:42:44 .....      4062683      4062683  2042163 MIMI - Dakishimeru made..osz
+2023-09-24 04:42:44 .....     11513835     11513835  2044096 Hisui Chazuke - Bomb Bang Bound___.osz
+2023-09-24 04:42:46 .....      6090442      6090442  2052201 ColBreakz _ Vizzen - Remember.osz
+2023-09-24 04:42:46 .....      3714722      3714722  2054648 solfa feat. Shimotsuki Haruka - my sweet heart.osz
+------------------- ----- ------------ ------------  ------------------------
+2023-09-24 04:42:46          207487816    207487816  20 files
