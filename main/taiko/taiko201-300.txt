@@ -1565,3 +1565,67 @@ Physical Size = 156011374
 2023-09-18 23:53:22 .....      3848839      3848839  2055099 Mitsukiyo - Bunny Bunny Carrot Carrot.osz
 ------------------- ----- ------------ ------------  ------------------------
 2023-09-18 23:53:22          156007910    156007910  20 files
+
+Listing archive: ST247 - osu!taiko Beatmap Pack #247.zip
+
+--
+Path = ST247 - osu!taiko Beatmap Pack #247.zip
+Type = zip
+Physical Size = 143698173
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2023-10-01 06:51:02 .....      3250058      3250058  1580023 Rin_ca - Kiseki Melody.osz
+2023-10-01 06:51:04 .....      8448417      8448417  1938114 Hayakore Tatsumi - Drawing for your Eyes.osz
+2023-10-01 06:51:04 .....      6394917      6394917  1938632 Tsukuyomi - IF.osz
+2023-10-01 06:51:04 .....      5954767      5954767  1947907 kessoku band - Distortion__.osz
+2023-10-01 06:51:06 .....      4677513      4677513  1957073 rei sirose - Hakidasu.osz
+2023-10-01 06:51:06 .....      8584372      8584372  1968810 Yuizuki Sora - Koi_ Hitokuchi..osz
+2023-10-01 06:51:06 .....      3667809      3667809  1975566 Wavves - Super Soaker.osz
+2023-10-01 06:51:08 .....      2576390      2576390  1976706 DREAMWARE - just a moment.osz
+2023-10-01 06:51:08 .....      3923012      3923012  1993798 Cascada - Everytime We Touch (Nightcore Mix).osz
+2023-10-01 06:51:08 .....      1776527      1776527  1997604 crafter2011 - ball hard.osz
+2023-10-01 06:51:14 .....      4389794      4389794  2003850 sokoninaru - saitei.osz
+2023-10-01 06:51:14 .....     29366587     29366587  2010148 MORDETWI - Somepony That I Used to Know.osz
+2023-10-01 06:51:16 .....     12215601     12215601  2022269 MyGO_____ - Hitoshizuku (TV Size).osz
+2023-10-01 06:51:16 .....      3047819      3047819  2023876 Paramore - For A Pessimist_ I_m Pretty Optimistic (Cut Ver.).osz
+2023-10-01 06:51:18 .....     11405470     11405470  2027658 Nora from Konya anomachikara - Chase Me (TV Size).osz
+2023-10-01 06:51:18 .....      3678280      3678280  2045736 _) feat. KAFU - Ren_ai Heiki_ Lethal Weapon-chan.osz
+2023-10-01 06:51:18 .....      9414608      9414608  2050740 Ice - Parodia Sonatina -Grande-.osz
+2023-10-01 06:51:20 .....      7234942      7234942  2053574 REDALiCE - Great Nano Desu_.osz
+2023-10-01 06:51:20 .....      8493889      8493889  2054228 Fellowship - The Frozen Land.osz
+2023-10-01 06:51:22 .....      5194091      5194091  2058094 Kozame-chan (CV_ Hanazawa Kana) - Yorimichi.osz
+------------------- ----- ------------ ------------  ------------------------
+2023-10-01 06:51:22          143694863    143694863  20 files
+
+Listing archive: ST248 - osu!taiko Beatmap Pack #248.zip
+
+--
+Path = ST248 - osu!taiko Beatmap Pack #248.zip
+Type = zip
+Physical Size = 131141411
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2023-10-04 00:10:24 .....      5126108      5126108  1425118 rei sirose - Lost Umbrella.osz
+2023-10-04 00:10:26 .....      3166343      3166343  1775163 Numb_n_dub - THIS IS MY LAST RESORT.osz
+2023-10-04 00:10:26 .....      5280421      5280421  1894355 Aitsuki Nakuru - Presenter_.osz
+2023-10-04 00:10:26 .....      5427129      5427129  1907017 MisoilePunch - Mesheer.osz
+2023-10-04 00:10:28 .....     20109556     20109556  1958665 bladee _ Thaiboy Digital _ ECCO2K - Victim.osz
+2023-10-04 00:10:28 .....      3202413      3202413  1978135 Kaga Michio (CV_ Yashiro Taku)_ Alan (CV_ Miyake Kenta) - Shinshi no Torihiki 60-man Nar (TV Size).osz
+2023-10-04 00:10:30 .....      6876233      6876233  1987197 Iyowa feat. Kasane Teto - BABEL.osz
+2023-10-04 00:10:30 .....      2819559      2819559  1990304 Sangatsu no Phantasia - Pink Lemonade (TV Size).osz
+2023-10-04 00:10:30 .....      3829470      3829470  2010165 Junk - Yellow Smile (bms edit).osz
+2023-10-04 00:10:32 .....     15677438     15677438  2010473 Silentroom - Shuu no Hazama.osz
+2023-10-04 00:10:32 .....      1536126      1536126  2017857 Kyatatsu - Temotemote_.osz
+2023-10-04 00:10:34 .....     11381661     11381661  2021516 CHiCO with HoneyWorks - Kessen Spirit (TV Size).osz
+2023-10-04 00:10:34 .....      3515756      3515756  2028207 Ashrount - LaureLs _the Angelus_.osz
+2023-10-04 00:10:34 .....      3840180      3840180  2040083 Tsuzuri - NAME (TV Size).osz
+2023-10-04 00:10:36 .....     10410504     10410504  2042533 Hayakore Tatsumi - TatsumiyaTEK _04.osz
+2023-10-04 00:10:36 .....      2796152      2796152  2053402 Mia Taylor (CV_ Uchida Shu) - Toy Doll.osz
+2023-10-04 00:10:38 .....     11240647     11240647  2053575 Hexacube - Bocchi The Tek_.osz
+2023-10-04 00:10:42 .....      3171177      3171177  2057179 Tartarate - Weakness.osz
+2023-10-04 00:10:44 .....      5697525      5697525  2059468 Earth_ Wind _ Fire - September.osz
+2023-10-04 00:10:44 .....      6033637      6033637  2060652 Tartarate - Moment.osz
+------------------- ----- ------------ ------------  ------------------------
+2023-10-04 00:10:44          131138035    131138035  20 files
