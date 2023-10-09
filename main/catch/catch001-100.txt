@@ -3159,3 +3159,35 @@ Physical Size = 226574013
 2023-09-07 23:23:30 .....      7492472      7492472  2042773 S3RL feat. Sara - Feel The Melody.osz
 ------------------- ----- ------------ ------------  ------------------------
 2023-09-07 23:23:30          226570835    226570835  20 files
+
+Listing archive: SC91 - osu!catch Beatmap Pack #91.zip
+
+--
+Path = SC91 - osu!catch Beatmap Pack #91.zip
+Type = zip
+Physical Size = 194712514
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2023-10-01 07:01:04 .....      2730045      2730045  1261301 Triodust - M.R..osz
+2023-10-01 07:01:06 .....     11041685     11041685  1445309 LeaF - Kyouki Ranbu (extended ver.).osz
+2023-10-01 07:01:06 .....      2802598      2802598  1544899 dark cat - BANANA STREET (Cut Ver.).osz
+2023-10-01 07:01:06 .....     10726097     10726097  1613644 Camellia - Fly Wit Me.osz
+2023-10-01 07:01:08 .....     26013525     26013525  1618365 SEPHID feat. darkxixin - Fu Xiang Di Xin De Luo Ri Liu Hao _ Little Raven.osz
+2023-10-01 07:01:08 .....      6375102      6375102  1837280 ELFENSJoN - INHERIT.osz
+2023-10-01 07:01:10 .....      8289268      8289268  1849910 Rings of Saturn - The Heavens Have Fallen.osz
+2023-10-01 07:01:10 .....      1661078      1661078  1914391 Momohara Natsuki (CV_ Murakawa Rie) - Natsuzora Yell (TV Size).osz
+2023-10-01 07:01:10 .....      6294369      6294369  1921831 PSYQUI - Hysteric Night Girl feat. Such (android52 Edit).osz
+2023-10-01 07:01:12 .....      6486047      6486047  1975613 EDEN - falling in reverse.osz
+2023-10-01 07:01:12 .....     15037916     15037916  1990779 May_n - Kyou ni Koiiro (TV Size).osz
+2023-10-01 07:01:12 .....      7723096      7723096  2000371 RSP - Sakura _Anata ni Deaete Yokatta_.osz
+2023-10-01 07:01:14 .....      7951672      7951672  2000438 Toromaru - Erinyes.osz
+2023-10-01 07:01:18 .....     26460704     26460704  2004111 Reol - Gokusaishiki.osz
+2023-10-01 07:01:20 .....     10288966     10288966  2012078 Gryffin _ Slander - All You Need To Know feat. Calle Lehmann (Far Out Remix).osz
+2023-10-01 07:01:20 .....      8997563      8997563  2015830 grasun cat - ruriair.osz
+2023-10-01 07:01:20 .....     15915008     15915008  2043818 YOASOBI - Idol (TV Size).osz
+2023-10-01 07:01:22 .....      6721110      6721110  2049277 Sleeping With Sirens - If You Can_t Hang.osz
+2023-10-01 07:01:22 .....     11001832     11001832  2056091 Laur - Collapse feat. Aitsuki Nakuru.osz
+2023-10-01 07:01:22 .....      2191375      2191375  2058169 Chatie - At Least (Extended Edit).osz
+------------------- ----- ------------ ------------  ------------------------
+2023-10-01 07:01:22          194709056    194709056  20 files
