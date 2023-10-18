@@ -1564,3 +1564,131 @@ Physical Size = 139247885
 2023-10-05 00:08:02 .....      7640748      7640748  2049932 Knife - Negaigoto Liner 2020.osz
 ------------------- ----- ------------ ------------  ------------------------
 2023-10-05 00:08:02          139244549    139244549  19 files
+
+Listing archive: S1350 - osu! Beatmap Pack #1350.zip
+
+--
+Path = S1350 - osu! Beatmap Pack #1350.zip
+Type = zip
+Physical Size = 217332149
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2023-10-10 00:06:48 .....      7132081      7132081  290111 Tsukasa Yatoki - Heaven_s Race Guitar Style.osz
+2023-10-10 00:06:48 .....      7118419      7118419  1128544 O-SE - Gesui Meidoushite Nezumi Ippiki.osz
+2023-10-10 00:06:48 .....     15044960     15044960  1309585 Kobaryo - SUPER MEMORIES X [feat. HiTNEX-X].osz
+2023-10-10 00:06:50 .....      9925568      9925568  1749924 GoldenWolf - Deaf To All But The Song.osz
+2023-10-10 00:06:50 .....      6761387      6761387  1756775 AAAA Chazuke - Sayonara Cosmonaut.osz
+2023-10-10 00:06:50 .....      9539574      9539574  1810611 Miki Sayaka (CV_ Kitamura Eri) _ Sakura Kyoko (CV_ Nonaka Ai) - and I_m home.osz
+2023-10-10 00:06:52 .....      6610107      6610107  1863492 Pierce The Veil - I Don_t Care If You_re Contagious.osz
+2023-10-10 00:06:52 .....      6295405      6295405  1866237 OLIVIA inspi_ REIRA(TRAPNEST) - Starless Night.osz
+2023-10-10 00:06:54 .....      6445643      6445643  1917736 Galileo Galilei feat. Aimer - Bed _ Love Song.osz
+2023-10-10 00:06:54 .....     29852484     29852484  1971143 Shawn Wasabi - Marble Soda.osz
+2023-10-10 00:06:56 .....      9016537      9016537  1985153 Kanpyohgo - Mannen Okigasa ni Gochui o -Festive Extended-.osz
+2023-10-10 00:06:56 .....     16353638     16353638  1995023 Volk (CV_ Anatoliy Papanov)_ Zayats (CV_ Klara Rumyanova) - Novogodnyaya pesenka (TV Size).osz
+2023-10-10 00:06:56 .....      7270070      7270070  2006248 Sena Airi (CV_ Gogyou Nazuna) - Symphonic Love ReArrange.osz
+2023-10-10 00:06:58 .....     17812714     17812714  2038222 Aitsuki Nakuru - Hatsukoi Nikki.osz
+2023-10-10 00:07:00 .....     19655958     19655958  2038252 ClariS - Blue Canvas.osz
+2023-10-10 00:07:00 .....      9888315      9888315  2043227 Oranges _ Lemons - Raspberry heaven (TV Size).osz
+2023-10-10 00:07:02 .....      5136967      5136967  2047330 PHAZE - abyss.osz
+2023-10-10 00:07:02 .....     16609880     16609880  2047777 Mori Calliope - end of a life (Holo Bass Remix).osz
+2023-10-10 00:07:02 .....      4872019      4872019  2052103 Markus Schukowski - What It Feels Like (Zardonic Remix).osz
+2023-10-10 00:07:04 .....      5986627      5986627  2056807 Kicco - The fine every day (TV Size).osz
+------------------- ----- ------------ ------------  ------------------------
+2023-10-10 00:07:04          217328353    217328353  20 files
+
+Listing archive: S1351 - osu! Beatmap Pack #1351.zip
+
+--
+Path = S1351 - osu! Beatmap Pack #1351.zip
+Type = zip
+Physical Size = 209270991
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2023-10-13 00:02:54 .....     10304969     10304969  564144 dj TAKA feat. AiMEE - True Blue.osz
+2023-10-13 00:02:54 .....      7295274      7295274  1614761 onoken - F-mine.osz
+2023-10-13 00:02:56 .....     14258710     14258710  1840611 Mili - Mortal With You (TV Size).osz
+2023-10-13 00:02:56 .....      4413786      4413786  1893565 -45 - Kurenaikakei.osz
+2023-10-13 00:02:56 .....      9277170      9277170  1910103 A.R. Kane - Butterfly Collector.osz
+2023-10-13 00:02:58 .....      8605713      8605713  1926727 Mili - Utopiosphere -Platonism-.osz
+2023-10-13 00:02:58 .....      8147185      8147185  1931702 Origami Angel - Noah Fence.osz
+2023-10-13 00:03:00 .....     14682540     14682540  1953116 Mili - Ame to Taieki to Nioi (TV Size).osz
+2023-10-13 00:03:00 .....      9520744      9520744  1979331 Lily Chou-Chou - Tobenai Tsubasa.osz
+2023-10-13 00:03:00 .....      7612428      7612428  1984028 Hanatan - Kokoronashi.osz
+2023-10-13 00:03:02 .....      4751999      4751999  2010238 bungeitengoku - golden drop.osz
+2023-10-13 00:03:04 .....     19913402     19913402  2015808 Yuni (CV_ Kohara Konomi) - Muteki Dreaming Yuni Solo Remix (Cut Ver.).osz
+2023-10-13 00:03:04 .....      7974972      7974972  2021173 Mitsukiyo - Constant Moderato Piano Arrange.osz
+2023-10-13 00:03:04 .....      5079607      5079607  2023741 leroy - wants mom to know she looks cool and doesn_t plan on changing.osz
+2023-10-13 00:03:06 .....      8305483      8305483  2025045 Red Hot Chili Peppers - Snow (Hey Oh).osz
+2023-10-13 00:03:06 .....      2050964      2050964  2030387 Wakeshima Kanon - world_s end_ girl_s rondo (Sped Up _ Cut Ver.).osz
+2023-10-13 00:03:08 .....     11915713     11915713  2030573 Avenged Sevenfold - Blinded in Chains.osz
+2023-10-13 00:03:08 .....     15207545     15207545  2033369 Snarky Puppy - Lingus.osz
+2023-10-13 00:03:10 .....     31485445     31485445  2067302 Official HIGE DANdism - Apoptosis.osz
+2023-10-13 00:03:12 .....      8463940      8463940  2067764 YOASOBI - Yuusha.osz
+------------------- ----- ------------ ------------  ------------------------
+2023-10-13 00:03:12          209267589    209267589  20 files
+
+Listing archive: S1352 - osu! Beatmap Pack #1352.zip
+
+--
+Path = S1352 - osu! Beatmap Pack #1352.zip
+Type = zip
+Physical Size = 194794945
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2023-10-14 00:31:02 .....      8125880      8125880  601873 AiRI - Towa ni Saku Hana.osz
+2023-10-14 00:31:04 .....      8009824      8009824  1778795 AVTechNO_ x Treow - DYE_Re_flection_.osz
+2023-10-14 00:31:04 .....      8650457      8650457  1819528 isui - Suisei ni Nareta nara.osz
+2023-10-14 00:31:04 .....      2542675      2542675  1872084 Hitomi Sato - Hearthome City (Day).osz
+2023-10-14 00:31:06 .....     17238663     17238663  1877293 GIRLFRIEND - sky _ blue (TV Size).osz
+2023-10-14 00:31:06 .....      6088521      6088521  1881386 Reven-G - SAKURA.osz
+2023-10-14 00:31:08 .....      9016543      9016543  1889419 Snail_s House - Pinky Promise.osz
+2023-10-14 00:31:08 .....      6498866      6498866  1896342 Kendrick Lamar - United In Grief.osz
+2023-10-14 00:31:08 .....      8734742      8734742  1899408 MONKEY MAJIK - Running In The Dark.osz
+2023-10-14 00:31:08 .....      8034728      8034728  1936331 Yorushika - Algernon.osz
+2023-10-14 00:31:10 .....      3770649      3770649  1938781 Luck Life - Kaze ga Fuku Machi (TV Size).osz
+2023-10-14 00:31:14 .....      9805012      9805012  1987536 ReoNa - VITA.osz
+2023-10-14 00:31:16 .....     16038439     16038439  2011170 Camellia - Looking for Edge of Ground.osz
+2023-10-14 00:31:16 .....     24249633     24249633  2019978 Zemfira - Beskonechnost_.osz
+2023-10-14 00:31:18 .....      3544915      3544915  2028708 Mia Taylor (CV_ Uchida Shu) - Toy Doll.osz
+2023-10-14 00:31:18 .....     16961716     16961716  2029964 Ohashi Ayaka - Please_ please_ (TV Size).osz
+2023-10-14 00:31:20 .....     19515026     19515026  2036274 BURNOUT SYNDROMES - Hana Ichi Monme (TV Size).osz
+2023-10-14 00:31:20 .....      7205520      7205520  2036291 Tomodachi Tsukuri-tai - Zannen-kei Rinjin-bu Hoshi Futatsuhan.osz
+2023-10-14 00:31:20 .....      5935848      5935848  2045738 Beyonce feat. Slim Thug - Check On It.osz
+2023-10-14 00:31:22 .....      4823988      4823988  2057584 SAMString - Ataraxia.osz
+------------------- ----- ------------ ------------  ------------------------
+2023-10-14 00:31:22          194791645    194791645  20 files
+
+Listing archive: S1353 - osu! Beatmap Pack #1353.zip
+
+--
+Path = S1353 - osu! Beatmap Pack #1353.zip
+Type = zip
+Physical Size = 208765773
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2023-10-18 00:03:40 .....     17357749     17357749  1329463 Shinomiya Kaguya (CV_ Koga Aoi) - Kotae Awase.osz
+2023-10-18 00:03:42 .....     13029520     13029520  1815879 xi - Vanitas.osz
+2023-10-18 00:03:42 .....      6025821      6025821  1869260 Zekk - Opal.osz
+2023-10-18 00:03:44 .....      3007468      3007468  1929147 Grant Kirkhope - Main Title.osz
+2023-10-18 00:03:44 .....      8432861      8432861  1935013 9uava - Prototype.osz
+2023-10-18 00:03:46 .....     21988018     21988018  1939339 ZUTOMAYO - Kira Killer (feat. Mori Calliope).osz
+2023-10-18 00:03:46 .....      3113593      3113593  1948652 Yuki (CV_ Oozora Naomi) - Narcistration.osz
+2023-10-18 00:03:48 .....      7027425      7027425  1990332 Mitei no Hanashi - Yoru o Koeru Ashioto.osz
+2023-10-18 00:03:48 .....      6952634      6952634  1991013 Konju (CV_ Yuuki Aoi) - Minasoko no Rhythm.osz
+2023-10-18 00:03:48 .....     16496251     16496251  1991774 OxT - UNION (TV Size).osz
+2023-10-18 00:03:50 .....     18412564     18412564  2002773 YUI - again (TV Size).osz
+2023-10-18 00:03:50 .....      7690533      7690533  2004213 RADWIMPS - Suzume feat. Toaka.osz
+2023-10-18 00:03:52 .....     17469430     17469430  2015117 Nakanoke no Itsutsugo - Sekaijuu Tatta Hitotsu (Game Ver.).osz
+2023-10-18 00:03:54 .....      8158152      8158152  2017141 DJ C__ - Samayou.osz
+2023-10-18 00:03:54 .....     14039702     14039702  2033524 Lia - Farewell song (Short Ver.).osz
+2023-10-18 00:03:56 .....      8142442      8142442  2045671 La priere - Flyby Anomaly.osz
+2023-10-18 00:03:56 .....      9550130      9550130  2052232 supercell - My Dearest.osz
+2023-10-18 00:03:56 .....      2932268      2932268  2056247 WINTERHORDE - The Shell.osz
+2023-10-18 00:03:58 .....      7317262      7317262  2065149 BUTAOTOME - Kasanaru Kage.osz
+2023-10-18 00:03:58 .....     11618742     11618742  2067186 Sayuri - Hana no Tou (nenpulse bootleg remix).osz
+------------------- ----- ------------ ------------  ------------------------
+2023-10-18 00:03:58          208762565    208762565  20 files
