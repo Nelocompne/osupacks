@@ -3191,3 +3191,35 @@ Physical Size = 194712514
 2023-10-01 07:01:22 .....      2191375      2191375  2058169 Chatie - At Least (Extended Edit).osz
 ------------------- ----- ------------ ------------  ------------------------
 2023-10-01 07:01:22          194709056    194709056  20 files
+
+Listing archive: SC92 - osu!catch Beatmap Pack #92.zip
+
+--
+Path = SC92 - osu!catch Beatmap Pack #92.zip
+Type = zip
+Physical Size = 143312004
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2023-10-13 00:03:54 .....      8207366      8207366  918947 Araki - Snow Drive (01.23).osz
+2023-10-13 00:03:54 .....      3395753      3395753  1431953 AZKi_ Omaru Polka - Kimi dake no Princess.osz
+2023-10-13 00:03:56 .....      9541831      9541831  1550986 Rin_ca - Koisuru MODE.osz
+2023-10-13 00:03:56 .....     13762153     13762153  1775578 Centimillimental - Kizuato (TV Size).osz
+2023-10-13 00:03:58 .....     13062373     13062373  1823936 Frog96 feat. KAFU - Fill me.osz
+2023-10-13 00:03:58 .....      3612708      3612708  1864922 twenty one pilots - Stressed Out.osz
+2023-10-13 00:03:58 .....      7315619      7315619  1967245 Yorushika - Itte..osz
+2023-10-13 00:04:00 .....      5757844      5757844  1971788 Mili - Vulnerability.osz
+2023-10-13 00:04:02 .....      5349955      5349955  1983155 ShinRa-Bansho - Miko-sama no Aburaage disco.osz
+2023-10-13 00:04:02 .....     11076028     11076028  2010903 Mili - Witch_s Invitation.osz
+2023-10-13 00:04:04 .....      6532244      6532244  2015516 Kotoha - Kawaikute Gomen.osz
+2023-10-13 00:04:04 .....      9503656      9503656  2019558 Krik_Krak - Archetype no Ido no Kaibutsu.osz
+2023-10-13 00:04:04 .....      6736843      6736843  2036438 ChouCho - Happy Fate.osz
+2023-10-13 00:04:06 .....      7464638      7464638  2039642 Ishihara Kaori - Plastic Smile.osz
+2023-10-13 00:04:06 .....      6958100      6958100  2044064 Akira Complex _ PSYQUI - Come to me.osz
+2023-10-13 00:04:08 .....     10053563     10053563  2044450 DJ SHARPNEL - BLUE ARMY.osz
+2023-10-13 00:04:08 .....      3174979      3174979  2046867 toby fox - Fallen Down.osz
+2023-10-13 00:04:08 .....      1691613      1691613  2056364 Numtack05 - Genkaku Catastrophe.osz
+2023-10-13 00:04:08 .....      7771771      7771771  2060198 Soundgarden - Black Hole Sun.osz
+2023-10-13 00:04:10 .....      2339807      2339807  2067239 Hitomi Sato - Route 201 (Day).osz
+------------------- ----- ------------ ------------  ------------------------
+2023-10-13 00:04:10          143308844    143308844  20 files
