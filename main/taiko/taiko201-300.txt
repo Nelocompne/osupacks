@@ -1629,3 +1629,35 @@ Physical Size = 131141411
 2023-10-04 00:10:44 .....      6033637      6033637  2060652 Tartarate - Moment.osz
 ------------------- ----- ------------ ------------  ------------------------
 2023-10-04 00:10:44          131138035    131138035  20 files
+
+Listing archive: ST249 - osu!taiko Beatmap Pack #249.zip
+
+--
+Path = ST249 - osu!taiko Beatmap Pack #249.zip
+Type = zip
+Physical Size = 154045114
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2023-10-11 00:08:10 .....      7118419      7118419  1128544 O-SE - Gesui Meidoushite Nezumi Ippiki.osz
+2023-10-11 00:08:10 .....     11142599     11142599  1320516 Release Hallucination - I.F..osz
+2023-10-11 00:08:12 .....      3801350      3801350  1789639 Megan Thee Stallion - Kitty Kat.osz
+2023-10-11 00:08:12 .....      5809844      5809844  1908846 Zenpaku - Resplendent Black.osz
+2023-10-11 00:08:14 .....      9277170      9277170  1910103 A.R. Kane - Butterfly Collector.osz
+2023-10-11 00:08:14 .....     12506099     12506099  1961959 Aiobahn feat. KOTOKO - INTERNET YAMERO.osz
+2023-10-11 00:08:14 .....      6145688      6145688  1973980 KEMOMIMI EDM SQUAD - _Breakcore Strikes Back_.osz
+2023-10-11 00:08:16 .....      6115621      6115621  2004174 Galen Tipton (feat. Atlas Moe_ Tripp Fontane_ T5UMUT5UMU _ Junior Astronaut) - mutant.osz
+2023-10-11 00:08:16 .....      9719496      9719496  2010438 Tropical_Stars - Orange Sapphire (you Remix).osz
+2023-10-11 00:08:18 .....      2553768      2553768  2022527 Tanger - BIKE.osz
+2023-10-11 00:08:18 .....      7679442      7679442  2024883 Xat0li _ Bandersnatch - Flowing Links (Tektheist Tidal Contacts Remix) (Sped Up Ver.).osz
+2023-10-11 00:08:20 .....      3544276      3544276  2031371 Kenta Nagata - GCN Baby Park.osz
+2023-10-11 00:08:20 .....      7155357      7155357  2031982 ClariS - CLICK (Asterisk DnB Remix).osz
+2023-10-11 00:08:20 .....      3989314      3989314  2038173 25-ji_ Nightcord de. - Venom.osz
+2023-10-11 00:08:22 .....      4692695      4692695  2045670 nao - Toaru Shoukoku no Ohimesama ga....osz
+2023-10-11 00:08:22 .....      5270973      5270973  2047694 DJ TATSUKI - NOISE feat. Benjazzy _ Jin Dogg.osz
+2023-10-11 00:08:24 .....      2725712      2725712  2049655 Go Ichinose - Lake.osz
+2023-10-11 00:08:24 .....      9405851      9405851  2051322 PSYQUI - Hype feat. Such.osz
+2023-10-11 00:08:24 .....      1745769      1745769  2054605 spellcasting - dog talk_.osz
+2023-10-11 00:08:26 .....     33642191     33642191  2064195 Tsukuyomi - Another Moon.osz
+------------------- ----- ------------ ------------  ------------------------
+2023-10-11 00:08:26          154041634    154041634  20 files
