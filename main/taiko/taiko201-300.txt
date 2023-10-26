@@ -1661,3 +1661,35 @@ Physical Size = 154045114
 2023-10-11 00:08:26 .....     33642191     33642191  2064195 Tsukuyomi - Another Moon.osz
 ------------------- ----- ------------ ------------  ------------------------
 2023-10-11 00:08:26          154041634    154041634  20 files
+
+Listing archive: ST250 - osu!taiko Beatmap Pack #250.zip
+
+--
+Path = ST250 - osu!taiko Beatmap Pack #250.zip
+Type = zip
+Physical Size = 219064100
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2023-10-25 00:34:10 .....      8682871      8682871  1662805 Sunless Rise - Awakening.osz
+2023-10-25 00:34:10 .....      2422409      2422409  1774068 [Kyoro] - Mochio-.osz
+2023-10-25 00:34:10 .....      4456159      4456159  1871513 Kikuo - Yousei no Kiri.osz
+2023-10-25 00:34:12 .....      3725079      3725079  1874775 moro - A flying Dance Hall.osz
+2023-10-25 00:34:12 .....     10653587     10653587  1909904 Infected Mushroom - Sa_eed.osz
+2023-10-25 00:34:14 .....     30250592     30250592  1916575 Fox Stevenson - Bruises.osz
+2023-10-25 00:34:16 .....      3576512      3576512  1927968 Shinonome Ena (CV_ Suzuki Minori) - I Nandesu.osz
+2023-10-25 00:34:18 .....     23725059     23725059  1930437 Lzie - All Nerds Can Fuck This Party.osz
+2023-10-25 00:34:20 .....      9107290      9107290  1961904 Toyama Nao - Gunjou Infinity.osz
+2023-10-25 00:34:20 .....      6681281      6681281  1970386 Hello_ Happy World_ - High Five Adventure.osz
+2023-10-25 00:34:22 .....      5680881      5680881  2006891 Kotoha - Ai Kotoba IV.osz
+2023-10-25 00:34:24 .....     32411376     32411376  2010002 FREDERIC - oddloop.osz
+2023-10-25 00:34:24 .....      7974111      7974111  2017653 BiSH - GiANT KiLLERS.osz
+2023-10-25 00:34:26 .....      8374412      8374412  2026828 katagiri - katagiri wa Denki Kitsune no Yume o Miru ka_.osz
+2023-10-25 00:34:26 .....     11770539     11770539  2029255 ACCAMER - fluoresce (TV Size).osz
+2023-10-25 00:34:28 .....     14439055     14439055  2032825 gingus - gingaloid mix.osz
+2023-10-25 00:34:28 .....     10194713     10194713  2046076 Zlonice - FuyukoChan_.osz
+2023-10-25 00:34:30 .....     10038853     10038853  2047786 Diao Ye Zong feat. Meramipop - Sono Tadashiki Kotoba no Moto ni.osz
+2023-10-25 00:34:30 .....      8385860      8385860  2058968 Hayakore Tatsumi - UmaUma200.osz
+2023-10-25 00:34:32 .....      6510223      6510223  2068019 Leo_need x Hatsune Miku - Umiyuri Kaiteitan.osz
+------------------- ----- ------------ ------------  ------------------------
+2023-10-25 00:34:32          219060862    219060862  20 files
