@@ -3153,3 +3153,35 @@ Physical Size = 236037784
 2023-10-18 00:04:54 .....     31087970     31087970  2068399 Hoshikawa Sara - Youkya JK ni Akogareru Inkya JK no Uta.osz
 ------------------- ----- ------------ ------------  ------------------------
 2023-10-18 00:04:54          236034386    236034386  20 files
+
+Listing archive: SM193 - osu!mania Beatmap Pack #193.zip
+
+--
+Path = SM193 - osu!mania Beatmap Pack #193.zip
+Type = zip
+Physical Size = 159088273
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2023-10-25 00:35:20 .....      1619735      1619735  1042862 Hitomi Sato - Bianca_s Theme.osz
+2023-10-25 00:35:20 .....      3504261      3504261  1250819 Ironami - Melty Sweets.osz
+2023-10-25 00:35:22 .....     16579872     16579872  1638224 xi - World Fragments.osz
+2023-10-25 00:35:22 .....      5496107      5496107  1939510 Virtual Riot - Don_t Need You.osz
+2023-10-25 00:35:24 .....      5083606      5083606  1941403 Kolaa x Mestie - Digibuprofen.osz
+2023-10-25 00:35:26 .....     42759453     42759453  1950014 sumika - Simple.osz
+2023-10-25 00:35:26 .....      1807554      1807554  1954150 jzxdx - zapreti redan.osz
+2023-10-25 00:35:28 .....      7199629      7199629  1957138 GLORYHAMMER - Rise Of The Chaos Wizards.osz
+2023-10-25 00:35:28 .....      3820066      3820066  1969618 Tezuka x Qayo - NINI.osz
+2023-10-25 00:35:30 .....      4132270      4132270  2006787 raja_ffm - the light (Cut Ver.).osz
+2023-10-25 00:35:32 .....      4333998      4333998  2010557 Lime - Selenadia.osz
+2023-10-25 00:35:32 .....     13899190     13899190  2026354 ClariS - Koi Sekai (TV Size).osz
+2023-10-25 00:35:34 .....      3650612      3650612  2042013 Natsukawa Aika (CV_ Suzumoto Akiho) - _Yume wa Mijikashi Koiseyo Otome (TV Size).osz
+2023-10-25 00:35:34 .....      9114638      9114638  2042505 Ayase Eli (CV_ Nanjo Yoshino) _ Tojo Nozomi (CV_ Kusuda Aina) - Garasu no Hanazono.osz
+2023-10-25 00:35:36 .....      6716668      6716668  2044155 Shiino Kotone (CV_ Kanako) - Ashita no Koto..osz
+2023-10-25 00:35:38 .....      7299946      7299946  2046321 Sataka Ryohei feat. Aitsuki Nakuru - Killer neuron.osz
+2023-10-25 00:35:38 .....      3523974      3523974  2052684 Aoi - c.s.q.n..osz
+2023-10-25 00:35:38 .....      1792167      1792167  2067815 Shintani Ryo - Neko Atsume no Thema.osz
+2023-10-25 00:35:40 .....     11106295     11106295  2070252 YOASOBI - Yuusha (TV Size).osz
+2023-10-25 00:35:40 .....      5644884      5644884  2070866 Sakuragawa Megu - Unreal Creation_.osz
+------------------- ----- ------------ ------------  ------------------------
+2023-10-25 00:35:40          159084925    159084925  20 files
