@@ -1692,3 +1692,67 @@ Physical Size = 208765773
 2023-10-18 00:03:58 .....     11618742     11618742  2067186 Sayuri - Hana no Tou (nenpulse bootleg remix).osz
 ------------------- ----- ------------ ------------  ------------------------
 2023-10-18 00:03:58          208762565    208762565  20 files
+
+Listing archive: S1354 - osu! Beatmap Pack #1354.zip
+
+--
+Path = S1354 - osu! Beatmap Pack #1354.zip
+Type = zip
+Physical Size = 196061231
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2023-10-21 00:33:48 .....     19432653     19432653  1580043 Laur - Vindication.osz
+2023-10-21 00:33:50 .....      7135050      7135050  1684582 Mizutani Runa (NanosizeMir) - Philosophyz -(memorial)-.osz
+2023-10-21 00:33:50 .....      8623209      8623209  1716004 xaki - rog-limitation.osz
+2023-10-21 00:33:52 .....      7444665      7444665  1773431 Nordman - Vandraren.osz
+2023-10-21 00:33:54 .....     28774362     28774362  1796464 Kairiki bear feat. Hatsune Miku - BUG.osz
+2023-10-21 00:33:54 .....     13762220     13762220  1949513 Vivy (VO_ Yagi Kairi) - Fluorite Eye_s Song.osz
+2023-10-21 00:33:54 .....      3429860      3429860  1963052 Shiina Mahiru (CV_ Iwami Manaka) - Kimi ni Todoke (TV Size).osz
+2023-10-21 00:33:56 .....      8594851      8594851  2000939 Pearl Jam - Even Flow.osz
+2023-10-21 00:33:56 .....     18255569     18255569  2024914 Ouse Akira - Loving on stage___ (Short Ver.).osz
+2023-10-21 00:33:58 .....      5634933      5634933  2027939 ELEMENTAS (A-One) - Yoru ga Oritekuru _ Evening Star.osz
+2023-10-21 00:33:58 .....      2978830      2978830  2028599 Nanahira - Youkoso Japari Park e.osz
+2023-10-21 00:34:00 .....     11011297     11011297  2039850 Avenged Sevenfold - Bat Country.osz
+2023-10-21 00:34:00 .....      3956164      3956164  2044662 sajou no hana - Nuisance (TV Size).osz
+2023-10-21 00:34:02 .....      6726414      6726414  2046132 Kotoha - Yuki wa Naniiro.osz
+2023-10-21 00:34:02 .....      7163166      7163166  2050003 MAN WITH A MISSION - When My Devil Rises.osz
+2023-10-21 00:34:04 .....      3620360      3620360  2051524 alphatoaster - vremya gotovit_ v tandyre i vershit_ sud_by.osz
+2023-10-21 00:34:04 .....      8159295      8159295  2052377 Ayaka Ohashi - Wagamama MIRROR HEART.osz
+2023-10-21 00:34:04 .....     17531726     17531726  2054615 nonoc - Rakuen (TV Size).osz
+2023-10-21 00:34:06 .....     10278380     10278380  2062273 Ariabl_eyeS - Shuuen no Kane.osz
+2023-10-21 00:34:06 .....      3544799      3544799  2064108 Mili - Boys in Kaleidosphere.osz
+------------------- ----- ------------ ------------  ------------------------
+2023-10-21 00:34:06          196057803    196057803  20 files
+
+Listing archive: S1355 - osu! Beatmap Pack #1355.zip
+
+--
+Path = S1355 - osu! Beatmap Pack #1355.zip
+Type = zip
+Physical Size = 173709824
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2023-10-26 00:07:32 .....      3178375      3178375  1506877 Amatsuki - Ark (TV Size).osz
+2023-10-26 00:07:34 .....     25014615     25014615  1671199 meiyo - Question.osz
+2023-10-26 00:07:34 .....      5173414      5173414  1881387 My Chemical Romance - Dead_.osz
+2023-10-26 00:07:36 .....      9073645      9073645  1969718 Halozy - Koi no Stadium.osz
+2023-10-26 00:07:36 .....      2064959      2064959  1974817 CHERNOBURKV - Bliznetsy (111loggedin Edit) (Cut Ver.).osz
+2023-10-26 00:07:38 .....      4741368      4741368  1980266 Normani - Motivation.osz
+2023-10-26 00:07:40 .....     19486135     19486135  1993224 Doubutsu Biscuits x PPP - Ke-Mo-No-Da-Mo-No.osz
+2023-10-26 00:07:40 .....     17092529     17092529  1996067 Kotoha - Yuki wa Naniiro.osz
+2023-10-26 00:07:42 .....      3784922      3784922  2006820 Hinatabi Bitter Sweets - Kokuu to Koumyou no Discourse.osz
+2023-10-26 00:07:42 .....     10031360     10031360  2015009 TRakker - The Inner Gaze -Will-.osz
+2023-10-26 00:07:44 .....      6453390      6453390  2016414 yuikonnu _ ayaponzu_ - Super Nuko World.osz
+2023-10-26 00:07:44 .....      6001167      6001167  2035723 Crywolf - Whisper (feat. emalyn).osz
+2023-10-26 00:07:46 .....      7723049      7723049  2045127 Kotoha - Yuki wa Naniiro.osz
+2023-10-26 00:07:46 .....      5556002      5556002  2051706 ZUN - Yorimashi wa Yume to Utsutsu no Aida ni _ Necro-Fantasia.osz
+2023-10-26 00:07:46 .....     10645385     10645385  2057711 Children of Nova - The Complexity of Light.osz
+2023-10-26 00:07:48 .....     10093941     10093941  2058235 u_s - MOMENT RING.osz
+2023-10-26 00:07:48 .....      4513597      4513597  2059940 SunSet Swish - Mosaic Kakera (TV Size).osz
+2023-10-26 00:07:50 .....     10718678     10718678  2064798 PinocchioP - I_m glad you_re evil too.osz
+2023-10-26 00:07:50 .....      9925579      9925579  2068383 Nayugorou - White Promise.osz
+2023-10-26 00:07:52 .....      2434372      2434372  2070047 xaev - its always a good time.osz
+------------------- ----- ------------ ------------  ------------------------
+2023-10-26 00:07:52          173706482    173706482  20 files
