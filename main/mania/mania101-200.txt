@@ -3185,3 +3185,99 @@ Physical Size = 159088273
 2023-10-25 00:35:40 .....      5644884      5644884  2070866 Sakuragawa Megu - Unreal Creation_.osz
 ------------------- ----- ------------ ------------  ------------------------
 2023-10-25 00:35:40          159084925    159084925  20 files
+
+Listing archive: SM194 - osu!mania Beatmap Pack #194.zip
+
+--
+Path = SM194 - osu!mania Beatmap Pack #194.zip
+Type = zip
+Physical Size = 223870117
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2023-11-01 02:03:50 .....      8727832      8727832  802390 Halozy feat. Nanahira - Monosugoi Live de Cirno ga Sokohakatonaku Monosugoi Uta.osz
+2023-11-01 02:03:52 .....      6069375      6069375  843916 Darren Styles_ Dougal _ Gammer - Party Don_t Stop.osz
+2023-11-01 02:03:52 .....      3651535      3651535  1130778 uno feat. Chiyoko (IOSYS) - disco KAWAii.osz
+2023-11-01 02:03:54 .....      4642941      4642941  1252357 M.A.O_ Iida Yuuko_ Satou Amina_ Ru Thing_ Aoki Shiki - Saite Jewel.osz
+2023-11-01 02:03:54 .....      6383576      6383576  1256147 Chayanne - Salome.osz
+2023-11-01 02:03:56 .....      4640351      4640351  1907217 Seijin Dansei 3ningumi - KICK BACK.osz
+2023-11-01 02:03:58 .....     29898005     29898005  1959361 Kanon Oguni feat. timao - Tsumugiboshi.osz
+2023-11-01 02:03:58 .....      1787607      1787607  1967048 Victorious Cast - Take a Hint feat. Victoria Justice _ Elizabeth Gillies (Sped Up _ Cut Ver.).osz
+2023-11-01 02:04:00 .....     15703433     15703433  1970837 Tsukino - Kira Kira _ Heart _ Linkage_.osz
+2023-11-01 02:04:00 .....      7130884      7130884  1972879 Ogura Yui - Clear Morning.osz
+2023-11-01 02:04:02 .....      9404001      9404001  2041830 Mitsukiyo - Lovely Picnic.osz
+2023-11-01 02:04:04 .....     23485052     23485052  2042813 HOYO-MiX - A Dramatic Irony.osz
+2023-11-01 02:04:04 .....      5687187      5687187  2046342 Tsukuyomi - Tsuki ga Michiru.osz
+2023-11-01 02:04:06 .....      5892529      5892529  2058036 Osanzi feat. Aitsuki Nakuru - Domination.osz
+2023-11-01 02:04:08 .....     19715787     19715787  2060949 Shinomiya Ginka (CV_ Hasegawa Ikumi) - Star Trail.osz
+2023-11-01 02:04:08 .....      8547350      8547350  2062237 Camellia - Shinsha _ HgS.osz
+2023-11-01 02:04:12 .....     35681776     35681776  2062505 PIKASONIC _ Tatsunoshin - Lockdown (feat. NEONA).osz
+2023-11-01 02:04:12 .....      3453521      3453521  2063011 Merm4id - G.O.A.T..osz
+2023-11-01 02:04:14 .....     17090496     17090496  2071597 Codama Hikari - Dramatic ni Koishitai (TV Size).osz
+2023-11-01 02:04:16 .....      6273211      6273211  2073247 ShinRa-Bansho - Charisma Rengoku Tenshin.osz
+------------------- ----- ------------ ------------  ------------------------
+2023-11-01 02:04:16          223866449    223866449  20 files
+
+Listing archive: SM195 - osu!mania Beatmap Pack #195.zip
+
+--
+Path = SM195 - osu!mania Beatmap Pack #195.zip
+Type = zip
+Physical Size = 192496090
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2023-11-08 00:27:14 .....      3888758      3888758  482242 8284 - Connaextion.osz
+2023-11-08 00:27:14 .....      8384811      8384811  1295266 Kito Akari - Kimi no Tonari de.osz
+2023-11-08 00:27:16 .....     10748036     10748036  1858535 Gram - Nibelungen.osz
+2023-11-08 00:27:16 .....     22919754     22919754  1864407 Enn - USSEEWA.osz
+2023-11-08 00:27:18 .....      5398755      5398755  1880080 Kikuo - Pokkan Color.osz
+2023-11-08 00:27:18 .....      9216592      9216592  1918498 Sawano Hiroyuki feat. mizuki - TuNGSTeN.osz
+2023-11-08 00:27:18 .....      8220335      8220335  1942061 Halozy feat. Nanahira - Monosugoi Live de Cirno ga Sokohakatonaku Monosugoi Uta.osz
+2023-11-08 00:27:18 .....      5745720      5745720  1976366 tephe - Neppa feat. Butter [Tanger Remix].osz
+2023-11-08 00:27:20 .....      6015290      6015290  1989544 Da-iCE - Break out.osz
+2023-11-08 00:27:20 .....     16241951     16241951  1993280 Mao_ Ruli_ Kyoko_ Shiori from STARRY PLANET_ - Bloomy _ Smile (TV Size).osz
+2023-11-08 00:27:22 .....      7775848      7775848  2006102 Laur - SYSTEM ERROR.osz
+2023-11-08 00:27:22 .....     11200099     11200099  2008843 Cho Tokimeki Sendenbu - SUKI_ _CHO ver_.osz
+2023-11-08 00:27:22 .....      4259877      4259877  2014470 crafter2011 - halloween day.osz
+2023-11-08 00:27:28 .....      5651098      5651098  2019582 Rika (CV_ Tamura Yukari) _ Satoko (CV_ Kanai Mika) _ Hanyuu (CV_ Horie Yui) - Happy_ Lucky_ Dochy_ (TV Size).osz
+2023-11-08 00:27:28 .....      6872430      6872430  2040076 DJ SHARPNEL - LITTLE GOD CH_NNEL.osz
+2023-11-08 00:27:30 .....      7326919      7326919  2044623 Shoto - Shoujo Rei.osz
+2023-11-08 00:27:30 .....      3617263      3617263  2045102 Mili - Bathtub Mermaid.osz
+2023-11-08 00:27:30 .....      6821073      6821073  2046962 Metric - Black Sheep (Brie Larson Vocal Version).osz
+2023-11-08 00:27:32 .....     37547609     37547609  2054035 Mu (CV_ Arisa Kori) - After Pain.osz
+2023-11-08 00:27:32 .....      4640410      4640410  2062486 Iwakura - tell me i_m dreaming.osz
+------------------- ----- ------------ ------------  ------------------------
+2023-11-08 00:27:32          192492628    192492628  20 files
+
+Listing archive: SM196 - osu!mania Beatmap Pack #196.zip
+
+--
+Path = SM196 - osu!mania Beatmap Pack #196.zip
+Type = zip
+Physical Size = 199682172
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2023-11-13 01:27:38 .....      6271807      6271807  1468597 Camellia - Syzygia.osz
+2023-11-13 01:27:38 .....      3909132      3909132  1539440 BlackY - ARTEMiS.osz
+2023-11-13 01:27:40 .....     18299755     18299755  1771781 Raphiiel - RoquiRa _ Between Life and Death.osz
+2023-11-13 01:27:40 .....      5134812      5134812  1818355 Rom Di Prisco - Romulus 3.osz
+2023-11-13 01:27:42 .....     12242606     12242606  1935584 Dustvoxx - Switchback.osz
+2023-11-13 01:27:42 .....      9159255      9159255  1938579 Tonari no Niwa wa Aoi (NIWASHI _ Aoi) - Mukuroju no Hakamori (Long ver.).osz
+2023-11-13 01:27:42 .....     11758864     11758864  1945255 HyuN feat. Sennzai - Duplicity Shade.osz
+2023-11-13 01:27:44 .....     22304683     22304683  1956376 Noah feat. Ai Ohsera - Rebirth the end.osz
+2023-11-13 01:27:46 .....      4048528      4048528  1962193 kanone - CO5M1C R4ILR0AD.osz
+2023-11-13 01:27:46 .....      4730757      4730757  1968431 BEMANI Sound Team _HuMeR_ feat. Yukimame - HEARTACHE.osz
+2023-11-13 01:27:48 .....     30967693     30967693  1985806 Snail_s House - L_ete.osz
+2023-11-13 01:27:48 .....      2714847      2714847  1987957 laura les - Haunted (Dylan Brady Remix).osz
+2023-11-13 01:27:48 .....      5618680      5618680  1995451 Feverse - CHO.osz
+2023-11-13 01:27:50 .....     11132155     11132155  2000657 Aoi - King Atlantis.osz
+2023-11-13 01:27:50 .....      7547231      7547231  2013539 Dimrain47 - Operation_ Evolution.osz
+2023-11-13 01:27:50 .....      5063700      5063700  2025637 HaKoniwalily - Kanawanu Koi ja Owarenai_.osz
+2023-11-13 01:27:50 .....      5824712      5824712  2027200 Polyphia - Playing God.osz
+2023-11-13 01:27:52 .....     10128394     10128394  2058832 D-D-Dice vs. siromaru - Catch the Glory.osz
+2023-11-13 01:27:58 .....      4089606      4089606  2066673 YOASOBI - Yuusha (TV Size).osz
+2023-11-13 01:27:58 .....     18731697     18731697  2071596 uniy - Amairo_TeaParty.osz
+------------------- ----- ------------ ------------  ------------------------
+2023-11-13 01:27:58          199678914    199678914  20 files
