@@ -1693,3 +1693,67 @@ Physical Size = 219064100
 2023-10-25 00:34:32 .....      6510223      6510223  2068019 Leo_need x Hatsune Miku - Umiyuri Kaiteitan.osz
 ------------------- ----- ------------ ------------  ------------------------
 2023-10-25 00:34:32          219060862    219060862  20 files
+
+Listing archive: ST251 - osu!taiko Beatmap Pack #251.zip
+
+--
+Path = ST251 - osu!taiko Beatmap Pack #251.zip
+Type = zip
+Physical Size = 215177677
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2023-11-06 00:12:16 .....     36380975     36380975  1772154 ShinRa-Bansho - Mugen Shitto Gekijou _666_.osz
+2023-11-06 00:12:16 .....      2691616      2691616  1916691 VeetaCrush - Sesame Kingdom.osz
+2023-11-06 00:12:16 .....      8356787      8356787  1958718 Suzuki Konomi - Love_ Reason why__.osz
+2023-11-06 00:12:18 .....      2648168      2648168  1982154 12073 - Destination 2F29.osz
+2023-11-06 00:12:18 .....      8835914      8835914  2002010 DivinumX - Thorns of Heed.osz
+2023-11-06 00:12:18 .....     16671040     16671040  2010461 kessoku band - Guitar to Kodoku to Aoi Hoshi (TV Size).osz
+2023-11-06 00:12:20 .....     10265166     10265166  2013213 Wonderlands x Showtime x Kagamine Rin - Positive_Dance Time.osz
+2023-11-06 00:12:20 .....     12483311     12483311  2026457 Lezel - Reset Life_ (TV Size).osz
+2023-11-06 00:12:20 .....      8139850      8139850  2031251 Null Specification - Ui Ui Shitori egumo.osz
+2023-11-06 00:12:22 .....      3728077      3728077  2034952 1 800 PAIN - OUTSIDE.osz
+2023-11-06 00:12:22 .....      8239950      8239950  2039895 DJ SHARPNEL - Over the Fullereneshift.osz
+2023-11-06 00:12:28 .....     24829743     24829743  2044299 Houshou Marine - Bishoujyo Muzai Pirates.osz
+2023-11-06 00:12:28 .....     13623866     13623866  2050721 yanaginagi - Vidro Moyou (TV Size).osz
+2023-11-06 00:12:28 .....      5421289      5421289  2051546 ALiCE_S EMOTiON - Cold Rain.osz
+2023-11-06 00:12:30 .....      3284770      3284770  2053829 Afilia Saga - S.M.L_ (TV Size).osz
+2023-11-06 00:12:30 .....      4171915      4171915  2054122 Raimukun - Myths Orbis.osz
+2023-11-06 00:12:30 .....      4812963      4812963  2056763 Soushi Sakiyama - Gyakkou.osz
+2023-11-06 00:12:32 .....     22742952     22742952  2069540 DVRST_ Leah Julia - Across The Sky.osz
+2023-11-06 00:12:32 .....      5190607      5190607  2069665 sepiarecorders - ______.osz
+2023-11-06 00:12:32 .....     12655378     12655378  2072488 amazarashi - Kyoukaisen (TV Size).osz
+------------------- ----- ------------ ------------  ------------------------
+2023-11-06 00:12:32          215174337    215174337  20 files
+
+Listing archive: ST252 - osu!taiko Beatmap Pack #252.zip
+
+--
+Path = ST252 - osu!taiko Beatmap Pack #252.zip
+Type = zip
+Physical Size = 106058706
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2023-11-14 02:40:24 .....      3294242      3294242  1098732 Co shu Nie - asura.osz
+2023-11-14 02:40:24 .....      4950582      4950582  1274973 Nekomata Master_ - Spiral2005.osz
+2023-11-14 02:40:24 .....      5627130      5627130  1865758 Mrs. GREEN APPLE - Inferno.osz
+2023-11-14 02:40:24 .....       760146       760146  1901056 thepowerofdiarrhea - mr bomb ytpmv.osz
+2023-11-14 02:40:26 .....      5115228      5115228  1905582 KINEMA106 - Fly Away (Cut Ver.).osz
+2023-11-14 02:40:26 .....      5390681      5390681  1955209 ATL - Magic people.osz
+2023-11-14 02:40:26 .....      2660727      2660727  1956393 Hoshimi Production - Sayonara kara Hajimaru Monogatari (TV Size).osz
+2023-11-14 02:40:28 .....     15431309     15431309  1957129 Ludicin - Fallen Symphony.osz
+2023-11-14 02:40:32 .....      5800371      5800371  1958592 Yorushika - Gogatsu wa Hana Rokushou no Madobe kara.osz
+2023-11-14 02:40:32 .....      4282795      4282795  1972391 HyuN feat. LyuU - CROSS OVER.osz
+2023-11-14 02:40:34 .....      4303960      4303960  1981134 youman - R.I.P..osz
+2023-11-14 02:40:34 .....      5580891      5580891  2029608 Aiobahn - Towa no Utage (w_ YUC_e).osz
+2023-11-14 02:40:34 .....      4511992      4511992  2051042 Hakui Koyori - WAO__.osz
+2023-11-14 02:40:34 .....      2191726      2191726  2064950 ModlesS_Flash - Harumachi the Madness.osz
+2023-11-14 02:40:36 .....     12341674     12341674  2068686 YOASOBI - Yuusha (TV Size).osz
+2023-11-14 02:40:36 .....      5110343      5110343  2069564 YOASOBI - Yuusha.osz
+2023-11-14 02:40:38 .....      6733566      6733566  2070037 isekaijoucho - Heat abnormal.osz
+2023-11-14 02:40:42 .....      5557818      5557818  2074953 quannnic - life imitates life.osz
+2023-11-14 02:40:42 .....      1976501      1976501  2081945 Gooseworx - Your New Home (TV Size).osz
+2023-11-14 02:40:42 .....      4433850      4433850  2083675 Nor - Aoharu.osz
+------------------- ----- ------------ ------------  ------------------------
+2023-11-14 02:40:42          106055532    106055532  20 files
