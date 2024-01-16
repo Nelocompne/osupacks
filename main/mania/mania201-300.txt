@@ -1,0 +1,159 @@
+Listing archive: SM201 - osu!mania Beatmap Pack #201.zip
+
+--
+Path = SM201 - osu!mania Beatmap Pack #201.zip
+Type = zip
+Physical Size = 160252139
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2023-12-17 10:01:54 .....      5043812      5043812  1753164 in love with a ghost - we_ve never met but_ can we have a coffee or something_.osz
+2023-12-17 10:01:54 .....      4559698      4559698  1805268 Nothing But Requiem with Museo - Pentiment.osz
+2023-12-17 10:01:54 .....      3816267      3816267  1901547 Carpainter feat. Onjuice - PAM___ (Foxsky Version) [WATARU HardStep Flip].osz
+2023-12-17 10:01:56 .....      5947663      5947663  1955910 Juggernaut. - Valkyrius_0.osz
+2023-12-17 10:01:56 .....      5204310      5204310  1966708 D-D-Dice - World_s end loneliness (full ver.).osz
+2023-12-17 10:01:56 .....      2952979      2952979  1971447 xofilo - ._302_ ionwan2go_..osz
+2023-12-17 10:01:58 .....     24008921     24008921  1996989 Yuyoyuppe feat. Natsuki Karin - SICK -Yanderu EP-.osz
+2023-12-17 10:01:58 .....      1437357      1437357  1999815 Mario Kart 8 Deluxe Booster Course Pass Sound Team - Tokyo Blur.osz
+2023-12-17 10:01:58 .....      7086195      7086195  2001791 _namirin - Senaka Awase no Sora (with kakichoco).osz
+2023-12-17 10:02:04 .....      7292935      7292935  2007968 Hinkik - Explorers.osz
+2023-12-17 10:02:04 .....      7490855      7490855  2019770 Kanzaki Shion - Palette Lab (Extended).osz
+2023-12-17 10:02:06 .....      3661132      3661132  2020475 Nakamura Eriko _1 - Ego Ego Atakushi.osz
+2023-12-17 10:02:06 .....      3328377      3328377  2026897 Aimi_ Sakura Ayane_ Maeshima Ami_ Aiba Aina_ Itou Miku - TWiNKLE CiRCLE.osz
+2023-12-17 10:02:08 .....     20700019     20700019  2033504 MIMI - Dakishimeru made. feat. KAFU.osz
+2023-12-17 10:02:08 .....      7433134      7433134  2047070 DJKurara _ Supire - Search And Destroy.osz
+2023-12-17 10:02:08 .....     26609120     26609120  2078163 Ryokuoushoku Shakai - Hana ni Natte.osz
+2023-12-17 10:02:10 .....      4156738      4156738  2078794 Ririsya - Aqua_ Luna-rium.osz
+2023-12-17 10:02:10 .....      8790094      8790094  2078985 V0iD - Symplectomorphism.osz
+2023-12-17 10:02:10 .....      8134734      8134734  2080239 Kou_ - sub_zerO.osz
+2023-12-17 10:02:12 .....      2594089      2594089  2093110 The Red Army Choir - National Anthem Of The USSR (Cut Ver.).osz
+------------------- ----- ------------ ------------  ------------------------
+2023-12-17 10:02:12          160248429    160248429  20 files
+
+Listing archive: SM202 - osu!mania Beatmap Pack #202.zip
+
+--
+Path = SM202 - osu!mania Beatmap Pack #202.zip
+Type = zip
+Physical Size = 143037268
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2023-12-24 02:08:52 .....      8248969      8248969  1888808 Aiobahn - Fragments (feat. KOCHO).osz
+2023-12-24 02:08:52 .....      4158442      4158442  1968284 Aiobahn - Sora de Oyasumi (feat. YUKA NAGASE).osz
+2023-12-24 02:08:52 .....      5053967      5053967  1975105 DJPoyoshi _ lapix - Arigatou Sayounara (PSYQUI Remix).osz
+2023-12-24 02:08:54 .....     23050540     23050540  1997707 t_pazolite - QZKago Requiem.osz
+2023-12-24 02:08:54 .....      4967946      4967946  2017215 Nhato - Dawn Saga.osz
+2023-12-24 02:08:54 .....      4923917      4923917  2027343 DECO_27 - Salamander feat. Hatsune Miku.osz
+2023-12-24 02:08:54 .....      4924572      4924572  2028108 HyuN - Infinity Heaven.osz
+2023-12-24 02:08:56 .....      5350806      5350806  2037532 LOONA_ViVi - Everyday I Love You (feat. HaSeul).osz
+2023-12-24 02:08:56 .....      8628153      8628153  2043284 Halozy - Suna no Kodomo.osz
+2023-12-24 02:08:56 .....      9097272      9097272  2066329 AliA - AliVe.osz
+2023-12-24 02:09:02 .....      2414285      2414285  2067990 Brian the Sun - Lonely Go_ (TV Size).osz
+2023-12-24 02:09:02 .....      5413919      5413919  2068728 BURTON - Himawari no Youni.osz
+2023-12-24 02:09:02 .....      4887681      4887681  2069912 Manel Navola - Poisonous Chasm.osz
+2023-12-24 02:09:04 .....     18815347     18815347  2070063 solfa feat. Chata - Miracle infinity.osz
+2023-12-24 02:09:04 .....      2348251      2348251  2071805 Sia - Snowman (Cut Ver.).osz
+2023-12-24 02:09:04 .....      5023699      5023699  2079050 Obadiah Brown-Beach feat. Allie Armstrong - Sentenced.osz
+2023-12-24 02:09:06 .....      4390090      4390090  2083404 DRAM x LeBron James - Sprite Cranberry Commercial.osz
+2023-12-24 02:09:06 .....      4935050      4935050  2087266 P.Lin_ - cosine theta.osz
+2023-12-24 02:09:06 .....      7605585      7605585  2087883 8686m - SPINACH AND SAMON CREAM PASTA.osz
+2023-12-24 02:09:12 .....      8795443      8795443  2092074 seatrus - EXXTRA JUDGEMENT.osz
+------------------- ----- ------------ ------------  ------------------------
+2023-12-24 02:09:12          143033934    143033934  20 files
+
+Listing archive: SM203 - osu!mania Beatmap Pack #203.zip
+
+--
+Path = SM203 - osu!mania Beatmap Pack #203.zip
+Type = zip
+Physical Size = 118558448
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2023-12-30 06:10:10 .....      6183140      6183140  1128003 DJ Genki vs. Gram - Einherjar Joker.osz
+2023-12-30 06:10:12 .....      6423894      6423894  1338046 Kobaryo - Speed Complexxx [feat. Srezcat].osz
+2023-12-30 06:10:12 .....      4035551      4035551  1894276 DJ Raisei - T.R.A.P..osz
+2023-12-30 06:10:12 .....      5682049      5682049  1939644 Ardolf - Eternally Onward.osz
+2023-12-30 06:10:12 .....      5900663      5900663  1946324 Tanger - Fresh_ VIP (feat. Schwank).osz
+2023-12-30 06:10:12 .....      7925644      7925644  1959065 Lisa Komine - Resuscitated Hope.osz
+2023-12-30 06:10:14 .....      7040460      7040460  1961513 Xyris - Eviternity.osz
+2023-12-30 06:10:14 .....      4862820      4862820  1999387 MIMiNARI - Ienai feat. asmi.osz
+2023-12-30 06:10:20 .....      1639301      1639301  2001937 Virtual Riot - 100bpm Future Chords.osz
+2023-12-30 06:10:20 .....      2300744      2300744  2045441 Togenom - My Brain Is Slime.osz
+2023-12-30 06:10:22 .....      6209292      6209292  2047669 Fvrwvrd - Speedcore Sonata.osz
+2023-12-30 06:10:22 .....      5534560      5534560  2055504 HoneyWorks - Sukitchuu no_ feat. Chuu-tan (CV_ Hayami Saori).osz
+2023-12-30 06:10:22 .....     15445051     15445051  2059692 Nakanoke no Itsutsugo - Gotoubun no Mirai (TV Size).osz
+2023-12-30 06:10:22 .....      4995501      4995501  2071574 BrayanKitsn - Blizzard Heights.osz
+2023-12-30 06:10:22 .....      3705732      3705732  2079067 Nyanners - Yolochka_ zablesti ognyami.osz
+2023-12-30 06:10:28 .....      3142501      3142501  2081814 SmokyThrill77 - Congrathalations_ (Cut Ver.).osz
+2023-12-30 06:10:28 .....      8564121      8564121  2087240 Mariah Carey - All I Want For Christmas Is You.osz
+2023-12-30 06:10:30 .....      7544487      7544487  2093548 USAO - Big Daddy.osz
+2023-12-30 06:10:30 .....      8617276      8617276  2095585 Silentroom vs. Frums - Aegleseeker_ over the horizon.osz
+2023-12-30 06:10:30 .....      2802279      2802279  2096660 Aiobahn - Angel Breaking.osz
+------------------- ----- ------------ ------------  ------------------------
+2023-12-30 06:10:30          118555066    118555066  20 files
+
+Listing archive: SM204 - osu!mania Beatmap Pack #204.zip
+
+--
+Path = SM204 - osu!mania Beatmap Pack #204.zip
+Type = zip
+Physical Size = 126765476
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2024-01-07 07:26:06 .....     15560744     15560744  839243 Mimori Suzuko - Mirai Start (TV Size).osz
+2024-01-07 07:26:06 .....      4522865      4522865  1017310 THE ORAL CIGARETTES - Sesshoku (Cut Ver.).osz
+2024-01-07 07:26:06 .....      8589429      8589429  1436983 Kobaryo - Glitched Character.osz
+2024-01-07 07:26:08 .....      4806355      4806355  1658903 Qrispy Joybox - Winter Gift _Qrispy Kara no Okurimono_.osz
+2024-01-07 07:26:08 .....      1710697      1710697  1796615 Frederic Chopin - Black Key Etude.osz
+2024-01-07 07:26:08 .....      7960423      7960423  1914522 Halozy - Don_t let you down.osz
+2024-01-07 07:26:08 .....      7290228      7290228  1923328 Hizuki Miu - Toki Raki Meki (Cut Ver.).osz
+2024-01-07 07:26:10 .....      7067118      7067118  1966742 Asatsumei - MEI VS KILLER FISH - THE ULTIMATE BATTLE___.osz
+2024-01-07 07:26:14 .....      3539186      3539186  1981951 Plum - Mad Piano Party II.osz
+2024-01-07 07:26:16 .....      4144242      4144242  2002137 II-L feat. amelie xoxo - THE EARTH.osz
+2024-01-07 07:26:16 .....      3983632      3983632  2004882 Yukinoshita Yukino (CV_ Hayami Saori) _ Yuigahama Yui (CV_ Touyama Nao) - Everyday World (TV Size).osz
+2024-01-07 07:26:16 .....      5017555      5017555  2017044 Midnight Grand Orchestra - Moonlightspeed.osz
+2024-01-07 07:26:16 .....      9296163      9296163  2027071 ClariS - Colorful (tamame_s apostate remix).osz
+2024-01-07 07:26:18 .....      8660440      8660440  2028213 Halv vs. kuro - Evreka.osz
+2024-01-07 07:26:18 .....     15216512     15216512  2038102 Nakanoke no Itsutsugo - Sekaijuu Tatta Hitotsu (Game Ver.).osz
+2024-01-07 07:26:18 .....      2711545      2711545  2061764 Uematsu Nobuo - The Day Will Come.osz
+2024-01-07 07:26:24 .....       942831       942831  2075710 Garoad - Transition I.osz
+2024-01-07 07:26:24 .....      7790599      7790599  2078652 cosMo_BousouP - Aurora Requiem.osz
+2024-01-07 07:26:24 .....      6707955      6707955  2100759 Inori Minase - Koiseyo Otome.osz
+2024-01-07 07:26:24 .....      1243397      1243397  2103039 Selphius - Padoru Padoru.osz
+------------------- ----- ------------ ------------  ------------------------
+2024-01-07 07:26:24          126761916    126761916  20 files
+
+Listing archive: SM205 - osu!mania Beatmap Pack #205.zip
+
+--
+Path = SM205 - osu!mania Beatmap Pack #205.zip
+Type = zip
+Physical Size = 136441311
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2024-01-12 02:05:34 .....      3341988      3341988  1147783 sweet ARMS - Key of Truth.osz
+2024-01-12 02:05:34 .....      4478043      4478043  1801972 Pedro Silva - World_s End Valentine.osz
+2024-01-12 02:05:34 .....      1652086      1652086  1885413 Apollo - SCUNTHORPE.osz
+2024-01-12 02:05:34 .....      5296702      5296702  1930417 Camellia - t_a_n_a_s_i_n_n.osz
+2024-01-12 02:05:36 .....      5261918      5261918  1957020 tokiwa - wasurena feat. Sennzai.osz
+2024-01-12 02:05:36 .....     22881514     22881514  1990123 Harumaki Gohan - Suisei ni Nareta nara.osz
+2024-01-12 02:05:36 .....      6259761      6259761  1990136 Seina - Starlight Wonder.osz
+2024-01-12 02:05:38 .....      4619403      4619403  2019825 Chinozo - Good-bye sengen.osz
+2024-01-12 02:05:44 .....      4551645      4551645  2040918 USAO - Level Up.osz
+2024-01-12 02:05:44 .....      4117098      4117098  2045182 xaki - rog-unlimitation.osz
+2024-01-12 02:05:44 .....      1887554      1887554  2054980 spellcasting - heaven in autumn.osz
+2024-01-12 02:05:44 .....      5672747      5672747  2061602 Risk Junk - quaver.osz
+2024-01-12 02:05:44 .....      7211861      7211861  2062204 Mid-Air Thief - Ahhhh_ These Chains_.osz
+2024-01-12 02:05:46 .....      7218117      7218117  2064233 Demetori - Natsukashiki Touhou no Chi _ Sic World.osz
+2024-01-12 02:05:46 .....      7432223      7432223  2080244 rejection - Invisible Scars feat. mami.osz
+2024-01-12 02:05:52 .....      8176623      8176623  2086208 Chroma - Kapposuru Kemono.osz
+2024-01-12 02:05:52 .....      8287163      8287163  2088664 Sad Keyboard Guy _ Gardens - Waking Shadows feat. eili.osz
+2024-01-12 02:05:52 .....      6310139      6310139  2089005 GARNiDELiA - Yakusoku -Promise code-.osz
+2024-01-12 02:05:54 .....      6842927      6842927  2089658 Horie Yui - PRESENTER.osz
+2024-01-12 02:05:54 .....     14938579     14938579  2105510 ALEX TERRIBLE - Last Christmas.osz
+------------------- ----- ------------ ------------  ------------------------
+2024-01-12 02:05:54          136438091    136438091  20 files
