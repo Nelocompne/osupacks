@@ -1757,3 +1757,227 @@ Physical Size = 106058706
 2023-11-14 02:40:42 .....      4433850      4433850  2083675 Nor - Aoharu.osz
 ------------------- ----- ------------ ------------  ------------------------
 2023-11-14 02:40:42          106055532    106055532  20 files
+
+Listing archive: ST253 - osu!taiko Beatmap Pack #253.zip
+
+--
+Path = ST253 - osu!taiko Beatmap Pack #253.zip
+Type = zip
+Physical Size = 193461275
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2023-11-23 00:31:38 .....      6619211      6619211  640120 Halozy - Genryuu Kaiko.osz
+2023-11-23 00:31:40 .....      8150284      8150284  1167920 Filthy - Burning With My Soul.osz
+2023-11-23 00:31:40 .....      3412233      3412233  1472397 MYUKKE. - Boudica.osz
+2023-11-23 00:31:42 .....      3868150      3868150  1720271 Azari - Casino.osz
+2023-11-23 00:31:42 .....      4668370      4668370  1789947 God_s Warrior - Journey.osz
+2023-11-23 00:31:42 .....      3401617      3401617  1889234 Three feat. Kagamine Len - Ego Rock (long ver.).osz
+2023-11-23 00:31:42 .....      3304002      3304002  1895485 Gekidan Hitotose - Curtain Call_____ (TV Size).osz
+2023-11-23 00:31:44 .....     27098134     27098134  1935106 Genju - ifuckinghatemusic.osz
+2023-11-23 00:31:46 .....      6894228      6894228  2002631 Uyama Hiroto - Waltz For Life Will Born.osz
+2023-11-23 00:31:46 .....      2975488      2975488  2012023 Tenacious D - To Be the Best.osz
+2023-11-23 00:31:46 .....      9047479      9047479  2017862 Kano - Sakura no Zenya.osz
+2023-11-23 00:31:46 .....      2100669      2100669  2028620 Ohara Yuiko - Musubime (TV Size).osz
+2023-11-23 00:31:48 .....      4460612      4460612  2032533 tephe - Neppa feat. Butter [Tanger Remix].osz
+2023-11-23 00:31:54 .....     30303344     30303344  2052950 sasakure.UK - Good bye_ Mr. Jack.osz
+2023-11-23 00:31:54 .....      9200367      9200367  2058451 Jane Remover - movies for guys.osz
+2023-11-23 00:31:56 .....     30241240     30241240  2075968 Hachioji P - Butterfly Graffiti feat. Hatsune Miku.osz
+2023-11-23 00:31:56 .....      8593630      8593630  2078325 fhana - Aozora no Rhapsody.osz
+2023-11-23 00:31:56 .....     10306301     10306301  2079630 Hayakore Tatsumi - Thousandth Sky (END of SUMMER Mix).osz
+2023-11-23 00:31:58 .....     14784548     14784548  2082657 Unlucky Morpheus - Sono Tamashii ni Yasuragi o _ Dignity of Spirit.osz
+2023-11-23 00:31:58 .....      4028032      4028032  2088028 C418 - Haggstrom.osz
+------------------- ----- ------------ ------------  ------------------------
+2023-11-23 00:31:58          193457939    193457939  20 files
+
+Listing archive: ST254 - osu!taiko Beatmap Pack #254.zip
+
+--
+Path = ST254 - osu!taiko Beatmap Pack #254.zip
+Type = zip
+Physical Size = 141635151
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2023-12-03 09:31:16 .....     10189986     10189986  1598679 Nhato - Amygdala.osz
+2023-12-03 09:31:18 .....      2765252      2765252  1916599 HOYO-MiX - Any Last Words_.osz
+2023-12-03 09:31:18 .....     16306463     16306463  1931752 Avenged Sevenfold - Save Me.osz
+2023-12-03 09:31:18 .....     10215669     10215669  1963587 Camellia - fastest crash (Camellia_s _paroxysmal_ Hitech Remix).osz
+2023-12-03 09:31:20 .....      7646945      7646945  1970073 The Living Tombstone - I Can_t Fix You feat. Crusher-P.osz
+2023-12-03 09:31:20 .....      7331815      7331815  1994252 youman - Weenywalker.osz
+2023-12-03 09:31:20 .....      7483347      7483347  2009411 Laser Imouto - Prismatix.osz
+2023-12-03 09:31:20 .....       932398       932398  2023119 Shikiura. - Laundry.osz
+2023-12-03 09:31:22 .....      8837440      8837440  2027077 Utada Hikaru - One Last Kiss.osz
+2023-12-03 09:31:26 .....      1102609      1102609  2046370 Shota Kageyama - Accumula Town.osz
+2023-12-03 09:31:26 .....      2852188      2852188  2053899 Redside - Sidequest (Cut Ver.).osz
+2023-12-03 09:31:28 .....      8629667      8629667  2055668 vally.exe - oyasumination.osz
+2023-12-03 09:31:28 .....      5154754      5154754  2056678 Yakushi Ruri - Onii-chan_ Migite no Shiyou o Kinshi Shimasu_ (TamolarM Bootleg Remix).osz
+2023-12-03 09:31:28 .....      7962543      7962543  2056757 sana x HoneyWorks - Yakimochi no Kotae.osz
+2023-12-03 09:31:30 .....      7386499      7386499  2063115 Sasaki Sayaka - Sakura_ Reincarnation.osz
+2023-12-03 09:31:30 .....      5674232      5674232  2070756 Laur - Nostalgic Blood of the Strife.osz
+2023-12-03 09:31:30 .....     12840004     12840004  2084188 Ryokuoushoku Shakai - Hana ni Natte (TV Size).osz
+2023-12-03 09:31:36 .....      3608435      3608435  2087044 Step - Polargeist.osz
+2023-12-03 09:31:36 .....      3253530      3253530  2090182 HO-KA-GO CLIMAX GIRLS - Hadashi ja Irarenai.osz
+2023-12-03 09:31:36 .....     11457931     11457931  2091610 Noma Nadeshiko - Sanzu no Kawa Ninngyou Gekijyou.osz
+------------------- ----- ------------ ------------  ------------------------
+2023-12-03 09:31:36          141631707    141631707  20 files
+
+Listing archive: ST255 - osu!taiko Beatmap Pack #255.zip
+
+--
+Path = ST255 - osu!taiko Beatmap Pack #255.zip
+Type = zip
+Physical Size = 169300316
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2023-12-14 00:12:28 .....      6784617      6784617  632493 yuikonnu - Heart no Atoaji.osz
+2023-12-14 00:12:28 .....      3379736      3379736  1809241 LeaF - Calamity Fortune.osz
+2023-12-14 00:12:30 .....      1600592      1600592  1809528 odaxelagnia - The Shortest Mashcore Ever.osz
+2023-12-14 00:12:30 .....     14916265     14916265  1890601 MYTH _ ROID - PANTA RHEI (TV Size).osz
+2023-12-14 00:12:30 .....      9108975      9108975  1899344 Kikuo - Voices of Svaahaa.osz
+2023-12-14 00:12:30 .....      3921091      3921091  1929712 Junichi Masuda_ Minako Adachi_ Hideaki Kuroda - Sentou_ Aqua-dan _ Magma-dan no Leader.osz
+2023-12-14 00:12:32 .....      5240742      5240742  1976633 rN - onostrapha.osz
+2023-12-14 00:12:32 .....     11360401     11360401  2011221 Ikimonogakari - Blue Bird (TV Size).osz
+2023-12-14 00:12:34 .....      9666794      9666794  2012893 Immortal Disfigurement - There Is No Light.osz
+2023-12-14 00:12:38 .....      5464714      5464714  2028338 YUC_e - SPACE INVADER.osz
+2023-12-14 00:12:38 .....      6804871      6804871  2034075 Kikuo - Oboreru Uchuu Neko.osz
+2023-12-14 00:12:40 .....      2961110      2961110  2039956 Epic Games - Electro Swing Dance Emote.osz
+2023-12-14 00:12:40 .....      1918698      1918698  2046981 Utsu-P feat. KAFU - B.G.M.osz
+2023-12-14 00:12:40 .....      3426889      3426889  2055856 KARUT - Oxygen Destroyer.osz
+2023-12-14 00:12:40 .....      6787109      6787109  2065741 aran _ Srav3R - M3LTY RAiN.osz
+2023-12-14 00:12:42 .....     30903189     30903189  2067580 Team.Nekokan - Airman ga Taosenai.osz
+2023-12-14 00:12:42 .....      7351638      7351638  2075217 Chroma - You Are My Hero.osz
+2023-12-14 00:12:44 .....      5644002      5644002  2078187 the peggies - Centimeter.osz
+2023-12-14 00:12:44 .....     26148694     26148694  2078250 Akatsuki Records - Gotcha Gotcha.osz
+2023-12-14 00:12:46 .....      5906915      5906915  2085030 Mitsukiyo - Yume no Kissaten.osz
+------------------- ----- ------------ ------------  ------------------------
+2023-12-14 00:12:46          169297042    169297042  20 files
+
+Listing archive: ST256 - osu!taiko Beatmap Pack #256.zip
+
+--
+Path = ST256 - osu!taiko Beatmap Pack #256.zip
+Type = zip
+Physical Size = 193159773
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2023-12-23 09:44:02 .....     55487379     55487379  724949 KINEMA106 - Zankyou no Requiem.osz
+2023-12-23 09:44:04 .....     15107698     15107698  1630081 Zedd - Clarity (feat. Foxes) (Cut Ver.).osz
+2023-12-23 09:44:04 .....      9098000      9098000  1756364 Jason Richardson _ Luke Holland - Tendinitis.osz
+2023-12-23 09:44:04 .....     23705465     23705465  1764015 Neru feat. Kagamine Rin - Tokyo Teddy Bear.osz
+2023-12-23 09:44:06 .....      3579628      3579628  1863701 kawaii amen girl - __N_YYY____F______.osz
+2023-12-23 09:44:06 .....      4555438      4555438  1879550 Pecorine (CV_ M.A.O)_ Kokkoro (CV_ Itou Miku)_ Karyl (CV_ Tachibana Rika) - Connecting Happy__ (TV Size).osz
+2023-12-23 09:44:06 .....      2549375      2549375  1880288 ZAQ - Dance In The Game (TV Size).osz
+2023-12-23 09:44:06 .....      8747998      8747998  1890900 LeaF - Evanescent (extended ver.).osz
+2023-12-23 09:44:06 .....      1271453      1271453  1898835 Hanasaka Yui (CV_ M.A.O) - Aozora Morning Glory (Kageminori TwoRoom Edit).osz
+2023-12-23 09:44:08 .....      3389455      3389455  1933890 bladee _ Mechatok - God (six impala remix).osz
+2023-12-23 09:44:14 .....      3416758      3416758  1965387 kmoe - gloves.osz
+2023-12-23 09:44:14 .....      5977787      5977787  1975977 Tsukuyomi - Kure ni Akane_ Gomi to Hanataba.osz
+2023-12-23 09:44:14 .....     11210006     11210006  2030024 takehirotei as _Infinite Limit_ - C___YOU NEX-TIME.osz
+2023-12-23 09:44:16 .....      5265572      5265572  2036508 Sydosys - Lunar Gateway.osz
+2023-12-23 09:44:16 .....      4136507      4136507  2044518 Mikazuki BIGWAVE - El Dorado Mahou Shoujo Densetsu (A_ 200bpm Edit).osz
+2023-12-23 09:44:16 .....      8139693      8139693  2069053 Casandra - Junpaku_study time.osz
+2023-12-23 09:44:18 .....      4723998      4723998  2077793 nora2r - B.B.K.K.B.K.K. (DJ Raisei_s 1.7K DEKA BASSKICK REMIX).osz
+2023-12-23 09:44:18 .....      3444412      3444412  2078023 Fudanjuku - Dash _ Daaash__ (TV Size).osz
+2023-12-23 09:44:22 .....     11280926     11280926  2078978 Codama Hikari - Dramatic ni Koishitai (TV Size).osz
+2023-12-23 09:44:24 .....      8068429      8068429  2083188 Aqours - Genjitsu Mysterium (Slax Remix).osz
+------------------- ----- ------------ ------------  ------------------------
+2023-12-23 09:44:24          193155977    193155977  20 files
+
+Listing archive: ST257 - osu!taiko Beatmap Pack #257.zip
+
+--
+Path = ST257 - osu!taiko Beatmap Pack #257.zip
+Type = zip
+Physical Size = 163414218
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2023-12-29 02:31:50 .....      3057579      3057579  1813733 Eisyo-kobu - Faithtival.osz
+2023-12-29 02:31:52 .....      6069730      6069730  1814145 Tenchio - Projector.osz
+2023-12-29 02:31:52 .....     11244552     11244552  1899543 Tatsuya Kitani - Scar (TV Size).osz
+2023-12-29 02:31:52 .....      4725909      4725909  1920175 RuLu - Bad End Donuts feat. tug.osz
+2023-12-29 02:31:52 .....      2865786      2865786  1923804 QUEEN BEE - VIOLENCE (TV Size).osz
+2023-12-29 02:31:54 .....      3174672      3174672  1977265 Robin Gan - alone on ChristMATH.osz
+2023-12-29 02:31:54 .....      4471212      4471212  1990381 Jose Feliciano - Feliz Navidad.osz
+2023-12-29 02:31:54 .....      3999494      3999494  2009461 t_pazolite _ Camellia feat. Nanahira - Boku no Yume_ Mecha Kuso Mugen Waki.osz
+2023-12-29 02:32:00 .....     11844347     11844347  2029290 Kotoha - Yuki wa Naniiro.osz
+2023-12-29 02:32:00 .....      8625392      8625392  2032501 D-D-Dice - Seiga Itten (full ver.).osz
+2023-12-29 02:32:02 .....     14627402     14627402  2042726 ONIMAI SISTERS - Himegoto_Crisisters (TV Size).osz
+2023-12-29 02:32:02 .....      8315912      8315912  2051504 Kikuo - Boku o Sonna Me de Minaide.osz
+2023-12-29 02:32:02 .....      4823001      4823001  2073975 Spica - Akogare Challenge Dash__ (TV Size).osz
+2023-12-29 02:32:02 .....      2138916      2138916  2078131 Niko - Night Of Fire (For Christmas Mix) (Cut Ver.).osz
+2023-12-29 02:32:04 .....      8686536      8686536  2081371 HHHxMMxST - Oboro (KTFM Bootleg Remix).osz
+2023-12-29 02:32:04 .....     10662566     10662566  2087076 midijunki - Bau Bau Battle-Rap Breakbeats 4 Breakfast.osz
+2023-12-29 02:32:10 .....     38610034     38610034  2093123 Majestica - Ghost Of Christmas Past.osz
+2023-12-29 02:32:10 .....      2816441      2816441  2094341 Kito Akari - Magie x Magie (TV Size).osz
+2023-12-29 02:32:10 .....      7443348      7443348  2094723 Plasmagica - SNOW LETTER.osz
+2023-12-29 02:32:12 .....      5207839      5207839  2103083 Hayase Yuuka (CV_ Haruka Ran)_ Ushio Noa (CV_ Suzushiro Sayumi) - Jingle Bells.osz
+------------------- ----- ------------ ------------  ------------------------
+2023-12-29 02:32:12          163410668    163410668  20 files
+
+Listing archive: ST258 - osu!taiko Beatmap Pack #258.zip
+
+--
+Path = ST258 - osu!taiko Beatmap Pack #258.zip
+Type = zip
+Physical Size = 175591564
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2024-01-09 22:13:24 .....      6432006      6432006  1747678 Yousei Teikoku - Kami_ Nozomu Sekai to Hakoniwa Gensou.osz
+2024-01-09 22:13:26 .....      2779040      2779040  1921279 HOYO-MiX - Adroit Deputy.osz
+2024-01-09 22:13:26 .....      6692627      6692627  1933820 Suzuki Konomi - Zenbu Kimi ga Ita kara Shittanda.osz
+2024-01-09 22:13:26 .....      3580660      3580660  1948960 ItaloBrothers - Summer (Nightcore Mix).osz
+2024-01-09 22:13:26 .....      3717883      3717883  1971951 James Landino - Shiba Paradise.osz
+2024-01-09 22:13:28 .....     11530162     11530162  1972752 balloon - Hana ni Kaze.osz
+2024-01-09 22:13:32 .....      3934107      3934107  1984492 DJ Mii-ko _ Kazmasa - TSF in Japan_.osz
+2024-01-09 22:13:34 .....     17555068     17555068  1990588 Sydosys as _[LS]Ham_ - Apollyon.osz
+2024-01-09 22:13:34 .....      9284559      9284559  1996407 Altermis - Chronaria.osz
+2024-01-09 22:13:34 .....      8694563      8694563  2006235 katagiri - Kyuukou.osz
+2024-01-09 22:13:34 .....      8910438      8910438  2009925 LeaF - Calamity Fortune (extended ver.).osz
+2024-01-09 22:13:36 .....      2422580      2422580  2031107 May_n - LIES GOES ON (TV Size).osz
+2024-01-09 22:13:36 .....      5997707      5997707  2073402 League of Legends - GODS feat. NewJeans.osz
+2024-01-09 22:13:36 .....      5533800      5533800  2079176 100 gecs - sympathy 4 the grinch.osz
+2024-01-09 22:13:42 .....      7774085      7774085  2085657 Kugimiya Rie_ Horie Yui_ Kitamura Eri - Orange.osz
+2024-01-09 22:13:42 .....      6030439      6030439  2096850 Various Artists - Light Year Song.osz
+2024-01-09 22:13:44 .....     27574127     27574127  2097800 Tsukuyomi - Hana to Chiru.osz
+2024-01-09 22:13:44 .....     23715416     23715416  2097877 Tsukuyomi - Yume to Shiriseba.osz
+2024-01-09 22:13:44 .....     10878927     10878927  2101810 Camellia - Qyoh (Nine Stars).osz
+2024-01-09 22:13:46 .....      2550046      2550046  2109907 Redside - Sidequest (Cut Ver.).osz
+------------------- ----- ------------ ------------  ------------------------
+2024-01-09 22:13:46          175588240    175588240  20 files
+
+Listing archive: ST259 - osu!taiko Beatmap Pack #259.zip
+
+--
+Path = ST259 - osu!taiko Beatmap Pack #259.zip
+Type = zip
+Physical Size = 156035635
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2024-01-15 01:13:36 .....      8681953      8681953  1721490 _Yurizono_ - _Light Year Song_.osz
+2024-01-15 01:13:38 .....     23553814     23553814  1804188 Chogakusei - Kemono ni Naritai_.osz
+2024-01-15 01:13:38 .....      6856904      6856904  1810031 San Holo - voices in my head (feat. The Nicholas).osz
+2024-01-15 01:13:40 .....      1031781      1031781  1922042 billy - daria lipa.osz
+2024-01-15 01:13:40 .....      2463959      2463959  1973329 gingus - hit the quan.osz
+2024-01-15 01:13:40 .....      5284514      5284514  1976687 Ayase Rie - Hijitsuzaikei Joshitachi wa Dou Surya Ii Desu ka_.osz
+2024-01-15 01:13:40 .....      9867262      9867262  2027949 KORDHELL x DRAGON BOYS - VUK VUK.osz
+2024-01-15 01:13:42 .....      5676403      5676403  2033808 sekai - BUG.osz
+2024-01-15 01:13:42 .....     11630216     11630216  2034706 Camellia _ DJ Genki - Feelin Sky.osz
+2024-01-15 01:13:46 .....      2683863      2683863  2043541 Eri Sasaki - Last Diary.osz
+2024-01-15 01:13:46 .....     12135704     12135704  2053486 Oranges _ Lemons - Soramimi Cake (TV Size).osz
+2024-01-15 01:13:46 .....      1887554      1887554  2054980 spellcasting - heaven in autumn.osz
+2024-01-15 01:13:48 .....      4993198      4993198  2084947 Tachiiri Kinshi - Nothingness.osz
+2024-01-15 01:13:48 .....      7248509      7248509  2085265 Gakugaku - Douse Saki ni Shinundarou_.osz
+2024-01-15 01:13:48 .....      2333873      2333873  2086088 YOASOBI - Shukufuku (TV Size).osz
+2024-01-15 01:13:48 .....      8828536      8828536  2092823 Sakamoto Maaya - Triangler (tamame remix).osz
+2024-01-15 01:13:54 .....      8768552      8768552  2093732 Broken By The Scream - Raika Raika.osz
+2024-01-15 01:13:54 .....     12127784     12127784  2096568 Sati Akura - GATE _Sore wa Akatsuki no You ni_ (TV Size).osz
+2024-01-15 01:13:54 .....     11301573     11301573  2097295 Maharajan - Kurae_ Telepathy (TV Size).osz
+2024-01-15 01:13:56 .....      8676305      8676305  2106403 Aquestion - The Intertwined Stars.osz
+------------------- ----- ------------ ------------  ------------------------
+2024-01-15 01:13:56          156032257    156032257  20 files
