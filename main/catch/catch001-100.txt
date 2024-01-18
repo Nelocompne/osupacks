@@ -3223,3 +3223,131 @@ Physical Size = 143312004
 2023-10-13 00:04:10 .....      2339807      2339807  2067239 Hitomi Sato - Route 201 (Day).osz
 ------------------- ----- ------------ ------------  ------------------------
 2023-10-13 00:04:10          143308844    143308844  20 files
+
+Listing archive: SC93 - osu!catch Beatmap Pack #93.zip
+
+--
+Path = SC93 - osu!catch Beatmap Pack #93.zip
+Type = zip
+Physical Size = 180368455
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2023-11-10 02:29:58 .....      8948175      8948175  1432593 TRUE - Storyteller.osz
+2023-11-10 02:29:58 .....      9264911      9264911  1457322 Natsukawa Shiina - Kurakuto Little Pride.osz
+2023-11-10 02:29:58 .....      9236970      9236970  1698626 ReeK - Possesed By The Blood Moon.osz
+2023-11-10 02:30:00 .....     12028202     12028202  1714342 xi - Jackknife.osz
+2023-11-10 02:30:00 .....      9166290      9166290  1774484 Roce - Jishu.osz
+2023-11-10 02:30:00 .....     12271423     12271423  1784352 RoughSketch feat. DD _Nakata_ Metal - Booths of Fighters (Camellia_s _Barrage of Flurries_ Remix).osz
+2023-11-10 02:30:02 .....      7195724      7195724  1799160 K_DA - DRUM GO DUM feat. Aluna_ Wolftyla_ Bekuh BOOM.osz
+2023-11-10 02:30:02 .....      7486016      7486016  1882550 Jason Michael - Clifford_s Theme Song (TV Size).osz
+2023-11-10 02:30:02 .....     10492078     10492078  1923443 DJ Raisei - Delta23.osz
+2023-11-10 02:30:04 .....      9752208      9752208  1938940 Lime - BEYOND.osz
+2023-11-10 02:30:08 .....      6287758      6287758  1964651 ELFENSJoN - Sora ga Ochiru Hi made.osz
+2023-11-10 02:30:10 .....      4275060      4275060  1972973 -45 - Aci-L.osz
+2023-11-10 02:30:10 .....      9446875      9446875  2036447 Ogura Yui - Clear Morning.osz
+2023-11-10 02:30:10 .....     22236727     22236727  2037072 IU - Palette (feat. G-DRAGON).osz
+2023-11-10 02:30:10 .....     12015854     12015854  2040285 Tatsh - IMAGE REBORN -DIVINITY-.osz
+2023-11-10 02:30:12 .....      2887657      2887657  2055228 Jami Lynne - The Elegance of the Mysterious and Distant.osz
+2023-11-10 02:30:12 .....      3260426      3260426  2055608 HOYO-MiX feat. Anthony Lynch - Take the Journey.osz
+2023-11-10 02:30:12 .....      8805214      8805214  2064817 EmoCosine - Black sour Ruby (Extended Smelting).osz
+2023-11-10 02:30:14 .....     14004192     14004192  2069616 Kou_ - sub_zerO.osz
+2023-11-10 02:30:18 .....      1303339      1303339  2071212 Totaka Kazumi - Pumpkin Zone.osz
+------------------- ----- ------------ ------------  ------------------------
+2023-11-10 02:30:18          180365099    180365099  20 files
+
+Listing archive: SC94 - osu!catch Beatmap Pack #94.zip
+
+--
+Path = SC94 - osu!catch Beatmap Pack #94.zip
+Type = zip
+Physical Size = 244399840
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2023-11-25 10:13:04 .....     31402087     31402087  867277 Ito Kashitaro - Hyakka Ryouran.osz
+2023-11-25 10:13:04 .....      6074065      6074065  1009892 Mitsuyoshi Takenobu no Ani - Amphisbaena.osz
+2023-11-25 10:13:06 .....      4027099      4027099  1065704 Chito (CV_ Minase Inori)_ Yuuri (CV_ Kubo Yurika) - More One Night (TV Size).osz
+2023-11-25 10:13:06 .....      3692632      3692632  1395192 sajou no hana - Aoarashi no Ato de (TV Size).osz
+2023-11-25 10:13:06 .....      5326054      5326054  1611083 MYUKKE. - Macropolis.osz
+2023-11-25 10:13:08 .....     25829324     25829324  1618360 BlackY - ULT_MATE END.osz
+2023-11-25 10:13:08 .....     27881210     27881210  1709368 Porter Robinson _ Madeon - Shelter.osz
+2023-11-25 10:13:10 .....     18565413     18565413  1867212 Rish feat. Choko - Waaa.osz
+2023-11-25 10:13:10 .....     11181631     11181631  1933127 AVTechNO_ x Treow feat. Megurine Luka - DYE_Re_flection_.osz
+2023-11-25 10:13:12 .....     12550187     12550187  1964805 Sad Keyboard Guy_ Myntian _ Sleepless - Chroma__Surge.osz
+2023-11-25 10:13:12 .....     13027791     13027791  1970965 Winterhorde - Worms of Soul.osz
+2023-11-25 10:13:12 .....      6939221      6939221  2017836 uma vs. Morimori Atsushi - Re_ End of a Dream (long ver.).osz
+2023-11-25 10:13:12 .....     11969690     11969690  2038527 Oreore-Usagi - Drain ReD rain.osz
+2023-11-25 10:13:14 .....     11505420     11505420  2046177 Koan Sound x Culprate x Reso x Asa - Cascade.osz
+2023-11-25 10:13:18 .....      5380575      5380575  2051065 Nightmargin (Casey Gu) and Michael Shirt - Niko_s theme.osz
+2023-11-25 10:13:20 .....      9468419      9468419  2054394 CustomiZ - COOLEST (TV Size).osz
+2023-11-25 10:13:20 .....     22327181     22327181  2055747 kanemiko - comet casting capsule (_catching celestial clusters_ Long Version).osz
+2023-11-25 10:13:20 .....      5348004      5348004  2055824 Go_A - SHUM.osz
+2023-11-25 10:13:22 .....      7187515      7187515  2056790 yuiko - GLORIOUS DAYS.osz
+2023-11-25 10:13:22 .....      4712760      4712760  2070803 Ado - Kura Kura (TV Size).osz
+------------------- ----- ------------ ------------  ------------------------
+2023-11-25 10:13:22          244396278    244396278  20 files
+
+Listing archive: SC95 - osu!catch Beatmap Pack #95.zip
+
+--
+Path = SC95 - osu!catch Beatmap Pack #95.zip
+Type = zip
+Physical Size = 174033076
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2023-12-18 03:25:06 .....      8782466      8782466  1418431 hololive IDOL PROJECT - BLUE CLAPPER.osz
+2023-12-18 03:25:06 .....      7294695      7294695  1550933 xi - Mjolnir.osz
+2023-12-18 03:25:06 .....      6328690      6328690  1704256 Kobaryo - Cartoon Candy.osz
+2023-12-18 03:25:08 .....     16653888     16653888  1772603 Yakushimaru Etsuko Metro Orchestra - Nornir.osz
+2023-12-18 03:25:08 .....      5647380      5647380  1835637 _Shikkoku_ no Datenshi _Gram_ vs. _Seikoku_ no Shitenshi _Gram_ - eden.osz
+2023-12-18 03:25:08 .....     17309968     17309968  1888470 Houshou Marine - Marine Shukkou__.osz
+2023-12-18 03:25:10 .....      8403414      8403414  1950547 Camellia feat. Ninomae Ina_nis - Drenched in Air.osz
+2023-12-18 03:25:10 .....      3880991      3880991  1958537 saradisk - Natsuiro Present o BPM180 ni Shitemita.osz
+2023-12-18 03:25:10 .....      7761890      7761890  1976454 kessoku band - Nani ga Warui.osz
+2023-12-18 03:25:12 .....      6175615      6175615  1992659 Mili - Rubber Human.osz
+2023-12-18 03:25:16 .....      4605464      4605464  2015739 Marmalade butcher - Noxious.osz
+2023-12-18 03:25:18 .....      3719710      3719710  2020349 B-Komachi - Sign wa B -New Arrange Ver.- (TV Size).osz
+2023-12-18 03:25:18 .....      7691793      7691793  2031302 YUC_e - Sugary Galaxy.osz
+2023-12-18 03:25:20 .....     31556161     31556161  2033493 Kazui (CV_ Ryota Takeuchi) - Cat.osz
+2023-12-18 03:25:20 .....      9639757      9639757  2055714 Houshou Marine with Holoism Fantasy - Hoihoi_Gensou Holoism.osz
+2023-12-18 03:25:20 .....      4999386      4999386  2057075 Ardolf - Bloodmoon.osz
+2023-12-18 03:25:20 .....      7832915      7832915  2066347 Tsuzuri - NAME.osz
+2023-12-18 03:25:22 .....      7026423      7026423  2076393 SOOOO - iiillluuuvvvUUU.osz
+2023-12-18 03:25:22 .....      2474076      2474076  2090773 Gooseworx - Your New Home (TV Size).osz
+2023-12-18 03:25:26 .....      6245066      6245066  2096026 Knife - Story.osz
+------------------- ----- ------------ ------------  ------------------------
+2023-12-18 03:25:26          174029748    174029748  20 files
+
+Listing archive: SC96 - osu!catch Beatmap Pack #96.zip
+
+--
+Path = SC96 - osu!catch Beatmap Pack #96.zip
+Type = zip
+Physical Size = 145646015
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2024-01-05 00:21:52 .....      6126186      6126186  1276220 Toa feat. Hatsune Miku - Patchwork Staccato.osz
+2024-01-05 00:21:52 .....      9842995      9842995  1485606 DJ Sharpnel - WE LUV LAMA.osz
+2024-01-05 00:21:52 .....      4160774      4160774  1606633 Sasaki Sayaka - Kiss no Hitotsu de (Short Ver.).osz
+2024-01-05 00:21:54 .....      7637443      7637443  1609250 zts - worldenddominator.osz
+2024-01-05 00:21:54 .....      2673883      2673883  1713866 Takamori Natsumi_ Sendai Eri_ Asakawa Yuu_ Tanezaki Atsumi - Ne_ Ko_ (TV Size).osz
+2024-01-05 00:21:54 .....     12407991     12407991  1779891 smert_ v letnyuyu polnoch_ - nepredskazuyemost_.osz
+2024-01-05 00:21:54 .....      3341269      3341269  1820815 FLOW - Kaze no Uta (TV Size).osz
+2024-01-05 00:21:54 .....      2018839      2018839  1896678 binmode - Kyu-kulagtrain.osz
+2024-01-05 00:22:00 .....      1364356      1364356  1912920 musicos Cinicos - el Siiii de CR7 pero es navideno.osz
+2024-01-05 00:22:00 .....      2948053      2948053  1985133 FLOW - COLORS (TV Size).osz
+2024-01-05 00:22:02 .....     10289427     10289427  2048353 Laur - Sound Chimera.osz
+2024-01-05 00:22:02 .....      1896901      1896901  2072149 Asahi Atsuko _ Kataoka Manaka - Christmas.osz
+2024-01-05 00:22:02 .....      9075233      9075233  2077934 Kawada Mami - Serment.osz
+2024-01-05 00:22:02 .....      5006594      5006594  2078279 Akie - Ama no Jaku Piano ver..osz
+2024-01-05 00:22:02 .....      6953426      6953426  2085527 MisoilePunch -Forever- - Bloomin_.osz
+2024-01-05 00:22:08 .....      6881059      6881059  2088568 HAG - Koe.osz
+2024-01-05 00:22:08 .....     12633898     12633898  2096801 Culprate - Relucent feat. ZES.osz
+2024-01-05 00:22:10 .....     19089848     19089848  2097026 seatrus - permitted.osz
+2024-01-05 00:22:10 .....     14868983     14868983  2097061 Camellia - CICADA3302.osz
+2024-01-05 00:22:10 .....      6425575      6425575  2102544 Nouns - dumped _ way.osz
+------------------- ----- ------------ ------------  ------------------------
+2024-01-05 00:22:10          145642733    145642733  20 files
