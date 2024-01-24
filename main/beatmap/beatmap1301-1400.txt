@@ -2428,3 +2428,163 @@ Physical Size = 162281094
 2024-01-07 07:27:24 .....      7052508      7052508  2107618 FELT - Prayer Blue.osz
 ------------------- ----- ------------ ------------  ------------------------
 2024-01-07 07:27:24          162277424    162277424  20 files
+
+Listing archive: S1377 - osu! Beatmap Pack #1377.zip
+
+--
+Path = S1377 - osu! Beatmap Pack #1377.zip
+Type = zip
+Physical Size = 201123036
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2024-01-10 00:25:56 .....      9839327      9839327  1439626 capsule - idol fancy.osz
+2024-01-10 00:25:58 .....      7922864      7922864  1635823 ClariS - Careless.osz
+2024-01-10 00:25:58 .....     17041037     17041037  1799253 CHiCO with HoneyWorks - Himitsu Koigokoro (TV Size).osz
+2024-01-10 00:26:00 .....      3903677      3903677  1809033 Hommarju - HYENA.osz
+2024-01-10 00:26:00 .....      8293711      8293711  1902951 Hatena - Koe_.osz
+2024-01-10 00:26:00 .....      4087625      4087625  1958773 Nekomata Master_ - squall.osz
+2024-01-10 00:26:00 .....      9125360      9125360  1963004 hitorie - NONSENSE.osz
+2024-01-10 00:26:02 .....     10998625     10998625  1986074 YOASOBI - Seventeen.osz
+2024-01-10 00:26:02 .....      5420284      5420284  1988616 Sleeping Pola - kuuchuubunkai.osz
+2024-01-10 00:26:02 .....      6674576      6674576  1999914 A-One feat. Shihori - Magic Girl __.osz
+2024-01-10 00:26:08 .....      3305047      3305047  2004898 Takayan - Teacher addiction.osz
+2024-01-10 00:26:08 .....     38569713     38569713  2063328 Susumu Hirasawa - BEACON.osz
+2024-01-10 00:26:10 .....     19031064     19031064  2064221 Lily - Mistletoe _Kamigami no Yadorigi_ Daini Gakushou _Tensei no Yadorigi_.osz
+2024-01-10 00:26:10 .....      4211142      4211142  2076400 Ito Miku - Ten to Sen (TV Size).osz
+2024-01-10 00:26:10 .....      3923979      3923979  2086459 jun - KIMONO _3 PRINCESS.osz
+2024-01-10 00:26:12 .....      7308598      7308598  2089550 kous - Sumire no Ehon (siinamota yoiko no nurie Remix).osz
+2024-01-10 00:26:12 .....     13895423     13895423  2091166 Horie Yui - silky heart (TV Size).osz
+2024-01-10 00:26:12 .....      8489472      8489472  2098610 yanaginagi - Aqua Terrarium.osz
+2024-01-10 00:26:14 .....     15623031     15623031  2106268 Fujifabric - PLANETARIA (TV Size).osz
+2024-01-10 00:26:14 .....      3455257      3455257  2107946 ONE OK ROCK - 20_20 (Cut Ver.).osz
+------------------- ----- ------------ ------------  ------------------------
+2024-01-10 00:26:14          201119812    201119812  20 files
+
+Listing archive: S1378 - osu! Beatmap Pack #1378.zip
+
+--
+Path = S1378 - osu! Beatmap Pack #1378.zip
+Type = zip
+Physical Size = 210245195
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2024-01-14 01:57:20 .....      7283118      7283118  497378 Children Of Bodom - Trashed_ Lost _ Strungout.osz
+2024-01-14 01:57:20 .....      9670532      9670532  1312103 LiSA - Thrill_ Risk_ Heartless.osz
+2024-01-14 01:57:20 .....      3502137      3502137  1540170 Camellia - Xeroa.osz
+2024-01-14 01:57:20 .....     17684086     17684086  1662608 Argonavis - Hoshi ga Hajimaru (TV Size).osz
+2024-01-14 01:57:22 .....      5210426      5210426  1818626 TUYU - Shuuten no Saki ga Aru to Suru naraba..osz
+2024-01-14 01:57:22 .....      5691858      5691858  1889095 Raimukun - Myths Orbis.osz
+2024-01-14 01:57:22 .....     14082915     14082915  1900598 Hatsunetsumiko_s - Flower of Life.osz
+2024-01-14 01:57:22 .....      4101350      4101350  1930360 coltrane - zeke didn_t _invent dariacore__ i did.osz
+2024-01-14 01:57:28 .....      6218781      6218781  1945410 Viceroy - She_s Taken By The Devil.osz
+2024-01-14 01:57:28 .....     17902280     17902280  2014862 Mental Cruelty - A Tale Of Salt And Light.osz
+2024-01-14 01:57:30 .....     11630216     11630216  2034706 Camellia _ DJ Genki - Feelin Sky.osz
+2024-01-14 01:57:30 .....     28316758     28316758  2037388 Grabbitz _ bbno_ - Ticking Away.osz
+2024-01-14 01:57:30 .....     17394942     17394942  2046328 mimimemeMIMI - CANDY MAGIC (TV Size).osz
+2024-01-14 01:57:30 .....      7491468      7491468  2048346 Vivid BAD SQUAD - Aun no Beats.osz
+2024-01-14 01:57:32 .....     17065155     17065155  2084016 Endorfin. - Fatalism.osz
+2024-01-14 01:57:32 .....      8150640      8150640  2097481 Mameyudoufu - Wave feat. Aitsuki Nakuru.osz
+2024-01-14 01:57:38 .....     10061739     10061739  2099816 KOAN Sound _ Asa - Tetsuo_s Redemption.osz
+2024-01-14 01:57:38 .....      4023152      4023152  2101141 .new label - run dev -- -u.osz
+2024-01-14 01:57:38 .....      6334752      6334752  2104916 Ayane - Kaikou no Phetaritette.osz
+2024-01-14 01:57:40 .....      8425454      8425454  2112047 Dance Gavin Dance - Untitled _ And I Told Them I Invented Times New Roman.osz
+------------------- ----- ------------ ------------  ------------------------
+2024-01-14 01:57:40          210241759    210241759  20 files
+
+Listing archive: S1379 - osu! Beatmap Pack #1379.zip
+
+--
+Path = S1379 - osu! Beatmap Pack #1379.zip
+Type = zip
+Physical Size = 205915668
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2024-01-18 01:07:42 .....      7329765      7329765  1867650 Oohashi Takuya (from Sukima Switch) - Katamari on the Wings.osz
+2024-01-18 01:07:42 .....     11418530     11418530  1902907 xi - Longinus.osz
+2024-01-18 01:07:42 .....     22658395     22658395  1928478 DECO_27 x PinocchioP - (Not) A Devil feat. Hatsune Miku.osz
+2024-01-18 01:07:44 .....     23952086     23952086  1929270 EastNewSound - Nijiiro Kekkai_ Gekkyou no Goku.osz
+2024-01-18 01:07:44 .....      6040186      6040186  2001204 Lolita - ORIYENTATSIYA SEVER.osz
+2024-01-18 01:07:46 .....      4322763      4322763  2058747 -45 - Corpse no Kokoro.osz
+2024-01-18 01:07:46 .....      7771186      7771186  2058976 Iyowa feat. Adachi Rei - Heat abnormal.osz
+2024-01-18 01:07:46 .....      3842564      3842564  2075192 Yamazaki Moe - Kataomoi no Melody o (Short Ver.).osz
+2024-01-18 01:07:48 .....     33604868     33604868  2077229 Ado - Show.osz
+2024-01-18 01:07:48 .....      7656980      7656980  2089375 you feat. nayuta - Color (2019 Reworks).osz
+2024-01-18 01:07:50 .....      8624132      8624132  2101474 765 MILLION ALLSTARS - Flyers___.osz
+2024-01-18 01:07:50 .....      1803654      1803654  2102254 Tateishi Takashi - FLASHMAN STAGE.osz
+2024-01-18 01:07:50 .....      8099840      8099840  2103242 Chitose Sara - Arcadia.osz
+2024-01-18 01:07:50 .....       954590       954590  2104327 Apollo - Brazil.osz
+2024-01-18 01:07:56 .....     14464495     14464495  2108981 Yousei Teikoku - Ira.osz
+2024-01-18 01:07:56 .....      5236684      5236684  2109476 Kicco - Shunkan Spline.osz
+2024-01-18 01:07:58 .....      5057680      5057680  2110266 Rui Kamishiro (CV_ Shunichi Toki) - Showtime Ruler.osz
+2024-01-18 01:07:58 .....      6212764      6212764  2110593 Mayumi Morinaga - Glitter (Starving Trancer Remix) feat. Another Infinity.osz
+2024-01-18 01:07:58 .....      8115663      8115663  2112357 Inori Minase - Korekaramo..osz
+2024-01-18 01:08:00 .....     18745467     18745467  2114912 Yorushika - Haru (TV Size).osz
+------------------- ----- ------------ ------------  ------------------------
+2024-01-18 01:08:00          205912292    205912292  20 files
+
+Listing archive: S1380 - osu! Beatmap Pack #1380.zip
+
+--
+Path = S1380 - osu! Beatmap Pack #1380.zip
+Type = zip
+Physical Size = 234764406
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2024-01-22 02:03:54 .....      7255127      7255127  1005463 Hanatan - Kokoro.osz
+2024-01-22 02:03:56 .....      7566629      7566629  1257547 Liz Triangle - Haiiro.osz
+2024-01-22 02:03:56 .....     15029004     15029004  1469084 Sakamoto Maaya - Gyakkou (Game Ver.).osz
+2024-01-22 02:03:56 .....      2949547      2949547  1851193 Hakushi Hasegawa - Scary Point.osz
+2024-01-22 02:03:56 .....      5373214      5373214  1891236 bye2 - onionfriends2004.osz
+2024-01-22 02:03:58 .....     16997097     16997097  1911312 ONIMAI SISTERS - Himegoto_Crisisters (TV Size).osz
+2024-01-22 02:03:58 .....      9709405      9709405  1912881 syudou - Gambling.osz
+2024-01-22 02:03:58 .....     13461669     13461669  2043540 Kohana Lam - Suu Sentimental (TV Size).osz
+2024-01-22 02:04:00 .....      4722131      4722131  2053305 nano - neophobia (Cut Ver.).osz
+2024-01-22 02:04:04 .....     19529788     19529788  2084942 Yamamoto Mineko - Rinne.osz
+2024-01-22 02:04:06 .....     20604214     20604214  2092342 HOYO-MiX - A Dramatic Irony.osz
+2024-01-22 02:04:06 .....      6950636      6950636  2092449 Hommarju feat. Latte - masterpiece (Cut Ver.).osz
+2024-01-22 02:04:06 .....     29179614     29179614  2094154 underscores - Uncanny long arms (with Jane Remover).osz
+2024-01-22 02:04:08 .....      6910354      6910354  2094934 F.O.O.L _ Laura Brehm - Waking Up.osz
+2024-01-22 02:04:08 .....      9070769      9070769  2105982 Luna - over the horizon.osz
+2024-01-22 02:04:08 .....      8730139      8730139  2109226 ALI - FAITH feat. Namichie_ GOMESS.osz
+2024-01-22 02:04:08 .....      5929376      5929376  2111134 luvlxckdown - brighteyes.osz
+2024-01-22 02:04:10 .....      8201151      8201151  2112170 Hatanaka Tasuku - Umbrella.osz
+2024-01-22 02:04:10 .....     18640414     18640414  2115089 Yorushika - Haru (TV Size).osz
+2024-01-22 02:04:14 .....     17950910     17950910  2115769 Atarayo - _Boku wa..._ (TV Size).osz
+------------------- ----- ------------ ------------  ------------------------
+2024-01-22 02:04:14          234761188    234761188  20 files
+
+Listing archive: S1381 - osu! Beatmap Pack #1381.zip
+
+--
+Path = S1381 - osu! Beatmap Pack #1381.zip
+Type = zip
+Physical Size = 163012166
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2024-01-24 03:42:46 .....      8012593      8012593  1809920 angela - KIZUNA.osz
+2024-01-24 03:42:46 .....     19614585     19614585  1853618 Aitsuki Nakuru - Meltdown.osz
+2024-01-24 03:42:48 .....      6562821      6562821  1891267 Vaundy - Odoriko.osz
+2024-01-24 03:42:48 .....      8498927      8498927  1934875 SUPER BEAVER - Namae o Yobu yo.osz
+2024-01-24 03:42:48 .....     16868665     16868665  1986582 Nana Mizuki - Vitalization (TV Size).osz
+2024-01-24 03:42:50 .....      7458711      7458711  1989072 PHAZE - Mirai Isho.osz
+2024-01-24 03:42:50 .....      5697297      5697297  2015824 the GazettE - CLEVER MONKEY.osz
+2024-01-24 03:42:50 .....      4429771      4429771  2028694 Daiichi Uchuu Sokudo - SUPERORBITAL (Game Ver.).osz
+2024-01-24 03:42:50 .....      6631729      6631729  2047252 Kendrick Lamar - Die Hard feat. Blxst _ Amanda Reifer.osz
+2024-01-24 03:42:52 .....      5653777      5653777  2049955 Fairlane _ Grant - Hypnotize.osz
+2024-01-24 03:42:56 .....      8754036      8754036  2052686 Kardashev - Glass Phantoms.osz
+2024-01-24 03:42:56 .....      3008500      3008500  2069389 LiSA - dawn (TV Size).osz
+2024-01-24 03:42:56 .....      6392092      6392092  2072797 Soleily - Renatus.osz
+2024-01-24 03:42:58 .....      6795329      6795329  2082778 moff-P - flash back_0217.osz
+2024-01-24 03:42:58 .....      3381924      3381924  2099006 Sako Tomohisa - Getta Banban (TV Size).osz
+2024-01-24 03:43:00 .....     11020379     11020379  2102670 Rameses B - Escape.osz
+2024-01-24 03:43:00 .....      7357481      7357481  2108585 Sakakibara Yui - Tsurugi no Mai.osz
+2024-01-24 03:43:00 .....     15095984     15095984  2116067 Creepy Nuts - Bling-Bang-Bang-Born (TV Size).osz
+2024-01-24 03:43:00 .....      3712289      3712289  2116564 NACHERRY - My dream girls (TV Size).osz
+2024-01-24 03:43:06 .....      8062094      8062094  2117517 Tomato n_ Pine - Nanairo_Namida.osz
+------------------- ----- ------------ ------------  ------------------------
+2024-01-24 03:43:06          163008984    163008984  20 files
