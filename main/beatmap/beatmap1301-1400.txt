@@ -2588,3 +2588,99 @@ Physical Size = 163012166
 2024-01-24 03:43:06 .....      8062094      8062094  2117517 Tomato n_ Pine - Nanairo_Namida.osz
 ------------------- ----- ------------ ------------  ------------------------
 2024-01-24 03:43:06          163008984    163008984  20 files
+
+Listing archive: S1382 - osu! Beatmap Pack #1382.zip
+
+--
+Path = S1382 - osu! Beatmap Pack #1382.zip
+Type = zip
+Physical Size = 189383793
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2024-01-28 00:58:12 .....      8813884      8813884  399495 kradness - Nijuujinkaku Survival (Cut Ver.).osz
+2024-01-28 00:58:12 .....     11791524     11791524  1357330 Yuyoyuppe - Kami no Kotoba.osz
+2024-01-28 00:58:12 .....     21031085     21031085  1658910 nonoc - Relive.osz
+2024-01-28 00:58:14 .....      5688536      5688536  1941054 Miracle Chimpanzee - MARCH.osz
+2024-01-28 00:58:14 .....      3149681      3149681  1949894 Jean Dawson - SICK OF IT_.osz
+2024-01-28 00:58:14 .....      6780726      6780726  1954509 seleP - ELLIE.osz
+2024-01-28 00:58:14 .....      4870095      4870095  1978984 inabakumori - Haru no Sekibaku.osz
+2024-01-28 00:58:16 .....      7899050      7899050  1983598 LiSA - crossing field (DJ A.H._s Remix).osz
+2024-01-28 00:58:16 .....     33426734     33426734  2000691 Isekaijoucho - Kurenazumu Yakusoku.osz
+2024-01-28 00:58:22 .....      7046894      7046894  2031418 beignet - Mint Comet (Cut Ver.).osz
+2024-01-28 00:58:22 .....      4109476      4109476  2076534 Nor - FEEEEVER TIME.osz
+2024-01-28 00:58:22 .....      4619151      4619151  2087515 xaev - his pronouns are they_them.osz
+2024-01-28 00:58:22 .....      8392069      8392069  2088537 Jun Maeda x yanaginagi - Killer Song.osz
+2024-01-28 00:58:24 .....      5846926      5846926  2091775 A.SAKA - KAGUTSUCHI.osz
+2024-01-28 00:58:24 .....     20662193     20662193  2099246 xaev - berdlycore chapter 2 (part two).osz
+2024-01-28 00:58:24 .....      1123360      1123360  2108634 t_pazolite feat. Kabocha - OPENING.osz
+2024-01-28 00:58:26 .....      8278697      8278697  2109544 Yunosuke - Coppelia.osz
+2024-01-28 00:58:30 .....      4186469      4186469  2111538 nano - SABLE (TV Size).osz
+2024-01-28 00:58:30 .....      6630268      6630268  2112715 Mai Kuraki - key to my heart.osz
+2024-01-28 00:58:32 .....     15033783     15033783  2115893 SawanoHiroyuki[nZk]_TOMORROW X TOGETHER - LEveL (TV Size).osz
+------------------- ----- ------------ ------------  ------------------------
+2024-01-28 00:58:32          189380601    189380601  20 files
+
+Listing archive: S1383 - osu! Beatmap Pack #1383.zip
+
+--
+Path = S1383 - osu! Beatmap Pack #1383.zip
+Type = zip
+Physical Size = 159914541
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2024-01-29 00:53:00 .....      4550360      4550360  1569753 Kuki Akumu - Ki ga Kurutta Noise.osz
+2024-01-29 00:53:00 .....      9637307      9637307  1590324 The Caretaker - B2 - An autumnal equinox.osz
+2024-01-29 00:53:00 .....     11744913     11744913  1783775 Au_Ra - Panic Room (Culture Shock Remix).osz
+2024-01-29 00:53:02 .....     17463793     17463793  1872519 Tennoji Rina (CV_ Tanaka Chiemi) - Tsunagaru Connect (TV Size).osz
+2024-01-29 00:53:02 .....     10465813     10465813  1938895 Masayoshi Minoshima feat. Mei Ayakura - Romantic Fall (Tribute DK).osz
+2024-01-29 00:53:02 .....      5314367      5314367  1952479 Good Kid - Faster.osz
+2024-01-29 00:53:02 .....      6138199      6138199  2015098 cadode - Kaika.osz
+2024-01-29 00:53:04 .....      7428838      7428838  2015345 KINEMA106 - THE WORLD ORIGIN.osz
+2024-01-29 00:53:08 .....       804258       804258  2030627 PSY - GENTLEMAN (Goat Remix).osz
+2024-01-29 00:53:08 .....      6813407      6813407  2076051 DJ Earworm - United State Of Pop 2007 (The First USPOP).osz
+2024-01-29 00:53:10 .....     14892027     14892027  2078340 Ryokuoushoku Shakai - Hana ni Natte (TV Size).osz
+2024-01-29 00:53:10 .....      8610544      8610544  2093285 Rita - Winter Diamond.osz
+2024-01-29 00:53:10 .....     17052517     17052517  2113813 Se-fukubu - Sweet Sweet True Love.osz
+2024-01-29 00:53:12 .....     10385243     10385243  2116763 Donna Burke - HEAVENS DIVIDE.osz
+2024-01-29 00:53:12 .....      8550346      8550346  2118494 Mitsunori Ikeda - Fallen Angel feat. Aimee B.osz
+2024-01-29 00:53:14 .....      1997366      1997366  2120553 in love with a ghost - cute and soft.osz
+2024-01-29 00:53:14 .....      4946468      4946468  2121084 SWORD OF JUSTICE - Happy Birthday to You.osz
+2024-01-29 00:53:14 .....      5487984      5487984  2121125 P4koo - Believe (feat. Tsuyuri Karin).osz
+2024-01-29 00:53:20 .....      2099836      2099836  2121497 Trial _ Error - MYxFLAVORxDAYS_ feat. GUMI (Short Ver.).osz
+2024-01-29 00:53:20 .....      5527449      5527449  2121604 Tanchiky - Revolution.osz
+------------------- ----- ------------ ------------  ------------------------
+2024-01-29 00:53:20          159911035    159911035  20 files
+
+Listing archive: S1384 - osu! Beatmap Pack #1384.zip
+
+--
+Path = S1384 - osu! Beatmap Pack #1384.zip
+Type = zip
+Physical Size = 207197372
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2024-01-31 00:02:42 .....      9953816      9953816  99076 KOTOKO - LOVE A RIDDLE.osz
+2024-01-31 00:02:44 .....      6930971      6930971  177154 Sakakibara Yui - Koi no Honoo.osz
+2024-01-31 00:02:44 .....      5853619      5853619  322061 Kajiura Yuki - Sis puella magica_.osz
+2024-01-31 00:02:44 .....      6308601      6308601  1380859 ESTi - Zero Fill Love.osz
+2024-01-31 00:02:46 .....     14915372     14915372  1715288 Rameses B - Mountains (feat. Veela).osz
+2024-01-31 00:02:46 .....      8865156      8865156  1876182 Utsu-P feat. Hatsune Miku _ Kagamine Rin _ GUMI - Kanbanmusume no Warufuzake.osz
+2024-01-31 00:02:46 .....      8306805      8306805  1884920 NIWASHI - Harder Than Diamond.osz
+2024-01-31 00:02:48 .....     33931305     33931305  1944544 hololive ID - Bebas.osz
+2024-01-31 00:02:48 .....      6532198      6532198  2007385 Kojima Megumi - FRUITS CANDY.osz
+2024-01-31 00:02:50 .....      6974918      6974918  2037767 Irina Allegrova - Igrushka.osz
+2024-01-31 00:02:50 .....     18606712     18606712  2078554 Will Stetson - KOALA.osz
+2024-01-31 00:02:52 .....     16406278     16406278  2083205 Ryokuoushoku Shakai - Hana ni Natte (TV Size).osz
+2024-01-31 00:02:52 .....     10765802     10765802  2085644 Hoshimachi Suisei - Andromeda.osz
+2024-01-31 00:02:52 .....      7795302      7795302  2088927 last little while - again.osz
+2024-01-31 00:02:58 .....      3987603      3987603  2111968 Nor - Up to 21C.osz
+2024-01-31 00:03:00 .....     22176060     22176060  2115242 CoCo Lee - Xiang Ni De 365 Tian.osz
+2024-01-31 00:03:00 .....      8137672      8137672  2116675 ELFENSJoN - Hotarubi (REINCARNATE ver).osz
+2024-01-31 00:03:00 .....      4887698      4887698  2121355 DJ Genki - Introduction.osz
+2024-01-31 00:03:02 .....      2981802      2981802  2121373 you - Wake Up.osz
+2024-01-31 00:03:02 .....      2876512      2876512  2121687 Thaehan - Insert Coin.osz
+------------------- ----- ------------ ------------  ------------------------
+2024-01-31 00:03:02          207194202    207194202  20 files
